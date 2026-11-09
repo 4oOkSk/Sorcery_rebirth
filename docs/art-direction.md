@@ -20,4 +20,6 @@ The collection combines GPT image generation with direct adaptations of public a
 
 `tools/extract_sheet.py` accepts a transparent 3×3 sheet and resource names in row-major order. It removes tiny isolated fragments, preserves disconnected parts of a mark and writes 384 px sources. Square faces use approximately 152/192 of the canvas; circular and freeform shapes use approximately 176/192. Shadows remain inside the transparent canvas. Review the results at launcher size on light and dark backgrounds.
 
+Square tiles use one paper outline. Extend the face color through the corners before applying that outline; an existing rounded background must not remain visible inside a second rounded mask. `repair` in `tools/repair_tile_corners.py` corrects this overlap in a 384 px tile with its 304 px face at `(40, 40, 344, 344)`. It changes the corner RGB pixels while retaining the alpha contour, outer shadow and central artwork. Inspect patterned corners individually and update the catalog source hash after an edit.
+
 The build downsamples new source PNGs to 192 px. Original Sorcery PNGs are copied without changing their bytes. Image generation is an artwork authoring step; it is not a build dependency.

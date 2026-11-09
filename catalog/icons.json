@@ -641,12 +641,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "225b5719f22718161c24629e9fff462ad2c67a2a362a9d030aba71b2c6b96595",
+      "source_sha256": "f80b7bd893244923e861efbce8b5033ca79b7f2c49394179a1456b5b4650a409",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -1383,12 +1384,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "cddf87535bb008a40e36c2fcdeabb34e6f9c56e3e5b41c39f8e90f12155ad088",
+      "source_sha256": "8fdafb3aaa77bbd35fb6a971e7c5c4d135b938f58aecf75bd0edeaf7665e4902",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -1414,12 +1416,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5ed41134609d5b4a1844b032b4c224b2316b408d3561ba046073604ed08adc77",
+      "source_sha256": "f39f053040f1a5b3407ef3189b28242551af386ea58e4060a6c235f6334aef23",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3738,11 +3741,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "047e8e6ea5f1c7d50c3e28dd1f3c3cb33956fadf0c7e4463c58554d10fb3ec88",
+      "source_sha256": "56da67401597a513d83c303c34389249be3965a61d9070bf13a2edb352afe6ec",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3771,11 +3775,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "93975a8e44e11b83304a6f88d0b7db1d1106b0ae11c70d7277880ef6256434af",
+      "source_sha256": "c7b412d1b8a45fa30cbd2afb7cab34055bfe0034705d56effa128f647cccaa36",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3800,11 +3805,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "334707191579fccbc4b5ff5e5fd1d5aac1e9398877a22604c660c97f34edbe93",
+      "source_sha256": "f5a954e3b363637204ed9eefc71b3b6eb9bfe50d07b9bb3ea8516fe131039be2",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3829,11 +3835,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "601b852ee810ca23189b028097adb53c9a8dce1509c3e3585248be69cf922858",
+      "source_sha256": "00355c3b3c5d818a57f48eb6c73820048066a6f4ad6f93ce720aba968a271a62",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3858,11 +3865,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "9641fa447737e632ee10cfc5125d43399a6e0c364ab3c4a42a438883ac93a0ef",
+      "source_sha256": "8e81ff637c2263ac1e59c349197d047b5e8188ace9d13378cbdeba531fdabcff",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3890,12 +3898,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "73245a1cd5ce51fd0dcfaae47e92c0cadf1534974fe3da90114a5621d91d2975",
+      "source_sha256": "bf47270e5001ad1180535ed6d566a8ef79dcdbcbaed24629191c713e7358090a",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3920,12 +3929,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "49ed190dc0d9b9c2a0b4dfe88f599ad1ac3339dc21170a94bf53c16e1dc2ed41",
+      "source_sha256": "5fbcda1ea2aabb22334f3cb9f03c004682f8e329e1c16878cafdd8f0677b7ba9",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3952,11 +3962,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "0484e4a17eea2440c5e0a649c51bb0cb635f06b1e650992d0263d2694b1cbfde",
+      "source_sha256": "dc75954686d781041cd1886017db33e0a9569102a4d7da60678262ec5f184b2a",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -3982,11 +3993,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "dffd0b907e978653bae0e7796b0433bb2198dd8333db10f9f0ddeac7bb646b16",
+      "source_sha256": "9a3afe38fb7620b95a23e153655ed03072bf66df699c566312775263df5c1de7",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4014,11 +4026,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "653858a023d996eee7f03fc9863541a211401670e688ced5bdd9ab932be4aa2c",
+      "source_sha256": "5f97323e2ffa5662428f32a58ee84ebb5b1b53aea3c8f4af7f1539d4137b0ded",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4043,11 +4056,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "3db2573d1ba1da7440fbc7dcbd22dbb2d85759a36d7f589c5edc0e7b7cc5f0c5",
+      "source_sha256": "4ccd6e776a7d23cc0f32954999c242745304fce8838863494103dc3be10acfb0",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4111,12 +4125,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8eb0e4abc1e1ccbf77ca2bc6b3ca237e4a3cad0af6efad61d509d077c6e98777",
+      "source_sha256": "fd2d87ff753c211c5a3bdfc75bf41421b6aa97fe00aec27bd03519d536106298",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4142,12 +4157,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "925f48d563dc5928fee10ed4397565ecf4866444d24a4b1cb96c88345775bec1",
+      "source_sha256": "a6befb81ec9db1e0f6e4e6dcd20b69d6d9e9e8eb9b0c9f44b3726f690f1661dc",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4174,12 +4190,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1113390a748c3a75668416620e6b94f5328c21f94a7a905d7f02d4adf5895842",
+      "source_sha256": "f027e3d19114c5c900718a07f463167e603160036c13d8f8591134028105cb55",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4205,12 +4222,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3b6f7184b17ddf5cef12d937de1a4bd1c363bea0c2c0e3a06a53bc1aef28a365",
+      "source_sha256": "85a7a5467f28f546dae1914e8f008d536f73342d4951ad14c28ac054b51777a2",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4236,12 +4254,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fd28a9c07043cb69efbcf2d132ccee575b9ed20e9928fceb9d3173f8aef8ce63",
+      "source_sha256": "6906047250f6eb59cd9eb47df08fb233931e143ad29124e30f3058708791bbe0",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4266,12 +4285,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d5eed6c1d463f05dddc11e4ab2b4f3a80973bd8daaf535af1e464d831ea13fe8",
+      "source_sha256": "eef2b75f398d5e3deee4aaabfe3160ed011100d2d54f2f74e121288e5e2e5683",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4296,12 +4316,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b83e1e3574df856e733c4bd085ef88e942393699565cec62574915be42c3686f",
+      "source_sha256": "0f2ce8bee3a185e9d91477ac3e67134012d352c4275a38d6fdd81f33ac9555bb",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4327,12 +4348,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d7f11bee6c236537a96a9f2eccb70739b6331198ae66ccb552cdc474b7ff36d6",
+      "source_sha256": "b55c30033eea384f6e5791e338c2613d518d04bfa4c51dedf0db900dd7678756",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4359,12 +4381,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "571edf2c89d21a5e20afc9fdd8a97c60096755aa88d6d4d51b2060f8103f4ddf",
+      "source_sha256": "1cb3ff5bfabdc0b4c5b180d4816d34fa7a555a1b989181b72de88d3483c97f7d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4389,12 +4412,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e3b316e2d830b16af0ea477ca6431d3676e9d3acbc3fbc85679874d67b75ba70",
+      "source_sha256": "d0022a52f9a3460d3e9830e54fc808c0365126c31c06e2db2ad80ba50f43ccdf",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4419,12 +4443,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e1404fc734c86a593fced6fff21a9fb664e363695dcccc9b13edcba2d55156db",
+      "source_sha256": "d35f68e21a7892076f8449de0d90e0153a3511cb0196de5da8ef5a05ed51bdbd",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4449,12 +4474,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "492bb1903dae8d39d111fcdb178dfd1f84a2c9f4f1116a05e36b7fc6f6924ff6",
+      "source_sha256": "442c88ab7e6a8e99c06e00f264a9cc582398932ed653b890fd00ab5dac632672",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4479,12 +4505,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6fdac68a098a99a2b4acbd69da53f84597061808f7c06292482407342bc2ff77",
+      "source_sha256": "2178c1906d48d9f5e470fb5060677bc7b16762c7ffa213478aecd8b4d861d6ae",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4541,12 +4568,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "59c3b9db8028ba06692ae974ca5e41aba5c92c98375863039e5ba3b9776078aa",
+      "source_sha256": "1ef295f02dd7035832fe09832493a57b3c615892b5622d19166db08d8353078c",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4571,12 +4599,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4a860a96f061ee91072d17adc8011240013bd1312bd6851483e11212249bd492",
+      "source_sha256": "932a54a794622a2f0cac50b3b48e23c8017cb8c586c909d47a9a83f40ca8b2b1",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4633,12 +4662,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "329afd334b46b16e2fafaa86c6f459db8b260dee8c7aaf2e4f41037c20b3ea92",
+      "source_sha256": "bb4cf589631b9a1eef9ebf4e481835e43d40a25369c178121888070e03372099",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4664,12 +4694,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "65313369c49b2bbd7c4d38ed1bdb319fc04d56a8db354ee55714bf171203ad43",
+      "source_sha256": "dc00bd3f111484eab3695efba4ef6ec508dc2b3c6dc3c6f23980d3106b40afc7",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4695,12 +4726,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8449dc47e12378224132510799a89bec2d7b9da228ba78a8e010329846efc94c",
+      "source_sha256": "481d602651576997964cc462e19b719d391a61100d549f8894b9d0a007731363",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4725,12 +4757,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "2db8b132cfe8ff9d64b7ba570f450547926d8c86d1b1ba51792c6d5e6719b073",
+      "source_sha256": "ab2162ea69c8cecfeb30d4153a026bbe555408a073a4b0fafa0b33337d256fdd",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4755,12 +4788,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "766e20254413862c8e669780792d64086c31eea78f13f307498094888a9d54e3",
+      "source_sha256": "5abbfaa02244d7f768a9c1321228a43e59d00414f464b2eab7bd01631f123064",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4785,12 +4819,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6d4dbf9fb3676c5a53d1e54fdf8e54cf4dc7e67f29a00f43fa10e75f1a0cebd2",
+      "source_sha256": "208b6fb67597c1c7ab4a90bfd448e919525d331d3a7daf2433fa41cce03a2d05",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4815,12 +4850,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "992bda4cc9275f153c443ab11564dc385da2892efdbcb5ec3f3c8edd05569da0",
+      "source_sha256": "64e5edccf99c003ae2b96423a53055aa2a94f8bfd137bfff8cfa55ebe88b0028",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4848,12 +4884,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8c222be80743c99bf89387830734f872f8beee2c7d2abd1ba0d8a4a12ebf5f26",
+      "source_sha256": "3053a22ae283a8033cdc45a278b7534ac00807f8620ee14e3b6cc41d1116486e",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4878,12 +4915,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "c3c477586009433813052098fb1eff1c1b3f3edb42890a02e25e794b25ca5026",
+      "source_sha256": "fed12cdada42d60a268211e5f3892b9eadf18aa3b8926be3612a4143c6c833aa",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4908,12 +4946,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9615bf6388294cf2ca927f7579223fa041deadcc0912761c002d2cd0c59fba18",
+      "source_sha256": "5062c963144f405f24455f6ec76a0764cd4a78953ddae527efaa529bd47aab53",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4942,12 +4981,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7fc49d903183351df871c332bfcc1058755ae211b06cc6a7036d361bd94c6655",
+      "source_sha256": "b0883b16407aee19fc48ad1ddc6f18503a6ac25473c08bcaa86f2644d9077ede",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -4972,12 +5012,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "c9511d69241e8a1c9893c68ddbf4215d3844f542f876bebef2435344984330cb",
+      "source_sha256": "431a947e4d9ebb044d1e77be4ed6a16fde20477bd696191763999ce33e30c689",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5005,12 +5046,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "babfad22cf873788943a9ad412e88a668b6a60976852aac3c4292de84610f8b9",
+      "source_sha256": "a773dd5195210bff5899073f8224ad3c52ba373dadef708500d9f0ccb2d108dc",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5136,12 +5178,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "14d1fcb91e830f351333d40a5dd317ed72523a2ff8824f6649535212b6f98e76",
+      "source_sha256": "76b3994a58b915500cd9860f4b54711653335c64a602e3b6af4ee40afeeff023",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5197,12 +5240,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0e530de206e542c51596e7b9a0591b5815e34aa0bd522ad8ec873f512004c2bb",
+      "source_sha256": "5c4c0846472d73c82bffb610e3eabf2bd9e78f0df59bc61d912720a8b3a033b0",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5227,12 +5271,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "53c284e7613abba30056e4cfafd76cd0c8a80ecce19280a806759899dcc2f1c6",
+      "source_sha256": "d2bb8935804176d7dea341b8e9affc7456a4aafeb4670d7073cbc626c98e641a",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5257,12 +5302,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "06186901ef35d6a78081d430bca2c92ad225ed126600dac380398ac0728ddf93",
+      "source_sha256": "6f6bdcf50705473791b061bd695ccf02a862e53be2306b1e95cb4f68f788a38b",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5287,12 +5333,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "faabfc76d520e3ca18ae862412f8754a207719cb766bda1c1b59b58ab8390cf7",
+      "source_sha256": "003a96796fdc92cef50f62e38b628d6bb138f5920ca44b9a0102f3c7d542df23",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5318,12 +5365,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f41106b11f249a2a3963d91d0a28679a6df00e5175a7fd4d29760b7097ee8198",
+      "source_sha256": "27bed8b229d1f69f7fa5e0fc81a1692020cb8212df70037559d50c869cfa65f3",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5382,12 +5430,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3dca3d4ee7ce2b40afd56cec7d729d7592e18f41710db3432b7ad3b4314c70ca",
+      "source_sha256": "afb31a0b2e7f576ae7991c44de0df4770d31b8498d6e4e7dc57ea7adc967a1fc",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5412,12 +5461,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "38d9f74f81b17acc5348abffeddf9b7f3d23e3a2c2fde3a39f8f176dc897e95e",
+      "source_sha256": "233b198db45d15f1db8c1db438b3db41aa28e0936b43e6ce429dee164c72d5b1",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5442,12 +5492,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e03ea087ff7dff214f310e16e90a2760a6652c9a8cd194b606e936b0c745bd04",
+      "source_sha256": "e2e6c608df6f9d413cefe17358aa1d34739f543faf51bd77c8cd308c2072d7de",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5473,12 +5524,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3a5b939e784e8fb5c51ba95ca14054d54e6ea1d207e7061c01b5b30a70617559",
+      "source_sha256": "29d4363a4aeab5d5d1f98248821213d297200f109dba79f06b5a155790818104",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5503,12 +5555,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3772c5b158182db8f0232677d68d3e6819e2cb8f653f5d07007899828c8471c1",
+      "source_sha256": "0970f8820d80d160cbf63e12f2cc4075bcdbe200ae37c5880605d88f991c05a8",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5533,12 +5586,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "38203c83ce7633a4b2f6ffc32fcbbaddfa0c84427b9edd71a7ff85f3dcbc9f3e",
+      "source_sha256": "110b748e92c4eaee8e83f18fd2349c575ae78c0a88b11d2d7b560e1c3aec8a55",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5563,12 +5617,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f1e474b9376835154ab0abf8f6731073af36e6ce7a714127911683199df28045",
+      "source_sha256": "4690e14534120d0e5a2c98a3624ec3921e6e9b5e2c6a9cec07a048891c3ccf9b",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5594,12 +5649,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8eff2e2a3bf58b3f03a1936c2efa3b3c401f18462e7775afd7a26fdfec43815b",
+      "source_sha256": "aa69289e4349f0a195fc66f5cbf2f9b587aa55de0b680d9ed5d40a916ddc2209",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5625,12 +5681,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f22852ecc48813bce2a27432796dffdf6544723833ab791d4e2e97dbf48a6026",
+      "source_sha256": "714f37055395b52e77ffaaf4b9b042967500b574cccfd6581fa1f69badcf7082",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5656,12 +5713,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3cfc2ee58bdb5a1b979ba052e02ffa2d3e47dff65487928bd4d039859738777f",
+      "source_sha256": "425ad0b5581bc7b827e055aca5f1a65dd0034475a3539c4df56c50f489aa3c34",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5687,12 +5745,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "517c94116cecc86c34af8494cb6517cfa489d89b24d34dc5611230b2d7f4f573",
+      "source_sha256": "3fc1b906f5e54aabbe10a939246dd8a9d871b3f5ae143e6728ff78f8bbc715ea",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5720,12 +5779,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1264d646d27bab7cdecc5eb4bbdcc8cb0b1104b99469cbc7619eb8a4a5f1c677",
+      "source_sha256": "d3c332c739238db0074e70c57f169183a79f9adb697fce986f5153c633062e1a",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5785,11 +5845,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "8a371789a3361488837bf773ba79defb1e71bbaa927e53b0cfd59d9716bdb4b8",
+      "source_sha256": "6efac679ba6ea276deb992d1b9536718d37ef8d9f298d1796e8ca05f153045dd",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5814,11 +5875,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "fc146afe51e974a6a8699fad2896a6823a7d27086ab22c9ae3aa2a0b3c69d234",
+      "source_sha256": "4b61aa8dd6c7770c7cbf820fa28573b77d4a73d533dd137fdfd3e7069b127262",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5844,11 +5906,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "5e7c69e8997fdaf1daf316588b194d2142c0526ad6f87962d0d95729a3c7fb9f",
+      "source_sha256": "113a03d0c5e671654e1bf0b075064aa398757fe5ed3836df7e39fec7fec2b1c8",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5873,11 +5936,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "e1ddaf6cd84f2a9e1fa210e4e7d42135c0e944e34f410e105d2e272b0c283778",
+      "source_sha256": "bd85398c3866baf01261b4764f13e06958b3ec0f7a24c16a9462ec5ca0c7aca7",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5902,12 +5966,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9bec04fe4217a7d1cea03978a1b7980672d3b4ef6042cbc441bf1f458469d286",
+      "source_sha256": "20163447cacfa3dc2776e34453240d11efe6751fcffbee6f5b1847963aad71d6",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5936,11 +6001,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "e28fb562bb1cbca56ab2d8ee6ff47bdf74ef76778f354fcab792be2c6cd3385e",
+      "source_sha256": "3284a7f58d0e8d6178ed765c9f1c37405577c8ec0efee0eb147db14b183d07f9",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -5968,11 +6034,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "345c9dffba381f596c235bf0919c67c3812d2fa7f78de4df86a73df0888da24c",
+      "source_sha256": "f49c1d10d1eb4b1ff37eee334cf5be09e9dd410300419788a6a0726177a77a54",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6000,12 +6067,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b74f57b89f9a5ae77d7435085d2a3b5868c0266c6135b584c5f7f097162e7807",
+      "source_sha256": "8e645f1ffb880fa3df59b156e39d405381f50e017c57eb8813c2941da14a754d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6030,12 +6098,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a4f1cd1123c127a2a1b34edff0ba50dcd843fe81a84a2166a43f54ace7e37287",
+      "source_sha256": "2f1038c4940e85d799d6aed87e68121256429f98b3fec7c99e4cd7ec9414c3be",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6060,12 +6129,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3774cf8a801692c43cb1f746f251bdd233166f7cafcb4f2d6d624a22c7e6c578",
+      "source_sha256": "9f0f8cf7cb210064a84487563e7722156164b67351405850b63212451bae8189",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6090,12 +6160,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "70dff8b87c1e49d8d8ac39f6a0c9a4dadd399b01c58e55c0c8e1d6e4c37a36a1",
+      "source_sha256": "10c4b732ac4388189b8bd6b3258a662a7e6da9fd8666b4de1e6b64b8b9785162",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6120,12 +6191,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d0dd909fa75589fdc08b4d84a7a2d1f318557ee4590bf44c6b7c401f887d0356",
+      "source_sha256": "b9a85cb1b5d3769ea449884e14fba0315c3f7474502c54d997e6740d20d2d108",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6150,11 +6222,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "5899a83c4f5cb69f3fb91e3318bbbff8d6db02392f85904df60d0e3b62061d17",
+      "source_sha256": "8603b8070b944ab48ad45225fe6998630c74a734878875d8301d16953c44ce7b",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6179,12 +6252,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "846797a68af4206135b94871034bfa1583879326b06b02ad2726b49b857208a0",
+      "source_sha256": "5d8db39007e8db82c091dab5381cd3869915ff28a1e1c7396648c5da415fb47d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6209,11 +6283,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "b4e892ffc4bf3b60c531c12d96ecc200e964e9b10d35bb30be79ae13e917ba96",
+      "source_sha256": "06a7559b1837a5a199dd42162a460c9afaa82372a087d6234aa38653f9857afa",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6289,12 +6364,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ae615dee25e7126a1ed4eb82c5dede2aeef7f9835c9fbbad85a0c56904a17690",
+      "source_sha256": "79119716b09b170d412264d4fc7619cf87983452dad05f7013ccd910c9b47c2d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6320,11 +6396,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "40f6c02a637426bda6312370951a0d49ffde7ba255ef87f55fc75056b41b3198",
+      "source_sha256": "284343ed2897ade68e6408941fd9f7cfd7e7b72e4ae027e502a8901f5af45fef",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6349,12 +6426,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d7b3c7e8d210e2ec8f5303e69d4e26a51c74b8116aa0ff23471d895512f8d546",
+      "source_sha256": "6222dec692ffdf5ab0a66a90f6270904033071f53725881f18af9a6aba89cc9c",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6382,12 +6460,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7139c43c2b4ce3456ea2be9e2e658373458d309f8200c0a94f36c249c3c248c2",
+      "source_sha256": "84de1027f8d3eaa51338b87eb5850e340869ca35b766c3ddb45aab55dae7b634",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6412,12 +6491,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "77577c8ee947aca0d81dc2e16a5caaf92a54624532857955012607d45d5b941f",
+      "source_sha256": "cf0330e4bf443f998aef15bd8a272fc592bb4e6475e10427e94444f23865b257",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6442,12 +6522,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8c22d7fac280b285204387dbe2bf45d4d30f3b6295dd796f2114cb4d32841307",
+      "source_sha256": "3681fff872e4dafc0ebb601884df1735dfbdff2988223d970e6e63dd7fd7349b",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6472,12 +6553,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0d8e78b183d4b815b1fa5deb6301861c39de7dc6f578a2181d513f8b1a7c310c",
+      "source_sha256": "a30aaeb806b752c0d66e4f3f3d062f7b36a46078e936d65311ef43a5583f637c",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6502,12 +6584,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5d50291b8bf1603d3af156d5eee33230a3d1dba29f700c41016eaa7d092f5dd0",
+      "source_sha256": "7ddedfaffdae49a746a342fc613236d73743522472a5f17e6797b7ab56281005",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6533,12 +6616,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "60161a694bc7cf4029cb4d469c3fa3a781366f2e75fab0189d515d83bdaee71f",
+      "source_sha256": "4d4005f40869eb16bdf36adc73ed68baefe0391a7afb7e85e3cc0284b1042988",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6563,12 +6647,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f9c4dec66a0356f927cbc7ba9088cca25433925d96ef1e4ac915c1858c70f931",
+      "source_sha256": "93b5be5c3ed8a1748251c18881482c29fbadf5c5a4a91dcc97d65b8a3bd97545",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6671,12 +6756,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "76236103d00baffbe3a3070e23706f61cb1b12819f4c1b5fb44c95e7789cbdf5",
+      "source_sha256": "085efa8d78f1ef39840aff35cee41680cdc079764b97b7140d9b0fb1334f4a84",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6701,12 +6787,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9b1a69bf21be1bb4af00ebcb7b5d8bedba8a9f0040b0353597a3632f94405a87",
+      "source_sha256": "9c0da0bc21062b3d1a8dd89bd31846cdc25aa9df15dc58acece083693253d486",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6734,12 +6821,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a046b232233f3992044a834599ceffc9490a626a6c5e5524bd9eb2ad636f7b6e",
+      "source_sha256": "ac332cbbb87116ceb25992fa93c2764f73666c9f3134e1afb194d20ada421451",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6766,12 +6854,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4223958f0292769e61add83d46d14b39d23ced6125cc7557e4c8eddcd15a3219",
+      "source_sha256": "fbc21a740b23f583b87c940610bfd7a7bf074a0a1944508130ceeb76dff82497",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6796,12 +6885,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b09f5558a9ffc7385667366fb1d2fb783855f10ed17bbfadd22a60d11a3165e3",
+      "source_sha256": "b9893988170d85f08ae07b31b9053d54617b88290b79842503c9c1ba91250e46",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6859,12 +6949,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4b6d937190e9427e562dadfb4bf9feff49b273fa748747f7861d3f39cef554ce",
+      "source_sha256": "5105f40e901703a0e83835eb86636028e6a2a8dd0459a5b12a68c8bcd627b390",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6963,12 +7054,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b6506ed20033e54f43b9cb076de2cf23aa3c21e408b524cfc529b62e0d66d04b",
+      "source_sha256": "f95c79e43c90dcded9d87d34f0888887798188f188199ad8f83de9f3e7abf744",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -6993,12 +7085,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "636866873366d6fb9713b8c8347db6e35e98443b484b1be39d31fce27b7af7c7",
+      "source_sha256": "921af4cf725190e8e44eb2ccc5bac1a6aa48b6d5f05b955f644e01f12cc39521",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7025,12 +7118,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "016a5494b9b562b16889d8951a0b97da472cda7f98210d034726a8d59e4e39ec",
+      "source_sha256": "df8679b8ef4b7b9a4ce23fd0586f7d2fdc037686722fe7296286076661c44315",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7056,12 +7150,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "da506d51cb0d3144a1a34e4143f0064f85d7ad20a2465c302d5148dcd8232e56",
+      "source_sha256": "8b4a18abc6aed39243e5f72d273d257b480828685b5b57d4cc89f786dbbde937",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7086,12 +7181,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "38573456db1ecaf20c184341dbab765789fc82b524fa2df02d84655afd010720",
+      "source_sha256": "13fdebb6c94de75847350427a01b340516c3422365ed9b6d378a64847883c317",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7117,12 +7213,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "88a26a50e02df0b55eca47185dee033fe3a876e5e5f9a9ae1c2cec4007e1d096",
+      "source_sha256": "a2ab0c1ad578869b850efac9f8859c8d14b6d4547424f52c8547629b9d8cad51",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7147,12 +7244,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "877b342ce6a18ce5f9594626dee6a37c137632b3f93414e48b777eb65ca6fad3",
+      "source_sha256": "1349f4a32c12f268abb2d6ca4e5ad05c9aef97f7f856cd12aef84dc1d6270f01",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7177,12 +7275,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9ba26f796721c092ee0b33e5421eda00b7904cefe56ef6969980347e7d19d1bd",
+      "source_sha256": "7f74436305f5e9be1ae64209bc9145d744c1957d3732bc003f17f7f94a1f8b3f",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7207,12 +7306,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fde52405e52d84c020013449d25bcd04c443be116f08f4171e67025cfe61805c",
+      "source_sha256": "5de689478c2e040b033d8026b4346296c46c17077763e9f40a27b7b7b8c592a4",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -7482,12 +7582,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3d7c5fe3a282fcc18a2e6875fdffe6103fb813dfacad4634ab6866f158eddf35",
+      "source_sha256": "0f429b48477a1510d7b14929b3f80f73f7344c8a4b8c551c6c7f54b66eb2a6b2",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -12824,12 +12925,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a9640da09db0b9f9aceb93138e92707f3136104a86c396d18c4ba62ca880dd8c",
+      "source_sha256": "cf2a11a8da420f499c1fa60bde80cae60d18082e45effbef64964bcfb56f27bd",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13231,12 +13333,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b66e70e531ddcabffa1d0629d1d31c17475567a109dd6887c986ea7c5c912b35",
+      "source_sha256": "886975a10650694bcc7f676c1d78ef7802f7a0ea57c41161be71207be863f3d6",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13427,12 +13530,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "c52073dd168a6190333b7a2c573c235d8ff94300e5f0b356c472114628cc7ee8",
+      "source_sha256": "242c681ad08837a04288767bd4b6a56ca022d36498219346e5f1f8698361dc3d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13457,12 +13561,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8ecaba80fb68c4aeeba9a1528ce9641ade55cc24e202fbe78da21e5322c2eea3",
+      "source_sha256": "e7f26893ea1e2596e03b931bd6e39306d91897201e4a925c87c562c233928426",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13487,12 +13592,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a23d53dd00f5d93daf79f7a3c727e5a018dc00df460c31b5f6d31928d716120c",
+      "source_sha256": "9b3109015679dafb4715b3c73058aaba67b01828536f58d4eee95a191f9cae09",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13517,12 +13623,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "400c5b6e62a5936981840ac52a0125af86c2f827153abbfb49076cd3b9a17026",
+      "source_sha256": "22b28c5c89ed1903fb0b68d65b12b1d49258a441967f5539289db7ad69cf3161",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13547,12 +13654,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "bea958621848241cbe5388a88fec1bb061173ef122bec1238e1a2a1cc989120a",
+      "source_sha256": "b147a36edf4c9bda35703041d156049321b2e7b7ff9e5ceb0ad9cd18a49fa86c",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13577,12 +13685,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0097a948600e41f4bc2597d0fb69e3ebd50e8163550625d7f7b02d100e2fc5a7",
+      "source_sha256": "74f2c0080e798df9bbe37458263eb6f6935a6df2881e20902d39d665c25c4b04",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13607,12 +13716,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5ccf3d457e1ece80f4f08d7272b37f2aded1fb239227f181ce0ff90e6380bb5f",
+      "source_sha256": "66a0c3b17e808fa6bb95e4da933d80d40ba44c07dc41554d57f32d5adc5a6c26",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13638,12 +13748,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "dae68794b12ed6265fbdba68705226594c053efe18e8448e2556ea202f359fcd",
+      "source_sha256": "5247e2ee8fb0de6716e88729a66c28c7b86176f73499f3d207c04ba24103c5eb",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13668,12 +13779,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "df38082f6677761ccc2ae916d8346321695fdd74c8649a77558b62806339eb26",
+      "source_sha256": "31a935a451fa717e9fc73bd47eccfdd1dad1019beab890a966a81cc02aeed577",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13698,12 +13810,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b1eb756005ff335a465476452294dd4ec59765e5186eb87dae9ff1e5aaf76eb4",
+      "source_sha256": "4f1a349a57c3e097deff35e4a8a4c25aa962f31e722c6f1913d4224a79a0b54e",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13728,12 +13841,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4f32e03aa5e7a519c69f4546a38d97ce1f2057a8e21d6ca1a44ab99728dcfdd3",
+      "source_sha256": "68bf46f2283b0a263f92e53bb38ace821fc468e48534e1e986683ddb0c568718",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13758,12 +13872,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "13c76a9fcc725b7f47f59169453e2f326d9762eb812d4174cc4ecceb8fad8d14",
+      "source_sha256": "459d60c55905dc03698d4ad4cf317ab0c21c1cfeff1f6d21861b0e29888f3341",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13788,12 +13903,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9180d7229fd5cbbcd1eb0e0893260a471f50e0e993b30f51815729e7b943da95",
+      "source_sha256": "58d13e7a757684e69c563737b05146202069faca78c36ba52ea8b1b407e3b61e",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13818,12 +13934,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9b0eb960d373fad4b7dcbf319984de0056094e772763aeb70f38f6432ef9a5e8",
+      "source_sha256": "b2312ee396ac88ee6496d3a429e81deb16058e551018bc7547bb6ec887c83e34",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13848,12 +13965,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0ff250bfa49233a38c3e36a3559bee7ebeb00fb6d27efe168bec4b274ecad02b",
+      "source_sha256": "91f76e3176ff85e5a4975ef0b538f62b540f5624e4431536080742fdd8c0ae82",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13878,12 +13996,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8a971648b147822cdf9d237b4db26823d5367ffa10ac289238b80e296ab1323b",
+      "source_sha256": "8843e4de3ac870f26c0d0f4e452841788b467df8db4d0d1a05deeced1f6d5886",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13908,12 +14027,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "874abb1a2482a5fdec9e2dfca97a4aa09be4dce3275cfc32c747aa09470c21bc",
+      "source_sha256": "27691d3d53739b38a2297e9e636dd07482caa02bae2df7e3e4ac97c591bcc3b0",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13938,12 +14058,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "38b9e42b596670cd38f5264488478742e7113401198f75cfb429f5470a7e5b74",
+      "source_sha256": "76d2fe6044207dfa05c292234fdfa18e2095f9373e01dc0352121a0737836e6e",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13968,12 +14089,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "2c85d13f329f50add9836058de2f8506b899aa745a4438d0bfbab3c60ae32424",
+      "source_sha256": "7bf5eedeb5c01fa20c4f21a91c6c9787940d849aae8c0d1498b26d3b2fa03bf8",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -13998,12 +14120,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1e17de9b19b6da179ba2377ad1cca9b1475eeeee54d14d17ffc2735a7e97d3d3",
+      "source_sha256": "379a173ff320bea1e6126f578ccc1240debedea8f27ebdfaee871abb1fea7c34",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14028,12 +14151,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "c92b14358f6e210dc79c7b813c97afcfe9f3fcf21818cb6e86dac41b47d93bd3",
+      "source_sha256": "cab8a988b4c4180ee35c1aa3156e0b8c4db6406ff120808995f377b75b56f12a",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14058,12 +14182,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5102e82a5dbf148e5e561cf220bc598b6ccc4c8357ee6553aa4e45e35d9fc2e1",
+      "source_sha256": "30e20dc353502bdbcef0a61991ca96efa791c92612173a289b47ab3f62e1f3aa",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14088,12 +14213,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "72aa6e776c18a4e37654142f7b4708d412cac62de53529add16e0b46a68c478f",
+      "source_sha256": "1018458f656d943fd4ab078218ec28cbe5914f3daded7e6dd50ba318e6c269fa",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14118,12 +14244,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "250b3539f6f6e8f11cae8a94c2c02514a3a8106bd4e4c9994422df32ec1f2a20",
+      "source_sha256": "8fc1d2ea0d083b0a00ae277a4ab0999eed861545db607b99be96030b7a380a6f",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14148,12 +14275,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ee58b036e2a8be3b4be3e5952222c89850953af8bbe52f87e66a6ba234b0b745",
+      "source_sha256": "331ad3a602ae6ed99548fe104954d7c6d149e2333a28f8d6ebd5ae5363d49bb2",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14178,12 +14306,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e2df5abc59a8ffd977bfbd615bb0b53811907a74ec32a57344a1f4e27b29ec81",
+      "source_sha256": "dd9db4dd0f297ba4042cfed5061573ac512bf3012a60a7539aa3d78ac432a872",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14208,12 +14337,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "07c76e9e0881e85e8566ddac5cf4193f8dd25d7358525783e1fb7c3330f58f71",
+      "source_sha256": "9c1c2e93af203b6f1ad60be06850979402ebfa0e22e13680bd86fb6b16cb3403",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14238,12 +14368,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fe776212e1d41726dee0a4bcfad0d152322a17002d8f2b2a70f5dfea2cae4650",
+      "source_sha256": "d4ba081b28d7738a4b552abfd6c80427edd549f4f6cac151126664404f2b2d7f",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14268,12 +14399,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7462c3f3c1a2ae28771504f8e22f7b61975ea41ba2a4b39a263a05c7327c943a",
+      "source_sha256": "8670cedcc13e00b7da8046a3568fb27c1c4690bff5ba1397486d8822084f8af2",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14298,12 +14430,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "154b83e27b91a0b327773f4f54606adb332f100417fd91db5f6c973fcd9b9679",
+      "source_sha256": "6ad876c03223d176b5efee51a4993f8dd6cdf55191eef05be39447fec5fd6f59",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14328,12 +14461,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "16794c6ea11726155c73318ea282f9d834609a396a0475828d3993a867ea5b35",
+      "source_sha256": "ebe83a540aea8d3cd52b82d060faaeaf7d1bfe9a4d98c373180502b41a46b25d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14358,12 +14492,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f27814ff66ac83fa5060c0667d0efd1800bcc27d51575c372174276436406845",
+      "source_sha256": "2f07d508876a4404d8ffc97e81cac19923112b130ce5587b1657c77554402847",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14388,12 +14523,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "59e0af8170545e08230682a9e5db7fe08154c0d2500486963041aa8de8735635",
+      "source_sha256": "88e445fdcf37120e5c0eda523b3eea286a665d3f5f75b01aae341bf92e4ae218",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14418,12 +14554,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e319f5d0101434412094b5d7808f9a287fd38b09c171547acad8c16fc9a83885",
+      "source_sha256": "b142fae49add6ee1044a83716270354e8ccb3d223184c0603ffa2952177c1e35",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14448,12 +14585,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "76bf274592d48125e046b91648a147b10bfa3a2390638d26488a62733f9db203",
+      "source_sha256": "0eb51d1cbe64f5df1b30ef96c062ba9f7cd52f6b94a52a6ba95f38c2e630629a",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14478,12 +14616,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9f1a9fa7f0d355f51e56a1ecbe40da16ec65cd68e027617d1c66bad3009eb7b4",
+      "source_sha256": "3e0dc3f7f70d5d36a80410ff57d5397c2490d98b006456556d0f922779462ac5",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14508,12 +14647,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f7661eb19c0a6c08ee46f6b355cf64fb9bb8a006902f3e55b90a40e88e2eb5f0",
+      "source_sha256": "7d90cd92e9469118a628e4d06e8ad9f841eeea06448bb8241eb8c61497e7059f",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14538,12 +14678,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "01c7ed590a563df7c1a4aa08c7768183babdf411584f612ee3ea145f83c7d67e",
+      "source_sha256": "f488d78309837d2dd715064f095895abecf915e9074d6b717ac680a71cbe7a03",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14570,12 +14711,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6270e724596c824d97b25901262f2b9c7042b3272db681e3a10cd27adf89494f",
+      "source_sha256": "91fd447419dec9cbf2b6b1e195053363f2cfc5ccd803ec3f26eec1b1095841a1",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14600,12 +14742,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "31df6132f9bb67265f34e0e69d9af55fc6ce61a9e0b1d018b87e7cd411b6eb85",
+      "source_sha256": "8584acccf4925daa592f5d0d1771eb4e9dcfabed2194fbf7756e1b2526010201",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14630,12 +14773,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "29d009c71a990b96ef8fe7f01e4939ac4cb6f22e7ce556c4ae5a16a2eba00e7c",
+      "source_sha256": "bd4ce6d261cd4219f2a708cc4af840fabde9e0276f0832f157a7219dd63ac4b5",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14660,12 +14804,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "42f88e119c3de993165b4cb87ccc96b059c83bffe11ceb5a7925b64a51a20f23",
+      "source_sha256": "42332906671cd4a5588069d20c3c23c8bc2a199ce9e54283381ec1405867e502",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14690,12 +14835,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "10485943d61f8ac78f0344ff5a02d4405311ba83e314cb62ddc1f0cb53476d43",
+      "source_sha256": "60d2cd03ce6655ed17c188c85e1593d5e3ea5cca9bb59fd12ea2fe5eb3b13e98",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14720,12 +14866,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9b759aa1a9c29de251561a53cde007aba8715a86ab757ce7e02f8ad6f660e261",
+      "source_sha256": "ecb0462a09fd2cce2612f737ec38fd056af32737acf7d6849bc488ed0daa0710",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14750,12 +14897,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d3fd6d2d05daf2df41a36655eca3c534c28f05bf5c4c489877848c2988223ef3",
+      "source_sha256": "f2a7d2d8ac59a97f2dabce33ffe2dc8ba2027811c8efb28fedda8b2acf239c2d",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14780,12 +14928,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1f309177dcb9d88d22c1c42e5b3645317a119886b1ba0a59df05a56622a150c6",
+      "source_sha256": "5e405b231b10691afe295fef42f44455dc1a29e95973f7b2feea699ccabdf55f",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -14811,12 +14960,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d5f929fff288baed43a6b61752fd3f43ebc29867851b2e0bf51217168b3e7556",
+      "source_sha256": "df4361759aa87255fa76a185cf0361f544bdbb2e4e83da2beedaa472521ebd80",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -15134,12 +15284,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7c8d5e18a397405e9aff3ef458b39b8adc427dd6b3334f6344791187352ce572",
+      "source_sha256": "eb8ab0be4e9aae45a527fa0746aae831c5229ab2f9cba92c1059cb10d4988e9c",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -16918,12 +17069,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f490e52c391fbc85173d7fa299aeeb0973e648e7acf4705e6900fd28b602f9a1",
+      "source_sha256": "82b655fed679de54829feb5ebc0d3a34ce6f6c92c00c22228f1b2e7418bc8892",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -16948,12 +17100,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "60f20de068b121790485804b3885e3d6c4bc08312704c8741b87f3409e6e5d19",
+      "source_sha256": "a9cfe049c879cb894f616d4caaa2e5d2022c04c04f7084ebe612f3ad8be7e486",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -19321,12 +19474,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e6995920f65feea72122adc4dd24902e805ba13a22b248c71212528ebcdbaea4",
+      "source_sha256": "b43fbe7af06e61df8d3502ea03db517000a48c2e842130ee97ec096b9ebc7478",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -21905,12 +22059,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8a9e8db79417f643086b63a37f740529d0ce4a8eb8b16d6665731d3264893e79",
+      "source_sha256": "bb79b770966d71477319fc96fd3a52f588fe2613b18f93fa45e1fd03d06a89b4",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23701,7 +23856,8 @@
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23726,11 +23882,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "1337a3f0d4b97e65052fcb63c6741e896372adf680dffc5a7d35b936a3eb8f29",
+      "source_sha256": "48986fe1ed3d2d68f619459255b4848b77084b53c15e5a0f35dcd2f9b191d4f9",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23757,11 +23914,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "2bb9661ad05a1e0bda6b83152640ed520d0b985ca763972f6506eec0c7be3518",
+      "source_sha256": "e5f77a10d2cda9b3b7320339da3db0b279593053e108831869df106e6f2a8400",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23870,11 +24028,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "5f7d15924c899feb90158f47278cf5b177bfede00b5c67075bc915dad1ff54e9",
+      "source_sha256": "5c5f66c2644c0a6855bc6717c7cef807f93fae4c14bd0b0445cb088ca527e899",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23899,11 +24058,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "6f3f9a36b94522dbd4bd3cd498aefd809e2bc8e11a043e403a499f90e580f981",
+      "source_sha256": "2df1e09c01a66c8a54da22591bb0d7aa70ae178afd4b327d8c21479573d42a1b",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23931,11 +24091,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "c681d8e90b3bd057881acb8975758a2084aecefc3dc1d32d496f0778e429e9c8",
+      "source_sha256": "8a420341bc59917840bf5b2c62a2296adf7beec9245c6fc885f7ec4e91903a41",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23962,11 +24123,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "72cc871fd010cafe8f51b677fad977534d41068afb8ddc82ce98fabf93cde0b2",
+      "source_sha256": "fa5db3e35a27b65038843a4283c47d0faf38aa32b9cd706da7a39cb50c83477c",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -23991,11 +24153,12 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "e7f101be031ca945979e2bda0a2a799f9adf2008911bfcae2435bd140b511d41",
+      "source_sha256": "d397472eb660ad36d6c9171ec49534ab81c03e3eb296d0ac7e6f57a5daef152c",
       "source_size": [
         384,
         384
-      ]
+      ],
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
@@ -24975,12 +25138,13 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0924e28ceab1041ab08c3120158ba84108436df945d270785366de32c6a08b3d",
+      "source_sha256": "f373eab5d7d571dc1c594d17716bffb066ba322730a2065dffe4bccb9899fcd1",
       "source_size": [
         384,
         384
       ],
-      "model": "codex/gpt-6.1-sol"
+      "model": "codex/gpt-6.1-sol",
+      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
     }
   },
   {
