@@ -1,0 +1,29 @@
+{
+  "sorcery": {
+    "repository": "https://github.com/sorcererxw/SorceryIconPack",
+    "apk_sha256": "4c7b208ced6d1614c1fe2379953b42f64ff42331d10aea5e0b9b460911e08488",
+    "license": "GPL-2.0",
+    "commit": "e24da8c3edf1df2062c9da4a0b72e7773c67eeae"
+  },
+  "brand_libraries": [
+    "Simple Icons 11.15.0",
+    "Simple Icons 16.37.0"
+  ],
+  "application_identifiers": "https://github.com/LawnchairLauncher/lawnicons/blob/develop/app/assets/appfilter.xml",
+  "identifiers_sha256": "011c94eda44f80d2c2cde82786a4defec013f289f193550a2b0abbe67b91f2a4",
+  "application_identifiers_commit": "45b07fdbc6b5b06e2994cbfa226fcd7d659aeb51",
+  "generation": {
+    "model": "codex/gpt-6.1-sol",
+    "tool": "image_generation",
+    "style": "Original Sorcery",
+    "source_format": "RGBA PNG",
+    "source_size": 384,
+    "packaged_size": 192,
+    "methods": [
+      "GPT image generation",
+      "Public application artwork with Sorcery paper styling",
+      "Original Sorcery artwork"
+    ]
+  },
+  "application_artwork": "Public store listings and upstream projects; source URLs recorded per icon"
+}

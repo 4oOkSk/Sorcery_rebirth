@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<title>Sorcery_rebirth</title>
+<rect x="28" y="32" width="202" height="202" rx="12" fill="#17212a" opacity=".13"/>
+<rect x="27" y="27" width="202" height="202" rx="12" fill="#2e7257"/>
+<path d="m128 54 49 61h-23l39 48h-51v35h-28v-35H63l39-48H79Z" fill="#173f36" opacity=".3" transform="translate(2 4)"/>
+<path d="m128 54 49 61h-23l39 48h-51v35h-28v-35H63l39-48H79Z" fill="#f1e9d4"/>
+<path d="m128 54 49 61h-49Z" fill="#fff9e9"/>
+<path d="m128 115 65 48h-65Z" fill="#dfd6bd"/>
+<path d="M114 163h28v35h-28z" fill="#c7bda1"/>
+</svg>

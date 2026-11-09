@@ -1,0 +1,9 @@
+/.local/
+/build/
+/dist/
+__pycache__/
+*.pyc
+*.jks
+*.keystore
+*.p12
+keystore.properties
