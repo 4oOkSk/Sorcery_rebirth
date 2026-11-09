@@ -126,12 +126,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f4f9d001bb93dc85c10e85de587e65392c149d37264bbd76b0967ecd383d167f",
+      "source_sha256": "db6a96e2e873d4aa4597c6f00cc3504c2f854b6a78e14eead7c34f898ffee1b3",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -235,12 +241,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "11599e17c2c64e4b43f3920ece8f1cf57963cfb1b312ca58c9eb24196a7868c1",
+      "source_sha256": "9a3f37a139cd1b78673d6231ad74b2bc87b9463256fd3cf79ac5a699f511e61f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -675,12 +687,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "70cc2e3836c639c7559b6994374705d512ab88c2ccb001012e817f7adcf5005d",
+      "source_sha256": "7ac2f902f794cc7790695b6174a38207c49063e2484a1023f44537965ff52419",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -779,12 +797,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a99b1ec8f1b73f64c44fe453c8e45801ff1a9eaba33312cb239c3079f3f45058",
+      "source_sha256": "16c3cde75be1e919159b680843c028561a9f994231d46885a6573ff5b671d871",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -812,12 +836,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "bc55d720e265fd80519f686ae6b3f1778307ff797403b021d1c4b5f2267a8b0d",
+      "source_sha256": "7560e9f563540b4804c0b99a7fdc89604bd4fbd2350f71062180e475a66a076d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1047,12 +1077,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "783a2eb584c3f284378c717af081423fc2d9959b7c9ec556ffe658059517d4b9",
+      "source_sha256": "593adf100d894c76d6388701cd24956212142e8e4fbc92c721645292ddf34f2d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1254,12 +1290,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f9e1add80e65e4ccce9e5dacbaa15d93aca7b2bbc6b8354fa7418531501dd918",
+      "source_sha256": "8786e9d4f816511e3d12d245eb50477dd2b6a2a2331c57576cc6a278629cca24",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1353,12 +1395,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "33f9b04d8cdc06e2f9475d0bade6245295863d1629046c89b59ff0b9f942eceb",
+      "source_sha256": "5d9b72325ba1b6714ae1bdb4be7d0310d8012f5a4405e11fe385287420982a73",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1484,12 +1532,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c39b45a12a1046c2d1ff9522ab8751ed28abc67fa1888c3d1cf1c0cfd9ac2328",
+      "source_sha256": "9f108750da766401d0b287bc285d8603a3f7ad869313944f5c97f4833339fd0c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2020,12 +2074,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "7fcf2f2ae3e13c9cf81100a7f1dd08ea174bf10a4b5155342f1734728d88ec2c",
+      "source_sha256": "9873d8d8c55a2554fc9b881ec7a4fc6b9d01c90c5d11e79d371068cefe761ae0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2053,12 +2113,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "b4067bfdc9651bddf4951f520d66e3cf4f1216ae87c14b113693596aea9e4eea",
+      "source_sha256": "b690000ee03b967ba57dd7347f86e7f2685d58e6dc42089172963ac64cca6f08",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2121,12 +2187,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2e55fa7a889c6b676f8553e37ff193e5fe0012a912d3bc7754a64441bd6da1d6",
+      "source_sha256": "c13ef0cc40208976e34f64243dc8afa6b59f499151f89909a4ffd53c0c4ed63d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2544,12 +2616,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "54bf16be67eed3624f871aa89e68c3f75ae5d76c775897a10aa35061e2c3ff7a",
+      "source_sha256": "39b372f4b81aea13146d87e7301a71aa604b2f7e6f6b19f2599998fa420bc9bf",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2716,12 +2794,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a06f5c09f605deb2d7503d9b33425b4578c99b0a8e433edb90e824e6aafbd86f",
+      "source_sha256": "5bf1850195d5bd1ed8b32005810c9f8ac7ca33eb4ace022fdd2a995b34f5fb60",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -2986,12 +3070,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "af0f2cb587bb31653a04e24f43aea756f3dabe5b3f25d77b18df85275a823bcc",
+      "source_sha256": "f5fc361a866aee574b1e9a943f3197ea0563247517df6be6cb4edccb2ca3e0d9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3202,12 +3292,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "3fd2b5ce7214a8f0e6d8d3d9cb86f69cc02fb66b1fc40bd7166760dc21ed92d7",
+      "source_sha256": "6b64e9e026f0f653872ade4cf3b8a6da35b4301160a9a6f21d8354442f7774dd",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3448,12 +3544,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "28f7c80f5d00d6f3e26d0089a9b58ca94343535e61b61e37a5391d125d8f3183",
+      "source_sha256": "0e72a71df3864d59fde0d3e7f2806ccb220da809cb35babbb4a12afabe99a78f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3480,12 +3582,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "83bee0f20f9b8537d2d5a55857037dafeff01d00f5ed62558159df0d428eb97f",
+      "source_sha256": "f05f1d4a1716d33d13f15f8ffc8a715cb720eb3e58d42c5100795a058356410d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3514,12 +3622,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "634c2869e165911e5a3882313a89212b5edc00f4caae35a6181442d049cf7ee3",
+      "source_sha256": "55557dfc4f5bd439e0317edf8157eb970be898c63dc30191d1a4e6b56e15ddfd",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3550,12 +3664,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "07998a58387aa11fcdca4c17c3f9bb2963524c800efa2ccc7e282f977ff28d53",
+      "source_sha256": "c4c5f3e378bf6a66ba81bc422d16330e0d1cfb096df25bd5bcabd88c8583d93a",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3582,12 +3702,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "50ed1675f43cdaee740ff91503b51b7b02b3f854f01795b4773132e008eb38a8",
+      "source_sha256": "288d29341b2f3d1e2a80064d8d247e2d8c33b556528f20da86266558ea6f07ac",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3614,12 +3740,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "5809074b9f9fe998ae0088475e28d82923492b3eb705235c4ce5dd2bce8828de",
+      "source_sha256": "7c118ffa52feca31b07cb94fe162e2af8fa54c94a9d105ecfc12e8a9141adee0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3646,12 +3778,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c48f9e48270fc7751b466f4cef79676f40061ae3f9bef2de9a4b89003603379a",
+      "source_sha256": "5c3a67449fcf7db545983c903c904e7e59f2a5d2cd99eef7050b0f9a6091f215",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3679,12 +3817,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "1782a9193872c58f37580674a0ea0f98c873ad97e980b4623b5e83053753ffd3",
+      "source_sha256": "48e2e6d3fd3ee9bfce42672d3e73f833a27cd7a801a4a1338e0f900841955b1a",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3711,12 +3855,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "cdeff2c61e87be2ad2743605f153a48fa5e43f2521dd45705ea69bf16dc2eb54",
+      "source_sha256": "9788b7062f6d3576da9dfd46a86358dffdc80c06a42e1b088bd3f06a0901043f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4094,12 +4244,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c38454d843ae45f713fb2de0fb8602128c2d5cd3d697c1510cb5d9288b418ef2",
+      "source_sha256": "b1a4ddf71ef715f23d22d15ea2d7abeb92981236971cf19aed0107f68dbe8d14",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5113,12 +5269,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "bd58bf6c9dae13369848784a9e7214c8b1f978d2f0e8d15a915589efa91dc0e4",
+      "source_sha256": "9102e5dbe9a1ee45e65e0f7784cae900aa21b5522f3885c96b6f9ffe36ba36e4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6334,12 +6496,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "15c4436348581a93db240a56300e722f2992a9249e9b53e6546f927b3c2f2c3d",
+      "source_sha256": "b8c2899b2f974105d017ebb4b5ad22a7e4307b6ff4781935a8358c2f8609d6e4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6690,12 +6858,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "fb4d779716a88e2e4f581ba83d3d6bb80702cbf50cd12757c51a2d720ab1219a",
+      "source_sha256": "c0a0a59d3784e37ec2311e78a9a088c9bd3bc07e39802909536803381719dd2f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7339,12 +7513,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "7f20cdd857464936de62a75dc78b2e3aff377d6e7da16f1dcd8b5bf6eb573426",
+      "source_sha256": "53143336b8398983029f992fb34ac6106900650d25c0471fb62da218d32cd939",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7649,12 +7829,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "80a31712a88c74ce42299c5c61b4f34262a2ed7393b03da1d9ffeb543d3c1cfa",
+      "source_sha256": "35b4645e6d82c64c8ca17993ef7e5c74c665a25253622380e0678e3a8becbbe4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7686,12 +7872,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "8af026d44e94bf27a0d4e2d54d37a36e4c49a758e4d228d0bfc97508c24f145a",
+      "source_sha256": "1a92560b63e873b52f14ae0a093628a5ac33b634123a855343f16938a0c14139",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7750,12 +7942,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6ef5060a4b28f064f81e61054c56a8bfc578127168aa05dec41e5dd4edbd5d2f",
+      "source_sha256": "e2f9651e2ed1522b91212c5d6f7159b5f53c29fdd579c4326040ac78c147217e",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7927,12 +8125,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "e2c393d565df2efc94e66a7de67dcaf2a0b110457095431a72f07f0dffd6a372",
+      "source_sha256": "a534e048e404e2fbc70f7b3b7c87eb91c0688d27d748a37918db6f1ed8fca2ac",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8131,12 +8335,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "323c069114a7b35db13ea052ab9d05f920a6a32373bacde90ebce581e6e6358a",
+      "source_sha256": "5240b2bd2f232248df02e1733720569ad6f823915ca31bb8fe24166b09deb8f4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8272,12 +8482,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "ef8f2b6e3e4fda094b81efdb590dcb397e45f1160a5f37e3dc37d465ae92b987",
+      "source_sha256": "4697862f8658a23076323719b6ee25bb55eb672141a098849c9c83c14d1d4fd9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8338,12 +8554,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "783b9a9e7d726bd533cb710edf8ece3052a8a381c7b61cb59a5cb87ac121774f",
+      "source_sha256": "c08c5de56cd0bd4bf28292a5695e78c922743369c0f014953f35b7b651ec35c1",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8371,12 +8593,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a68abd02204a0c221c070eabf29c4e222d88a99275184bbc1bf461026f4fab13",
+      "source_sha256": "87c0a550c38c1cf8b79886292a32cff750b0046175b94f6d511eb9c592c4b3ee",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8442,12 +8670,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "bbfd79cf1e1e803c1c7f2730e9aee9a54d5dcc0406afa52d173e8eff2f6b66c7",
+      "source_sha256": "c330ded43812ca70957c596e2d79bac20568f48fda24acbe7fb670d6e8655dbb",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -8518,12 +8752,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "1fd84ae088c1c39e05335a66e812348f0e7c9d80450aa6cadfb38103216131d2",
+      "source_sha256": "870bb450221bd9d4e69e6876f4ff08de773bdcebd4dc8bd02692bab46ea92a67",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -9021,12 +9261,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "89f1a1c31fbf928dc82e3506fd6c9b54dac228b30aa9257ee39088c7e101fb3a",
+      "source_sha256": "ddf1c1078c8e7c680b4a2af76595cc192c900ee27656dfadd9f887aa64fe0538",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -9326,12 +9572,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "26de6ce6e69403c70c298ca379384987f05c6d218b69dbe4807987d9c5d48663",
+      "source_sha256": "7037b8925ba01fbad117f62fe1170e23a931ce122f3bd0bf30f9222a5b7ae18f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -9696,12 +9948,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "b4fe173360afe55884f0e70a711a5bf3527fedf7c95935a7c21c4ae79879a9d9",
+      "source_sha256": "c88f0748c20acb5a763780c3454ac51238c9971b9d9526379ef68a2a99f31139",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -9819,12 +10077,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d7f7f4d34cb44588fada47131c307e7113128007e03b76ee8b717fa77d2b68f0",
+      "source_sha256": "2d6f4504391368e124e2813824d0029fb435ff20aa042ad51c9bb8b1fcc52d50",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -9885,12 +10149,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "21c3bfbf43bfd2ef28e4268737e8d714283d4aab7a38fcd98eb60087fcbe7696",
+      "source_sha256": "9166537e2ef19990f7acbcb05a0edec48bb7e2786047da409f0236afeee20291",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -10420,12 +10690,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "3adedee8bcaf60652bddf81fb83a0d26805cde22be17420d571b4703eabc293c",
+      "source_sha256": "ba81e11254236d65dc2b362780d980d80bd59063894a6bef56389c38b2b87b7b",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -10487,12 +10763,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "62d1da6361e81c33d0d265c2180be761c017d9039d79adc41454ec448d964e7f",
+      "source_sha256": "38f4ec8bd812a4f0641c9cd280e83995365e967824bf39dde621a2ff6a21fa9d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -11083,12 +11365,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "db1d57a407256d21c3f2c56ad693420509a036a5df52a1f6b23138cdf17e8fd5",
+      "source_sha256": "28c6ca9b421cb1e8f5edd3ec782e2034e339bf7f47f3adc9376e8cac2d360191",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -11746,12 +12034,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "00aa9ff868927e9c827bac05b7e137ae74eb1f985b30c2732a8809bf8efaa99d",
+      "source_sha256": "3dc5c8dd01d97557598d4b421f5f1866a1d281464d5b835d9152295820c9b9a6",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -11855,12 +12149,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2161f24f665e88555a1fdcb3d94146498b9f70a454708f41c210c53b28a0f898",
+      "source_sha256": "64ae1bb07ece3ef907d0a7c82b61057d48eb99b055490a955b3ae96e6f3813df",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12279,12 +12579,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d6f9b2d30ae9b967c14793b9ef0b008c094718f86a41eeab8eec019f9c10267d",
+      "source_sha256": "b39b4024ac88122d81d6f1fe7a3605e49f5fd4944207d33a93856fae8c356e5b",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12357,12 +12663,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a3f7b3dcccecb00af7c1c4649b040459ff1cd5840c1c34ba4c03378aa8cf0fff",
+      "source_sha256": "d5a9e448c3a30f1476ae1464006c5052371229564128dcfaa630fac4d960a0b0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12421,12 +12733,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d1a2a7c9c5d7cf86db58e00f9fed44a5e7122b71e6aebac80b3b74135865b733",
+      "source_sha256": "133457988707531d8af43259d68a66438d6b0b3aff14aa3b893ba35c2696380e",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12519,12 +12837,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c3f0ef9e9c9bb577841c2ec2d59479bc2ad75745843b06febbb3d25c02246560",
+      "source_sha256": "73e3cc9603a901234b112369ac66d97c1179664482934720f4b3161f27cdb115",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12553,12 +12877,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "61d3873f145899b04844dceea8b06883f63677f288b43363083bd62521dc26da",
+      "source_sha256": "e9249e4282d7a4b6874e3852fb569195c966af35b0baf18af7b8ed3629fb2234",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12585,12 +12915,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "7746ea5044e34dc86c56ec6e8c03a9a0c7475ed01384348abaf9f9eddd3bedb6",
+      "source_sha256": "6a0671800f7b5b0071e05be4931bfe2ea192b2e8d7804af51d26ae4ac112ff9c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12617,12 +12953,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6257660616f76e4f217d929ec6809211a5f259ea3e04626b05af1ea6cff346f3",
+      "source_sha256": "abd86061ea9ba16b07058b52327e013dd32ecd9cfdec9ed1efd24c657fe31138",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -12681,12 +13023,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f63c9739dd7067b1de542fea7af35a47477915ea9ce4592bd8bba5686dfe0283",
+      "source_sha256": "c3bb7c52adebe00405816b7f666066321d8d2d1be125b28e499daf653cba66b9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13032,12 +13380,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "31cafb335fd81b604556a3068ca94135b967c738ec709510062c8c28fda80b81",
+      "source_sha256": "8a7b8f79360b2e5fcabc404a5efcd44552cab8ed272e3a80cd698456d757439e",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13098,12 +13452,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "812f0325bfb462f9f0350ca5e416caf654df5f90c661a70cf135e16becae0052",
+      "source_sha256": "719212385ffa7009ad64db8ff8a95d0344fb4c56654bf68dc5269bcbff3a9d13",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13131,12 +13491,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a842ead4832aa42a36844b7b9a66f3ce4286ee58c8f3f2e0b08d10b31be306d7",
+      "source_sha256": "b9664ba2f30fcc398d06577242add52df35424a503a6edc7d9a82349ca111b36",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13163,12 +13529,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6239ba58db7401f86c5fae60e44e7a4446864ccdf558491a8e465b725ea73590",
+      "source_sha256": "133ca7c0a3769b610ca959ac548fcea916460c868a01af532f5aa2507cb05876",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13270,12 +13642,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "bc0791b52daf6fe394224e00260517b3f022175ed8f3a4c25ebc8fe5b63f4bbf",
+      "source_sha256": "09b58fd543a80f19eadc7a0a1192d7007ebdceef5826d69652fddf27d9bb17ac",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13367,12 +13745,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "17d65baf1672d302b7d0625d0e5ff668e558495e62893cdd341279c6fb23d53b",
+      "source_sha256": "d56a24823c69e6da8e3c50c4615f7fc47b229208ecd91bf2e3f090447efd95f6",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13468,12 +13852,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "b802e85df42d49fc1c4d7d37fe3b9dea70d2bccd60a447bc71135fbdea6dd253",
+      "source_sha256": "db935eb681d294aeedb6352bece080408d678806432486b407b9f856326aaa08",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15026,12 +15416,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "fffa6ef23777faf2feff13fcac46161708d7200727d54e89f0dcaf3e0ccc6d47",
+      "source_sha256": "350b01775e0e9239901ebce91248f176f7ee95606769f1add3b3b4bee721b53e",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15062,12 +15458,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c731b43d32d9496403085807950ccd6f1915b1608c06cfb34012f88ac874e547",
+      "source_sha256": "30a7350755bb17f5cade441ca8c0b9e2544709fc27a4159a7a8b415df13ec3f9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15094,12 +15496,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "33dc6fd7989f10da0a2e701d398620ba66b2bb7dd2a4a7e0f76e15175aed4521",
+      "source_sha256": "086828781ae286af029c38245de0c4ae4178b4c2ddcc111f203e9b3975fcd157",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15126,12 +15534,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a75d29d9267f703ff20df5ab956cbad421f73916468256898d52c4e65e4718a6",
+      "source_sha256": "6a9eb58bd6da1e207d3bcaa9456938893a6721be336a54c09fa05aaff48fd6e8",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15190,12 +15604,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2729bdfd3d461ea76af056a1b7cd51fa7c20b81da7c2a31676988646ce2bba21",
+      "source_sha256": "52747577b161da7ade563c0ee41825dad7ede7deab9dc38db12bf64fcce7c0a9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15510,12 +15930,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "5bbefbb0c4f04845d900fc6a1d46ea781ba91e8a7699c4d625e1071a66c893a7",
+      "source_sha256": "0e20ce5a0712b05bf7b241480deb4b8d07ef453d02afcd140941439c58806e41",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15544,12 +15970,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "67e5e4c6d34837d6c0e5ea2ccf956f6fba29fb0a6ce91e1c266f46f01cb91d2a",
+      "source_sha256": "046ded9644fd22b685e70e30362e418930e3472a73964962751993fd3c43d02f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15577,12 +16009,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "0880b4f43822a5d4c384f21a82feea258f3a3bf288c6bff11acd42e5443cdbb5",
+      "source_sha256": "a0f0d319df5c2884c4ff237f783152520ab5c6e430aeb9178cdfab1d7fe860e6",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15752,12 +16190,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "8f119ef214d84fca90465cb7f1862b003644ffe79dca9fc85f0cdd0d9257c483",
+      "source_sha256": "3ebf81634f5fb6d08d92246cbec1749e7f3ec9cced97ffddcab9a9da3963ac18",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15952,12 +16396,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "8ff30f68979d2cd43916974aed79d1675e46def216ba6e76374b7a29a006f5f9",
+      "source_sha256": "d86293a329a60301274cb3b41da8ac69733d3010baba0e9b8e3ee3a1938f6bea",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15984,12 +16434,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "9a60faf04c574cb6372cfd51680e6229e9653cb228d28d6a495fbbdd287c82e7",
+      "source_sha256": "4e2e32ac621310b455d4fe428157a26defb1bb949fc0efba80652487e68e481b",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16016,12 +16472,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c0a89bc7badb95ed3d2ae51ae3daf60293de5a15797634b64a476f0e3fa1e87a",
+      "source_sha256": "5bf689427a9d5f476ed1ae1a2da564ac5bd417279e807cf3b8983ab5e3d13436",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16048,12 +16510,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "afa82d3bfe06c828064d349f611ec75b5d0de8d98c6cdfdc1a8ce0561871eed2",
+      "source_sha256": "dc340edf778559e6d42126a656838a6a84ba7c05211a66dd9869ffa75d3b1066",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16081,12 +16549,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c135590fe01994214550ad74e58b922b4edfd22c8323515ab773cecbe5bd134e",
+      "source_sha256": "3e032bbf0a0c0a208f34c7b7694342a11bcba87eb131c430dcf437596bcd1274",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16116,12 +16590,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "5f8740c47cc59a4902a69570eac5392b998f8cdf13ad2acd88f8d2c636113d92",
+      "source_sha256": "65d7781ba20df233ce4fd5f305cf805315d9f46dc3aa3f9997f9a6945b4cc503",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16180,12 +16660,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "1e6c11b41df8780dae5e79aae82bc1510daf76d118679686491439d9f5818d03",
+      "source_sha256": "71191562c7bb0c12656a77cc7cbadb1449ae89fdb27a40b3e420ab77ae573c34",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16282,12 +16768,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "daf69d5901dc639911a41aa2bc3c78c04f0d1d9a7c89d2d85dd3fa1591eb948e",
+      "source_sha256": "1cfa2b8c0503bf9af5673f7c0b78b555bfb12abe5a3edd7ad041d40e45a2022d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16314,12 +16806,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6ce1529ae5ec07dfcfc96f1ec28fb59d548b793de242896744be6bfd455a0ea3",
+      "source_sha256": "f92b9a0701c92aadc329dcb88bbea5f299a65f8bc3bef8623e046fa898b0575c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16357,12 +16855,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "b32518b7296cac25f364ad3c72849210ceec13c32cbecb81f5b35b3a071fdbdf",
+      "source_sha256": "07ab34ea71e0512dd0751f383b70d266eda746d7df66d31534ef2711cf7a47e2",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16392,12 +16896,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6f047837f78b82c66198d2fed31e1a7d02a4276b57660cacbfa8ce74fea8cd65",
+      "source_sha256": "340fc8a1d5b4aca941044956216ac7c7f3a286d829af02052f986439277a50f3",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16536,12 +17046,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6263f88f55b0407e77f2037c6c6891f1d9fd5d7664b699d308652c1ec829fe79",
+      "source_sha256": "93d5bc3405c584f94c9a7337e3c08ccdb0bf854724c2fe143caaf58a003cb368",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16568,12 +17084,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "95952e59fcac12449773e2273c55839478b23fff854e46ae713b9041b301a28a",
+      "source_sha256": "cc783e8eb6399d579c4bffa25302d72baf7f875b90b9253141a4d7abfe6099b2",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16933,12 +17455,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "de91c44fa8814f12e88acf18fc521c5fd684043bce6c5d051677c5adcc88348e",
+      "source_sha256": "a5f1e9ca5ac09e6a264b10f90d023547497fd0b2ac9218bcd7f6605885552cf9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -16967,12 +17495,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "4dc2ef3b737f58e2f4ba04e71dd380149dd606aef0dffd89d8a06b855d94df89",
+      "source_sha256": "0b0fbdb258b24da0fa75236c8515ad93fe82655b0fa6ce7386eee605b31dd4b0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17039,12 +17573,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "616984745e0f5c9d6aa12c8783b452f11c6061847d301f2ffc20a554179a818f",
+      "source_sha256": "259da2d2ab429ecdcf39aeb3216fe9caa92fe9e731cc05f1f2cc19fc0d15ac07",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17178,12 +17718,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "348ba7fa7fd1e91ce1d71acce0a70c36dd0f388129173d53c3678326a21308c3",
+      "source_sha256": "ab3632efe39f4bb471ed3890932811ee87baeed32fc3b1218b015bd8f485dc1c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17602,12 +18148,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "e8611cceef34c411035fcaf51c6c82e0b70b1ccaf76a24a5b4c6d4c8017e9478",
+      "source_sha256": "db99ed93f57c3f6729ef08d6eaed9ef962916fd9769153b709315df863fb6c5a",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17710,12 +18262,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "7d91a6ab64e00638390db22d164be424232f9b65dde7ab503b20f7d4fbc50c06",
+      "source_sha256": "4c3f8611a08eb286262aa2a8b9cfd6ad2ceae5259c951a954ddbc2c6f5d000d6",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17776,12 +18334,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "005efec9f0524796bcda8afdd033ed250caa80b66c5252ecf8ff28d06e10e1cf",
+      "source_sha256": "7164eb374309e4b834715347ffbf5487ec9f0019a242fa523b3b80cd2018650d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17845,12 +18409,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "15b1e22fb412ace34e703e97f5ecd79f1cda6b945faa3f528db8b75c669c58d0",
+      "source_sha256": "ce5c77de6238add29f6af64ba1a4a13f74a9845c46b457d3ff550d798ae06a76",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18197,12 +18767,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "239dbffaf99def43424b9b6f358435bd66feff78c5966b7da1d5aeb5712223d2",
+      "source_sha256": "259d2ee6810be75b410ee7743942928f1deb12ea4c2cab931dfa23579a72c1f7",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18334,12 +18910,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "0a2c1f86588b03766c4819e5da605bbb2f6143dea4ffcc614a3155fe1489571c",
+      "source_sha256": "c50859084837f94f940ecfd95a45d11a7ca3e40a4f4f96d799988a609db4d863",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18681,12 +19263,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "3caa600790bcafacbe85038f34de4d17c6ce42da02b25c45fb9322aa253fa975",
+      "source_sha256": "f56dea70184e5597caf502e513ed665ac5d54d20c4100776da3f428bf86935bc",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18713,12 +19301,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "355e04460eae0042ae289deb3404611365e88ba66976ead03499f4ae18d25f34",
+      "source_sha256": "a402be912090d4de3a748bea3c13ba084a1cc4823c42ecdc3b7f1c5dbfc3adf8",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18777,12 +19371,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "1740ab47b578956c9bce7e48bec31927c246425643decd5a14260136273e051a",
+      "source_sha256": "ff086a1f2992f3e18022b630e9081063a61572d6266356ff17b496ae2700512c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18848,12 +19448,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f0bcde3caacc9e77d54d79922b7ded5fdbf113409500ad50dd7e34f6ac2d65d4",
+      "source_sha256": "9934dca6d5002c3500892f142e795aa829d71caf74d222718786832b97e600d2",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -18881,12 +19487,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a284a2b7470ad45d82c841366513fa44d6611acba5c967a7e71fa454934474f5",
+      "source_sha256": "04d3f287b4b0c93f4f13d412e323ce8adc2f803010e77e7d8d02430f0d1d233c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -19839,12 +20451,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f06d9ff88501f0eda09f127ac7444326be61904ce98685999e2437754cc59c01",
+      "source_sha256": "8393a366b4bcc9d43aab7cb676e0796c988c54c17b5889de59fc08704d3a8638",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -19878,12 +20496,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "e41183ba085a9c121c7ce033def4d91719a4712086caa817d521c22722ace7b5",
+      "source_sha256": "989251e1feecfa4e685bcc328ab90415a1459f233bf14ae3bbab40fb007e73fd",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -19912,12 +20536,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "37aeb200f7bd9f46f96fb992fd1d6ccd4b5c079ab07590a4e0d39983c8280301",
+      "source_sha256": "5d6845fefe65a933ec14e96aec9732d26cacabc53be317bcc004ea64190d478a",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -19950,12 +20580,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "debe38abc1048e2aadd9f8734f5fe419c7757be519fba69adeec399e28983016",
+      "source_sha256": "e594f639cb8cfbbdcc3662fc51db32e6e1d3298debc3b16c2b3db2bf4d3c1596",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20019,12 +20655,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "e69a52a6f76aeb90f6fb77d0e25ab83fd6bd65c87ef7716866c8bcecc24de9d3",
+      "source_sha256": "ea931a538d46ce903a4a3498fc0ed81b87cf272c3b166272107e8df4e4f45db7",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20127,12 +20769,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c4709843f2042cc4b9e9a56903f76e9ef9ebc9137c3cd5932e29b1429ba56464",
+      "source_sha256": "098c7a822d6c6b185f7a726574ac05c456e9c4086f61d5f62052b089937c8b8b",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20370,12 +21018,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2d31c9c9d0cb897f8e63b9663d09beab703aae701d5fe1a674f1ad7644cf4938",
+      "source_sha256": "ba592df9ed65de2200bcac596f37ed4c7017eaa8f03499d07c3a7776ac306e62",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20861,12 +21515,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "70a66fb9f9b66951f7ada15f8780dc8f8868a6970630e71d04eeaf99294725eb",
+      "source_sha256": "8ef73f40d71e2c671750e26c2397f49dc757af02a1fcca78bd77380bacd21991",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20935,12 +21595,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "9128556bd486845ae08f3bb789aca5a11cc0c22db4e95ad64e0b49d8fa523b13",
+      "source_sha256": "83d20fbc2d277043870737baa677070f2549d109d69faf6e67626b875eccaf72",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -21373,12 +22039,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a811a14fb2afae0f5b3d0b4e16db625cdc1d7e07b6709b6d8690460c21aa3a20",
+      "source_sha256": "f2226a88fa923b678ef9b2d3596f20b8034f0b820bdb01536b2e94f536843da7",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22092,12 +22764,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c11531c71de3fe85d933e309045e55e10fd667c4812a62c88dd6b042f6e7ff72",
+      "source_sha256": "258169841defdc3152ea7d16763407fc3af711a09cfcd170941bfdc683ddb8c5",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22196,12 +22874,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "58a400cc1df812cb7c526b74c4ccf5c8e0fb0cd74cf66eab33e28f221bcb9525",
+      "source_sha256": "e73afa6fdb885d58080ed470246c31ec9e382c3d9f8c4564235d205ac37bfd74",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22637,12 +23321,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "02c6f02c7fc58af596f5200c5eceb3842cdb3202f328b005473250f55b50f5d8",
+      "source_sha256": "1a7b8dcc7ded71129b674ffaa172f216e5c1b6a6e3dd116cff6ee88e5c7a864f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22735,12 +23425,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "56bbcebc631048577f934c565e7a0d00727d95073cc12c43c22c4dcb26e070cb",
+      "source_sha256": "b0b4b749c2746b2ab16497b7279497bd14f7af0aefea03a3ac2e88e4f37c9787",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22850,12 +23546,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "6339a314290ce8d6464d1d7958216ca95d0bfa32bd5c28e0d64062d7b5031288",
+      "source_sha256": "80d90ef30409cd308787657ecc318bbf99d683b64da50b974d033b7aa1ca343c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23057,12 +23759,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "00284ae4641f967d4a586d8ad15866d0b4b1cd09d4605e9abbd12918ee45f6fa",
+      "source_sha256": "ec95a71281b6dafc63ee7e811f2aa19a32fe7c07ed5400a5cb5562cbcff8639c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23233,12 +23941,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "71b349772dac8c126c09f9d11715a6039aba842b84aba865b0780f9ab7a5910a",
+      "source_sha256": "9840b8bfb1fa20d1a78567311039ed101d457ae2409e768496dc89ec6da8b0e4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23301,12 +24015,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a6736d5d2d7ac70026566a67e93120c453b8a2da3773238c3bfe67d3181366ec",
+      "source_sha256": "a0b3c70d8dd327fbe920724c6266376c132c31bc2acedc10194031f883a3965f",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23464,12 +24184,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "88773a54f36ea715c9f2f73526acf63fa6e5d73f26ffd9945ab395ec9572a8dd",
+      "source_sha256": "c7e08e589ae558a013878634f4c213f34fe9530a9def94d2edb2312f158932e2",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23498,12 +24224,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "544e5b89a371cb5767780b9e9c9a28b4f619bc69016290ab3300c4f45f6d532d",
+      "source_sha256": "ae6a30afa8db43c61cb4f61a6ef1ed898e78c5c512510545d04c06876c526fba",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23530,12 +24262,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "181f674273bff10710a08e5ef691340fd1fcb117007f579d64cc4f11b643c981",
+      "source_sha256": "821fb4824ec0056e473152f0c255108f936f973549988ef864458c2ccab2722b",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -23750,12 +24488,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "68f6b49d8e9fc1748b86913aa19530f74f183b276619775202ff7abda03e0c01",
+      "source_sha256": "39d0428e1a4210a1fe0d2fb91ad00e209c2b67a44fe7244d033130f4a4e8eff1",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24376,12 +25120,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2ad0157d0ba34d8d31bec4fd88670185068b0df878621c5637c2e89db15a1e64",
+      "source_sha256": "8565f017091ffc214a3cac62fc234b8a3af85ca8ff15eb51123bbbda5b477c36",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24560,12 +25310,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d82bc5361ae07d80c1a7fbcc5f7a22ee978c33dbefd988fbb6664e8f8a481a9c",
+      "source_sha256": "d136e886aca28b70478e3bd7541887534f781597406004f2510cf5ef6cdb2d84",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24727,12 +25483,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "4a94b027bfb1da3042e169e1197f0b6be60763e3b25333df79726e1d3047f778",
+      "source_sha256": "a98f7ca964011e5e894aea21dc0d71a27e49ab858ebf9b101b177cb32ea56f82",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24825,12 +25587,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "c0f1729e4f4b48b21b33f5ba18f0f9b1e71020bd7d27b538fd9d7ba4ccd2e78e",
+      "source_sha256": "86f85a8b5a5657cf6e71a443247aa8cd21d36421c32bd13834e337c69e12a4f0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24928,12 +25696,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "63dc1aa666cf251a90c5cf445b8b2273558414d6ea3b6d2adab6dc14ff667098",
+      "source_sha256": "3ae85b903382b7fed331910adc68f3bb72f573ee483b0c127bb65773a8d8c23e",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24960,12 +25734,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "21c086022900885126b8ad5b34a4654a91e18290690b44c294160cd2c3d5e8c3",
+      "source_sha256": "f23beaf8260662cbbf844dcca89a3ea64a11983b2e1e972ea2abfdd19cf1a12a",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25009,12 +25789,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "93f1fb22081359c3a172309eeb0f31a43c15f4c2a6e76058c606ed6c6aa0892a",
+      "source_sha256": "4fe228ac872be42d6a7a01b165a0c30d62d913a57efda158490bad229e3e5790",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25042,12 +25828,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "f4ab7bb1ae681b3c48aa8a9b63f0b6dbef8fdc95a31e37cd0f53a794ae95fd78",
+      "source_sha256": "22744b45b7f2826a79348cb4c8bdf7d8042a844f8de7af5b165d67d8abf6cd02",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25172,12 +25964,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "ccaf49644abf91b1b2dcf9dc074cd5ea0d928f486ff7c0bcdc1f966e12060ed2",
+      "source_sha256": "91cf69542d56a24c3840a5babb65c0b708eaf1f40039a97b2658dff16c9e54aa",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25209,12 +26007,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "ef911af1c780825a735d0a926ae802063866b8b2bf69fa0faae682aa03d46e6b",
+      "source_sha256": "825738a33f93d409d7d3ce42e3adecbac61b493ee515d6936df3a8586e815203",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25378,12 +26182,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "dffc5e43fdb2fa38c77db8c1cf64dcd5bd5a7aefdc86eacbe83bc66d220aef96",
+      "source_sha256": "f92d145f60697ecd94b5bf7835230218412fff018e402574763839a932776db6",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25512,12 +26322,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "721523e22d31e0c10db3a959fbeb86299b4e39242b7df783444c7b34a0a540d2",
+      "source_sha256": "0147e91cd872b0c5cfe23af275525c862b30ba8b37b5e4f11fbd6cf8bc9011b8",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25612,12 +26428,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2bd56443d468b46c2145a8da6b136804adfd38d5ee9bf94adcd02a3caadb3c36",
+      "source_sha256": "32a1e1909830a9347ec7575ebbeba033539818eefaaa0a9416b61064af1831ec",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25684,12 +26506,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "155bc51266076748c1d94459926fc69466e25c7af27832ae864cc0e544bd013a",
+      "source_sha256": "3df495334c78906e0434f5cfe00f93fcf1a97e1995f319bbbe8a52e0155d3844",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25821,12 +26649,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "0416a0688e85385c5865844aa94a7d99430c69729d336b608b8b54ae2df7f442",
+      "source_sha256": "b2410acae9fc44ffc9ac74ded6ace8d870aeb618612b8200c2679516aca3c7ab",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25853,12 +26687,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "b7ea68572f135182f1911bb3966f1b64096d02c48b89737138fdcf3853777b94",
+      "source_sha256": "5168e69366f344e98163b8cbeeb40ad5ebfa0da9639fdfa0f376cb9ea5d60aa2",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25918,12 +26758,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d890bb89a489d648d7fd08b9dbb3a380cc29ccba1e708efca965086cebb9424e",
+      "source_sha256": "124a9743cc4947c2061599c1f991537a63fab2be777b7150b143e8b658aa56b8",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26185,12 +27031,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "12cb1e59b67ca99ab2cad6e31086454127d5cf0f7eb842c50e82c758c63c4d2f",
+      "source_sha256": "d630db90171c54f78719619a10149ec1ee178695cc33292b2ab516ff584120f4",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26217,12 +27069,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "be2d5b9c229d285653dd0294bfb11dbde9e392f82d1eb9ab562b824bd37c4662",
+      "source_sha256": "5941fda6f9745ef4e789637e83cef446d9b4b5e041529c54387bcf72de945da9",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26249,12 +27107,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2e14089afc3697d0d19c65a1d06ba4a13c126a3e89f93ed2591ccb2eed4cf787",
+      "source_sha256": "3c82afc092ab9a7609abc5a0ca2fcf2b59ccba4857d13e8cd0a13280afff5ee0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26281,12 +27145,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "d50ae91a9c78cd15f76264f6fa45640e219ca281d29a2ba0fafd3c6512fcc7f8",
+      "source_sha256": "e800499b2973966e496d910bd3ab8c7636de2958f820581962fceec554cbe40d",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26317,12 +27187,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "30768a5f888c90f6d2da7cf42916891e617505520651df83323dc59b3d686b0c",
+      "source_sha256": "0a16d42e4d1114333420c593b06a201dd2f78d58754b048431a2b5ed52da43ba",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26382,12 +27258,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "4186b077ecb0efc473f91964ead1a352b89b67dda7eef3ee35dcd916a46a9568",
+      "source_sha256": "bdbe619b462935377f169ade0a177f560f49f5e1e5db50f3f979d05360c37263",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26483,12 +27365,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "aac742796db3b5fcd59c643c8eee8f87ef470e87f679ac558f3c6ee130ec8a97",
+      "source_sha256": "de89d776f07765f7a44989fec356a3dedeb9a4d44aa23f013f9add9c9f5d1989",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26819,12 +27707,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "8368ae91cd9c19ab06b2851e182317b4889405e1d0e9e74be4c079533fdca5ae",
+      "source_sha256": "ff3fd7d05e276cf0f674c9821095da41dfbe7053049ade14bf64ce070c306849",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -26950,12 +27844,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "9572d5d185f1ed6284b9bca0a11986c18347edf3a536786a4056729df188591e",
+      "source_sha256": "366ecafb9c75d836d85e3df73e77f018de428af1819469332982c89e6d77d413",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27049,12 +27949,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "217cbaa8fb7824b526ddd3b44fa63c2f254a132ecd494736a547010e7878f30e",
+      "source_sha256": "f7348d6785a1db9cfe5ed12930219b9b0e6703a2c6aeed7ac3d2f4a2eade5b7c",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27170,12 +28076,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "520fc3071e05a8df07e6de291d5fa4daa56b00ec3574f4bd3ebcbe8749179fd3",
+      "source_sha256": "ce0a02d3c7643708a192c82d062737c81c6b0efc31c6e7fb3aa1bde2e40134f5",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27494,12 +28406,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "8631e2f4df55ace3b32e66a1bf490520123b93d776288e0e18a6b496209dccc6",
+      "source_sha256": "26ba43e9b78674137180f83eb7be5f5151ecd862986c34c03bb120e28315c223",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27558,12 +28476,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "1ec838c9b384c4828b999895da386c577aeafc29e1be42c960ccaea23ffd3cba",
+      "source_sha256": "f06533b7eaf3d83a511c8f354197d4ebcdf2309625b9e2f3162b5352a26e86d0",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27593,12 +28517,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "ef78711f1edea23f17b2b67b9d9c04fff28a7d1a9ec857f49ac123db47ca2c6b",
+      "source_sha256": "21b516c6bce59b3b78f440490d61ad98011d59ed1391d28d05eb4ee9017fb0c8",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27729,12 +28659,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "a13cf262b0d60ae63f8358de490568849f8e59d46ec446805a162ca539152e6d",
+      "source_sha256": "23e3486413a0388a57d5d25d0fe134e1dc7e8621da99b67e3a72c9b22140dc50",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27797,12 +28733,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "698b9f1e078bbbe7fae6beba56325a679baf2e4c8c86a9792dbd7d8aaefbecc4",
+      "source_sha256": "fb1917f1440918ef04470557684dde1af759f44898b1d35d840680e49bb034ae",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -27830,12 +28772,18 @@
     "generation": {
       "model": "codex/gpt-6.1-sol",
       "tool": "image_generation",
-      "source_sha256": "2c3492ef2ee0c092d979966c7ed7250dd63bc61a8a7d44403a7c533a1b54dd1d",
+      "source_sha256": "53ae546f4f32eef5508722126c65ff178d1d1064dbc30bfdb64eaac2089912fb",
       "source_size": [
         384,
         384
       ],
-      "method": "GPT image generation with public symbol and Sorcery style references"
+      "method": "GPT image generation with public symbol and Sorcery style references",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
