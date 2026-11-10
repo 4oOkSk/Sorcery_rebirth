@@ -11,10 +11,10 @@ Select Sorcery_rebirth as the icon pack. For fallback icons, the pack provides a
 When using its custom shape override, the following 100 × 100 path aligns the fallback outline with the paper face of dedicated Sorcery icons:
 
 ```text
-M16.4512,10.1109H83.5488A6.3403,6.3403,0,0,1,89.8891,16.4512V83.5488A6.3403,6.3403,0,0,1,83.5488,89.8891H16.4512A6.3403,6.3403,0,0,1,10.1109,83.5488V16.4512A6.3403,6.3403,0,0,1,16.4512,10.1109Z
+M14.5833,10.4167H85.4167A4.1666,4.1666,0,0,1,89.5833,14.5833V85.4167A4.1666,4.1666,0,0,1,85.4167,89.5833H14.5833A4.1666,4.1666,0,0,1,10.4167,85.4167V14.5833A4.1666,4.1666,0,0,1,14.5833,10.4167Z
 ```
 
-Use foreground scale `0.70`, non-adaptive scale `1.00`, foreground-only scaling enabled and the white shape background `#ffffffff`. Enable generated fallback icons, conversion to adaptive and fallback override. Keep “Fallback background as Adaptive background” disabled. These are user-controlled Global Icon Pack settings; the APK does not modify them.
+The fallback face spans 79.1666% of the canvas, with an 8 px corner radius at the 192 px artwork scale. Use foreground scale `0.70`, non-adaptive scale `1.00`, foreground-only scaling enabled and the white shape background `#ffffffff`. Enable generated fallback icons, conversion to adaptive and fallback override. Keep “Fallback background as Adaptive background” disabled. These are user-controlled Global Icon Pack settings; the APK does not modify them.
 
 Select the pack again or use the launcher's own icon refresh operation if cached images remain after changing themes. Keep existing desktop layouts and unrelated theme settings when refreshing icons.
 

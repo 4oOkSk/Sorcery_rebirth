@@ -21,7 +21,7 @@ def compose(material, background=None):
     alpha = material.getchannel('A').point(
         lambda a: round(max(0, min(1, (a - 128) / 120)) * 255))
     limit = Image.new('L', (1216, 1216))
-    ImageDraw.Draw(limit).rounded_rectangle((0, 0, 1215, 1215), radius=80, fill=255)
+    ImageDraw.Draw(limit).rounded_rectangle((0, 0, 1215, 1215), radius=64, fill=255)
     # A minimum paper radius trims only sharp source corners. Larger native
     # corners and disconnected paper layers retain their existing silhouette.
     alpha = ImageChops.multiply(alpha, limit.resize((304, 304), Image.Resampling.LANCZOS))

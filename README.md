@@ -13,7 +13,7 @@ A continuation of [SorceryIconPack](https://github.com/sorcererxw/SorceryIconPac
 - A searchable, offline Android dashboard and launcher icon picker. Android 8.0 or newer; no network or root permissions.
 - A standalone [HTML gallery](docs/gallery.html), transparent PNG artwork, component mappings and a packaging script.
 
-The new collection combines GPT-generated paper-style artwork with faithful adaptations of public application marks. Each icon preserves its application's recognizable logo, lettering and color relationships. Public app-store listings and upstream artwork supply identity references; Sorcery supplies the material and shadow style. Individual sources and artwork hashes are recorded in [catalog/icons.json](catalog/icons.json) and [third-party notices](THIRD_PARTY_NOTICES.md).
+The new collection uses application marks, folded paper objects and layered silhouettes, with Material colors, thin edges and shadows. Original Sorcery artwork, public vector marks and individually prepared raster illustrations supply the shapes. Public app-store listings and upstream artwork supply identity references. Individual sources, composition methods and artwork hashes are recorded in [catalog/icons.json](catalog/icons.json) and [third-party notices](THIRD_PARTY_NOTICES.md).
 
 New source artwork is stored as transparent **384 × 384 PNGs**, normalized to Sorcery's optical sizes. The APK packages **192 × 192 PNGs** for launcher compatibility. The inherited collection retains its original PNG bytes. Building uses the checked-in artwork and does not call an image-generation service.
 
