@@ -37,9 +37,9 @@ def standardize(image):
             return x, y
         ux, uy = dx / distance, dy / distance
         edge = 152 / max(abs(ux), abs(uy))
-        if min(abs(ux * edge), abs(uy * edge)) > 136:
-            dot = 136 * (abs(ux) + abs(uy))
-            edge = dot + math.sqrt(max(0, dot * dot - (2 * 136 ** 2 - 16 ** 2)))
+        if min(abs(ux * edge), abs(uy * edge)) > 129:
+            dot = 129 * (abs(ux) + abs(uy))
+            edge = dot + math.sqrt(max(0, dot * dot - (2 * 129 ** 2 - 23 ** 2)))
         phase = (math.atan2(dy, dx) % math.tau) * count / math.tau
         index = int(phase)
         previous = boundaries[index % count]
@@ -63,7 +63,7 @@ def standardize(image):
     rgb = face.convert('RGB').transform((304, 304), Image.Transform.MESH,
                                        mesh, Image.Resampling.BICUBIC)
     outline = Image.new('L', (1216, 1216))
-    ImageDraw.Draw(outline).rounded_rectangle((0, 0, 1215, 1215), radius=64, fill=255)
+    ImageDraw.Draw(outline).rounded_rectangle((0, 0, 1215, 1215), radius=92, fill=255)
     outline = outline.resize((304, 304), Image.Resampling.LANCZOS)
     rgb.putalpha(outline)
     result = Image.new('RGBA', (384, 384))
@@ -94,7 +94,7 @@ def main():
         output = args.output / path.name
         result.save(output)
         results.append({'id': name, 'source_sha256': hashlib.sha256(output.read_bytes()).hexdigest(),
-                        'square_face': [40, 40, 344, 344], 'corner_radius': 16})
+                        'square_face': [40, 40, 344, 344], 'corner_radius': 23})
     (args.output / 'manifest.json').write_text(json.dumps(results, indent=2) + '\n')
 
 

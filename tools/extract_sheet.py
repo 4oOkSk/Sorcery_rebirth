@@ -44,9 +44,12 @@ def extract(sheet, index, size=384):
     width, height = bounds[2]-bounds[0], bounds[3]-bounds[1]
     assert min(width, height) > image.width*.2, 'Artwork too small'
     filled = sum(solid.histogram()[1:]) / (width*height)
-    # Original square faces occupy 152/192; circular/freeform icons approach 176/192.
-    target = (152 if filled > .9 else 176) * size / 192
-    scale = target/max(width, height)
+    # Match original Sorcery optical weight across squares (304 px), folded/hex
+    # badges (~320-336 px), and discs/freeform objects (up to 348 px).
+    solid_area = sum(solid.histogram()[1:])
+    target_side = (152.5 if filled > .84 else 155.0) * size / 192
+    max_span = (152 if filled > .94 and .93 <= width / height <= 1.07 else 174) * size / 192
+    scale = min(max_span / max(width, height), target_side / (solid_area ** .5))
     padding = max(8, round(image.width*.025))
     padded = (max(0, bounds[0]-padding), max(0, bounds[1]-padding),
               min(image.width, bounds[2]+padding), min(image.height, bounds[3]+padding))
