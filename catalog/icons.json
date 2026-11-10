@@ -653,13 +653,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f80b7bd893244923e861efbce8b5033ca79b7f2c49394179a1456b5b4650a409",
+      "source_sha256": "714e797c0380a8f5af202005874725abf4121c67d7af6fa77b559fa8eb1ec02e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6978f0e050471ff62faa3784f10d83179355c9e39569b2710bc3f45418999552",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1432,13 +1439,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8fdafb3aaa77bbd35fb6a971e7c5c4d135b938f58aecf75bd0edeaf7665e4902",
+      "source_sha256": "bff29fe60f551f6b7ef21be44a171e974e808a9af6ba200ed1c1e72ae23eab49",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8aae10ac4b175d6fcd5a4ba27c40ae139971e82a722539ecf3534e9ce1e5be68",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -1464,13 +1478,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f39f053040f1a5b3407ef3189b28242551af386ea58e4060a6c235f6334aef23",
+      "source_sha256": "2c8b7781b640285257d6b6d71dc4c0693c70388df1f0c15b1e08c3198f06675e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0db8735661d8e995bad306db8c3e4e8e4d7ccd68727eb1557712f45661be7e18",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3891,12 +3912,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "56da67401597a513d83c303c34389249be3965a61d9070bf13a2edb352afe6ec",
+      "source_sha256": "fbd252c8a77d0775b8d9ff93bec875c423ba9980b58cbe0b34f804fe561b279c",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a133a60583982fffb400a75e6d521f2e2288f960423d8523a514aa8c8076e286",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3925,12 +3953,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "c7b412d1b8a45fa30cbd2afb7cab34055bfe0034705d56effa128f647cccaa36",
+      "source_sha256": "919a51422b194bff64faceb73d243200c1153367e74ba7d5e69a52ca44f0bbaa",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "7c5a41838665624dcb4ce8543fbe04d160f750460d21a01878065b2bac15e157",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3955,12 +3990,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "f5a954e3b363637204ed9eefc71b3b6eb9bfe50d07b9bb3ea8516fe131039be2",
+      "source_sha256": "f11c55e615302807c770e981e359171dabfbe58b7eab746ccbe03c9247ae2ee0",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "37f29f945152f0c5a45d64a762a35a6fc2bee76824350e5c21cbd302c9daddb3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -3985,12 +4027,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "00355c3b3c5d818a57f48eb6c73820048066a6f4ad6f93ce720aba968a271a62",
+      "source_sha256": "53ad71ec7a8e8dbfc64de5ec032a3d658b6130fa7f2914da181f351e43c87c86",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c9dec799bc7088ffa1b8246bcc4c6bb08a662bdd88a11e8e4008aa22634b025a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4015,12 +4064,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "8e81ff637c2263ac1e59c349197d047b5e8188ace9d13378cbdeba531fdabcff",
+      "source_sha256": "6365538af74cc3b2fdf4c518f346bd5bc4088280c8e1f814714c8cd1e422d05c",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f57bf95f29eb27075816a4c25f3baf5bc580542f45c8d97699e62926732ba65d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4048,13 +4104,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "bf47270e5001ad1180535ed6d566a8ef79dcdbcbaed24629191c713e7358090a",
+      "source_sha256": "84eca997b8ed24db6cc37283a8886fd6d967fba5bb9e27afbe419beccef73837",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d00877649891c7502d90476ea3bfb66e77dc3dcc8d47eab59e7ad32388847ddf",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4079,13 +4142,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5fbcda1ea2aabb22334f3cb9f03c004682f8e329e1c16878cafdd8f0677b7ba9",
+      "source_sha256": "d1403b9e8c955976fdb3c7aad07beea59143844d06fffceb879948766653fdfd",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "4bbef3d5d5dc0906b7fe9cd5392b71e4252b8d2038acb826cb58ec6f8838de0a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4112,12 +4182,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "dc75954686d781041cd1886017db33e0a9569102a4d7da60678262ec5f184b2a",
+      "source_sha256": "0104f1229bc29271b99e673e1ccd7568a051a852fb44593e6505d8e80cd313c9",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "4e58ba318d9bfcfca8615362bcf615e78f0ded29b58849e08731c1fb44978030",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4143,12 +4220,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "9a3afe38fb7620b95a23e153655ed03072bf66df699c566312775263df5c1de7",
+      "source_sha256": "8b1b327b87919fa1a963b607225402c6d400975c2143427472b933a84c2c5c86",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6df9ac924cf2c12814386d425603237bf44fff4df340c00d459d132ab467dd19",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4176,12 +4260,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "5f97323e2ffa5662428f32a58ee84ebb5b1b53aea3c8f4af7f1539d4137b0ded",
+      "source_sha256": "9fda26ce8df1934f3f6458f5daf01f47386dc59851b70633fa886520b1ff93a6",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "ae29e76969f0ba587a319a46979d35042bce4ee2cc1087bf1a29d7703568fb21",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4206,12 +4297,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "4ccd6e776a7d23cc0f32954999c242745304fce8838863494103dc3be10acfb0",
+      "source_sha256": "07ad5656a5252a1923aba2639d4a21ac994e8ab1c8466ea52bff6ae8c3bd51f2",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "03664efd36d62ce7720b3da582bbf6c08a20ec8b6f7de337ce00d084ffa86026",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4281,13 +4379,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fd2d87ff753c211c5a3bdfc75bf41421b6aa97fe00aec27bd03519d536106298",
+      "source_sha256": "916d4dd31bb9088fc350a2b9102e8909c08996821efa0a13628be9d7c7d9a9d2",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "1e3de1063078a37a46c84bdc57da84f92036acd435e22d93eca2e839d2c2c1b2",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4313,13 +4418,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a6befb81ec9db1e0f6e4e6dcd20b69d6d9e9e8eb9b0c9f44b3726f690f1661dc",
+      "source_sha256": "5dc12432d02c41b6d363b341bae80db0b46c903d87533d4be2f5692a68530d41",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "cfa171422bfebc3c6e09f3afa166db653f0fc81dde03b93cb16a3b3506765f50",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4346,13 +4458,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f027e3d19114c5c900718a07f463167e603160036c13d8f8591134028105cb55",
+      "source_sha256": "6b3d7dd2da5377a815304d160930574d7e9399fab965b452dc18ef17f47df5ad",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "bf3cb6e31f7d2cb9d164f9354fcc50eb143b3494bc1dc598ffcf7c218462c078",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4378,13 +4497,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "85a7a5467f28f546dae1914e8f008d536f73342d4951ad14c28ac054b51777a2",
+      "source_sha256": "3ff05166a889ac00ecfef3b06822e2c6d768fc609e601faa0c3fef162ddb688a",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f7e52a7bb2520a76bd10f21364a66d78d63a4471eb9b838461881ee0a5ab2409",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4410,13 +4536,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6906047250f6eb59cd9eb47df08fb233931e143ad29124e30f3058708791bbe0",
+      "source_sha256": "ab533b1a9c94b9b82b8032aed8bcd70c5cc6a88750f0b76848dc98e96b00c0b0",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "247cca40356be159c729a246e72c8cb60a7ee4e4e2a7c078bd853ddb31797452",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4441,13 +4574,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "eef2b75f398d5e3deee4aaabfe3160ed011100d2d54f2f74e121288e5e2e5683",
+      "source_sha256": "92ab41f9650ff751999effeb459218b4764953c9dd74355b7d073a1641b90a81",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "be2f68fc3e19f0e47d97f4260c480e6bbac1e920a74c6a3401dfad91def62c3d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4472,13 +4612,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0f2ce8bee3a185e9d91477ac3e67134012d352c4275a38d6fdd81f33ac9555bb",
+      "source_sha256": "751c9b11157d84f70107d83aa1cfb9c6d3882681d1ac0a6396c34e50d54835cc",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f35654bc99d1a07e7227e0a2ea543698ca9e874ccf0b94808481ed2ae37fc589",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4504,13 +4651,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b55c30033eea384f6e5791e338c2613d518d04bfa4c51dedf0db900dd7678756",
+      "source_sha256": "115526054cae50cd73b5d816614d904abb9ec9d616ccc5fb9ebfab9b0f44fc83",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a57c3a272c53fe19e7298378f9b3278d5d316a832d3fffc8e793cc9238c8a73e",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4537,13 +4691,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1cb3ff5bfabdc0b4c5b180d4816d34fa7a555a1b989181b72de88d3483c97f7d",
+      "source_sha256": "986f47a0e25074b185939dbb76f92d675678015b4ebde52da454954fbaefada9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "50707585341e8a10ecb8c82bbed3a9f8e057497f0e95c92ccc253ecbe34c9e25",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4568,13 +4729,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d0022a52f9a3460d3e9830e54fc808c0365126c31c06e2db2ad80ba50f43ccdf",
+      "source_sha256": "f1230b4590dbe1793126fda8fa930efe3566f9457b4004ce13df29a51d1548e2",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "2fbc8a90ad97eb23b91b7757b92c25a83aadec2b483d833e70e03312353234db",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4599,13 +4767,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d35f68e21a7892076f8449de0d90e0153a3511cb0196de5da8ef5a05ed51bdbd",
+      "source_sha256": "3aeecdd23aac17bb3dd9213d48a03aa5182b3444f3576e6a59c3aaafb9fadc54",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d9a3d9f219704327997ca0d4bb91c7ece0c4be13321f5e0c6000feba3d6f935e",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4630,13 +4805,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "442c88ab7e6a8e99c06e00f264a9cc582398932ed653b890fd00ab5dac632672",
+      "source_sha256": "8db7488b09370eb750d9b690ca9d520ce12ac4471e3a9d6ffb51cee6420e8077",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dedf100755ea3371b5f0f3b51801e3507bd9eba5598a6d6d8582d37def7f503f",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4661,13 +4843,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "2178c1906d48d9f5e470fb5060677bc7b16762c7ffa213478aecd8b4d861d6ae",
+      "source_sha256": "709b2e79c6e5bcfdce1c704f526cfa3e6d0901bb05359ec0614e85a270c91744",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "76a18305a82a6ce1478efd9d6cbc59e118ccf49a4e95e4a61dcb6ba55a203c27",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4724,13 +4913,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1ef295f02dd7035832fe09832493a57b3c615892b5622d19166db08d8353078c",
+      "source_sha256": "ef8893988c50b2d9de7fb905eb4fbd64a4ae6e1e01ec6fdd236ca318afc50692",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "06fd764d0b58366b8ffab1080b727c48f1d542ca35c16fb7b9115b8eae8d119e",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4755,13 +4951,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "932a54a794622a2f0cac50b3b48e23c8017cb8c586c909d47a9a83f40ca8b2b1",
+      "source_sha256": "dbf06d2b8a37cbf79df816ba459fd149a556a2ee53b0946c1a08e1edd249c745",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "85e360cd30fd2bcf736bdee234cd3a8a65b828582136ac10b0fc9f3aad18e77c",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4818,13 +5021,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "bb4cf589631b9a1eef9ebf4e481835e43d40a25369c178121888070e03372099",
+      "source_sha256": "c8d875241c9391e847c3c667d25715418bbd4bb41a8d6e366f732d66ff43450b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "eb682c29701f353570f8c0c4a0e40065367f932cff904207b8a9a44647ab4f9c",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4850,13 +5060,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "dc00bd3f111484eab3695efba4ef6ec508dc2b3c6dc3c6f23980d3106b40afc7",
+      "source_sha256": "48c560ec45ce9d1838144618f75e9396e1baa6b2d8c2404fc451bb4bf084087e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a361e2508d0264929e6d8e5c0f3d818ed6bbeb03fcd668e537e52527660a5bc2",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4882,13 +5099,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "481d602651576997964cc462e19b719d391a61100d549f8894b9d0a007731363",
+      "source_sha256": "5780ade279f0037b0ac0a26e92af02d1938ae2fc8beac84489e46cd0204271c4",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6ae773cbf8a0f2595779a737f54206855d306a70e4d6e1e4e6b78fbe4427c172",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4913,13 +5137,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ab2162ea69c8cecfeb30d4153a026bbe555408a073a4b0fafa0b33337d256fdd",
+      "source_sha256": "3f61f515d57a9ae0b56ae29c57f3b017cd172e08560635376a0aefea481eb5a5",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "926554cedef4fe7621e8d9f66bb2f953e3d17d40c631c195f35355dbd1c2b42d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4944,13 +5175,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5abbfaa02244d7f768a9c1321228a43e59d00414f464b2eab7bd01631f123064",
+      "source_sha256": "c9b786e4a432a6db5190e4eca7e58ab9c906262384774ef30ec78ea94eba063b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5ad83dc70328e398da91654211ee9d7b39056f2d87cbbbda47a2eed016db917b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -4975,13 +5213,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "208b6fb67597c1c7ab4a90bfd448e919525d331d3a7daf2433fa41cce03a2d05",
+      "source_sha256": "a4b90e236377e67b845b213c17e9c8ff8c4b6c1b4697226fccb15a8e1db5111f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dd068949b86466f0e90756f0f6f35256d6bc3a32c0741c20781b003129797706",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5006,13 +5251,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "64e5edccf99c003ae2b96423a53055aa2a94f8bfd137bfff8cfa55ebe88b0028",
+      "source_sha256": "ebe9b67de5ce8ef8a6016b647163e553ea4f98e26a32ace10160ef0faff740d9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "bf45f8fd9a13e07f036fe16ab918b24f25c159e091a3b70599d52dd1543898a2",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5040,13 +5292,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3053a22ae283a8033cdc45a278b7534ac00807f8620ee14e3b6cc41d1116486e",
+      "source_sha256": "b1f1cbc31b2724bd088498d9decad269157c869c06d707667934a82d4463ccc0",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "df959b131c3fc0c041f430b19de9a5c67b62554ce18fdcae4899073b0f30cd71",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5071,13 +5330,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fed12cdada42d60a268211e5f3892b9eadf18aa3b8926be3612a4143c6c833aa",
+      "source_sha256": "e63b39dae768bc410655447f6f6261fc98efcc150fda2bfcfb29395685b189a9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6eda4d5a6322bd3399ab5c68f72e2649e6b7c4d579f4f13daf913b6269021bee",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5102,13 +5368,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5062c963144f405f24455f6ec76a0764cd4a78953ddae527efaa529bd47aab53",
+      "source_sha256": "3489ea6a1b66d90f75d577157be7a4c34c2c4b32aceb6e5f6b2d3dbfcbd96072",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5f7c87dabc6ed69cf92176b7e34f75830e93389b851eac9e0c20ccc01e4a14a0",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5137,13 +5410,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b0883b16407aee19fc48ad1ddc6f18503a6ac25473c08bcaa86f2644d9077ede",
+      "source_sha256": "9499aebade3329590c295c70d35fe0c300953d83852b3f2ada1af5d52a695681",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0084dfcff878a3bf69684230c1b02c0773bfe465074266feffede807dff5f392",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5168,13 +5448,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "431a947e4d9ebb044d1e77be4ed6a16fde20477bd696191763999ce33e30c689",
+      "source_sha256": "a564e763f8f8e1627f37ae0f73da95c51bec554e4958a70efe11350041a28864",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "99bb16208189e39e2353fe88ca4d64a0072cec83012cf523d5a7857cbd00cf54",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5202,13 +5489,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a773dd5195210bff5899073f8224ad3c52ba373dadef708500d9f0ccb2d108dc",
+      "source_sha256": "bbe198dcb1d9426cbf1871357207f449026b4027a45431a3e3b670e7043d70d6",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "22db3b4a321273a17ef06a19202ce4ee5010ff9277360baf1156e42b2afa44f3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5340,13 +5634,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "76b3994a58b915500cd9860f4b54711653335c64a602e3b6af4ee40afeeff023",
+      "source_sha256": "6d589223da87de283298e94cf43140ab8662dd054809bec0f08bee702fe8a59b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6c450e6301b6c032f51fd83302105622e321a09b07b88e7d6e9048860310eb01",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5402,13 +5703,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5c4c0846472d73c82bffb610e3eabf2bd9e78f0df59bc61d912720a8b3a033b0",
+      "source_sha256": "0de4f02867c6335d7518b9d78f504d8ea0ad089283d48601ad99b909aa65f021",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "89d3ccdfda80d6710d5dc577b0729ecf6b84e760591dc5433f82b0fff7313b06",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5433,13 +5741,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d2bb8935804176d7dea341b8e9affc7456a4aafeb4670d7073cbc626c98e641a",
+      "source_sha256": "7759c708c8e1c3668011d276b729dcb6f5bebe5e44bc741d8e263225d8de4375",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "add1f45db86c84f0ca66981e232ed44bfbced10855ca0327a8932c2cf17166fc",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5464,13 +5779,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6f6bdcf50705473791b061bd695ccf02a862e53be2306b1e95cb4f68f788a38b",
+      "source_sha256": "fb50eff245ad44d9baeefc50085df353edb78b000d5b323c32c60ee1e6490b17",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a4107445d5508caa4796d28555022d6ff183b8a79b2f3d440a73b18010c0ad18",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5495,13 +5817,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "003a96796fdc92cef50f62e38b628d6bb138f5920ca44b9a0102f3c7d542df23",
+      "source_sha256": "1423d11d1a58395d0770c5f4b693fbcbbabb2a1182f11992dcc3f2114e220d64",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e04f8b7daed92227519dfd981941ce431c6cf863baf3b041ab2d64c5e86d8db8",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5527,13 +5856,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "27bed8b229d1f69f7fa5e0fc81a1692020cb8212df70037559d50c869cfa65f3",
+      "source_sha256": "1c0ec397a1264ccf85d3853ce0477b563dbbab7c63eada82f2dec90eb2970bbd",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5e7e2bbd196393e065d2f4eea2a021e8bdd35726547a3643470547d40ba73fb5",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5592,13 +5928,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "afb31a0b2e7f576ae7991c44de0df4770d31b8498d6e4e7dc57ea7adc967a1fc",
+      "source_sha256": "02798f57f50e6b39aadff7bcdde5f230b8bba360a04ad23d07fe9881a53990b9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "3d5be138903b53dac86854f7efcd70fa091d7b1a82800bbe2febcbc4de835946",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5623,13 +5966,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "233b198db45d15f1db8c1db438b3db41aa28e0936b43e6ce429dee164c72d5b1",
+      "source_sha256": "728cf736b3855c573f7e75e26d65e0956976b088663ca22a83882212632928dd",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d30a5e9287080e25ece284b4b175a7883b94f6df83da5a4664d6e5af11ff86f2",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5654,13 +6004,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e2e6c608df6f9d413cefe17358aa1d34739f543faf51bd77c8cd308c2072d7de",
+      "source_sha256": "62cfdcc9a95d0284a0f488173c513f2e0a69c0bfcc183e6733ccc67b2d9e27fd",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b2cce547c5f2e1c6bed0988bf49b669ff54861a8b6679dbced87871e5aaa8ccc",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5686,13 +6043,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "29d4363a4aeab5d5d1f98248821213d297200f109dba79f06b5a155790818104",
+      "source_sha256": "4be95122eacd2ef26bddfc3619f8c3ba3ea57f55ec9cdf85bd536edf017cb839",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "86890aecfe5e0506c4e27bb001fafa8a1d191a262cfe64249f0589cf4de1617a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5717,13 +6081,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0970f8820d80d160cbf63e12f2cc4075bcdbe200ae37c5880605d88f991c05a8",
+      "source_sha256": "c7625028aeb6b707eb5e0d714a23088000b87359ad4135a79676031a901910f9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "024a7b57340fd5ca45bd2f333dfbab2f5616c0326184d26933d2fa13285d8d6e",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5748,13 +6119,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "110b748e92c4eaee8e83f18fd2349c575ae78c0a88b11d2d7b560e1c3aec8a55",
+      "source_sha256": "2139338c19780b13798f0a19cedf920b8a6f47a0e0e2dfc1945c7cd2b820283f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "56a2b51baf54a93b0bcb7a7f673982a2332518f90a40511a6723294d64a0ec40",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5779,13 +6157,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4690e14534120d0e5a2c98a3624ec3921e6e9b5e2c6a9cec07a048891c3ccf9b",
+      "source_sha256": "f2b9cbd6b0012116dae1e1bbe1d6e4bcc13c0a85ae128be8d6ac666cfe85296f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "bb56302462677b05836b2976960c1b11b796c5c177dc890b7929874d1ecc7361",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5811,13 +6196,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "aa69289e4349f0a195fc66f5cbf2f9b587aa55de0b680d9ed5d40a916ddc2209",
+      "source_sha256": "7cbb131ffd133cbf6878e86119edd1efb6508e6bc5b7a6b902dea6abf56fe104",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "80230497a58fc0e6b6aa0b78b3360265c5c3eb46c50d8d8b37f45cb239cbac94",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5843,13 +6235,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "714f37055395b52e77ffaaf4b9b042967500b574cccfd6581fa1f69badcf7082",
+      "source_sha256": "82d6c836942ed9c300a4475389a8388b6c734acb0504656eabb638b82fcc1973",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "3a4b3bc7d2d07db65f1403968ffeb9776f62ae83f2f75b9caa80f1f44f419d16",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5875,13 +6274,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "425ad0b5581bc7b827e055aca5f1a65dd0034475a3539c4df56c50f489aa3c34",
+      "source_sha256": "bf2dc61458be26043cc2a4fec347dd8b0d2d9f41aa7c6b13f1103ba091e7db8c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "24f16c567a1196b246140b35e7c4fb5493d5b407fc3a52cd604c4e5466175ad3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5907,13 +6313,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3fc1b906f5e54aabbe10a939246dd8a9d871b3f5ae143e6728ff78f8bbc715ea",
+      "source_sha256": "5f7de6d92beeac1c1b89b0f3951f82b28265a8a7903cc8d49030073f767b6d04",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "4352c774977920f0072195d556889976948caad5da8a96dd96f496eba12e8861",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -5941,13 +6354,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d3c332c739238db0074e70c57f169183a79f9adb697fce986f5153c633062e1a",
+      "source_sha256": "ea4e1f7f676f06b649539ab09a73ba913373ba8401e7269a4818f9a5208ee238",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "799b4decb14b2bd421678e2889f0130f9851f6e147a3098fc209b033b7ced528",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6007,12 +6427,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "6efac679ba6ea276deb992d1b9536718d37ef8d9f298d1796e8ca05f153045dd",
+      "source_sha256": "94d2e912045379f3c3426027ecb64f20c0dd30db4dc607c2cbf49946e004ee8a",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "9d3739724111a791411683b529f87f2ea264f68a9614d10826425bc5b02f5d97",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6037,12 +6464,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "4b61aa8dd6c7770c7cbf820fa28573b77d4a73d533dd137fdfd3e7069b127262",
+      "source_sha256": "24215c1697578ae45737a4efec94a0e52f6f8fe6577ed4fb7ff29e7f4ff1ce91",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e85d70ca2c0aaec453b1249f437914b160cf565ca5afe96d60212e95269238dc",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6068,12 +6502,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "113a03d0c5e671654e1bf0b075064aa398757fe5ed3836df7e39fec7fec2b1c8",
+      "source_sha256": "38cfbad57051204c1a09b7b52ad24522c7c19b16ac906d1e81c83e2e107ef7e8",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d3e36fb2844650b7716089439b0a13713d3528821a738dba27e80241188864d3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6098,12 +6539,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "bd85398c3866baf01261b4764f13e06958b3ec0f7a24c16a9462ec5ca0c7aca7",
+      "source_sha256": "82f10c670bea4f300ef41a095c5ba7b42b4f771c71ac229a55c10f08d62a4532",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e4fc5a7ab7ed12768b684e3abdbb2e74ab69b75a03c30b6faea47cff1af5fdd6",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6128,13 +6576,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "20163447cacfa3dc2776e34453240d11efe6751fcffbee6f5b1847963aad71d6",
+      "source_sha256": "5d5d3fe660ffb208f60f8c7ed9c1c9d9d6c8efebce74947c5c6460095cb67a4a",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5ef7f6ce3c8b41b1727a1aaf0edfeae10ca323536cb4ae4f07eca66722e21e32",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6163,12 +6618,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "3284a7f58d0e8d6178ed765c9f1c37405577c8ec0efee0eb147db14b183d07f9",
+      "source_sha256": "c89cb4378ff645cb13398f4bc76ac67e4313b8661825d1ed9c88be8139eb0e98",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "07860f8cf2bbbf498b3b2c37c34589c5ecf52b36f7db2028f00a9a19c0347ab4",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6196,12 +6658,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "f49c1d10d1eb4b1ff37eee334cf5be09e9dd410300419788a6a0726177a77a54",
+      "source_sha256": "0fda5ae936912b1ec8f4b8b20739c570c05922adbd6c2243e2c7f24f611095c1",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "732e7a98332262b1d80c0257e68bb1985a70b49b5c1b67c96015ea9e94398e02",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6229,13 +6698,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8e645f1ffb880fa3df59b156e39d405381f50e017c57eb8813c2941da14a754d",
+      "source_sha256": "72b4abce6c9eb26ff119ff9bd3c7d1675cf3052a07b9e183d974b8eea2608e2e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0984806ac04187a5d487d7dde8bafd78033a4041f4e2ca5f979f7b6b19d9a47c",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6260,13 +6736,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "2f1038c4940e85d799d6aed87e68121256429f98b3fec7c99e4cd7ec9414c3be",
+      "source_sha256": "ea10e748c3f8d00541974f93f3a1fba428eeca6a517da296ba32a852aaf1b1ea",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "807faab5ea383919a4450ca696065c03a5488874114f85ed34047ba958386d5d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6291,13 +6774,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9f0f8cf7cb210064a84487563e7722156164b67351405850b63212451bae8189",
+      "source_sha256": "1a4085ca52375a8506fde0b3e82e641f9c2f8e4ac9ebaba43c515e736d99418c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "93102e4f3148c281fd4a51bf28135026d1d7e3de47b68c970e9fa34d7afc00e1",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6322,13 +6812,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "10c4b732ac4388189b8bd6b3258a662a7e6da9fd8666b4de1e6b64b8b9785162",
+      "source_sha256": "c04b5f9b9372261c352b6c06bd5f4db1365095ef98a7c75cef3ed0b099c1b394",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "64df77b1f9de891d6a465143dc477f2414bc3135a40c3f0e1381aff44f3d4f63",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6353,13 +6850,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b9a85cb1b5d3769ea449884e14fba0315c3f7474502c54d997e6740d20d2d108",
+      "source_sha256": "4f3ea79f9d668a154707d56ab8f19a9c644324daa9b25394a44d1fbe0c21afa4",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0475012013cd7953a651879ff7787c3dcd8a45d1e06fa8bb11204b97e3f66149",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6384,12 +6888,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "8603b8070b944ab48ad45225fe6998630c74a734878875d8301d16953c44ce7b",
+      "source_sha256": "489d3142fb0e8b1fdd0024675efbe576694ba42eab8119175620b354a7e3f402",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0e4021dcd84ad28729a0175505e43e76f7ec1ece5c78fc10289384deab4e3759",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6414,13 +6925,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5d8db39007e8db82c091dab5381cd3869915ff28a1e1c7396648c5da415fb47d",
+      "source_sha256": "0b46abb18612ba5f2d53f69520087266b9b1f45c4bb1b5d73e600ed59e39ebda",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "1490fa3c8361de85bb3a31fd60785033790514038ed389402951576ac0e9ac76",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6445,12 +6963,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "06a7559b1837a5a199dd42162a460c9afaa82372a087d6234aa38653f9857afa",
+      "source_sha256": "67419eabac5f24e62a0ea5336ce68580b986f5535149b080b131d2e14f047f26",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8e07dc4835459f572cdd4211975c4d56bf5d615857d4b4ec885816481d5036f7",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6532,13 +7057,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "79119716b09b170d412264d4fc7619cf87983452dad05f7013ccd910c9b47c2d",
+      "source_sha256": "f7bf8178b23ea9b5e3efaecc0b7f2604cc0a2fc60511533b69f8598a65e3b9a3",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5d6c081ac6af4d6800cdf17812130f9f90917caa3aa9131d9fada884b87ba134",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6564,12 +7096,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "284343ed2897ade68e6408941fd9f7cfd7e7b72e4ae027e502a8901f5af45fef",
+      "source_sha256": "d4bb875a79157b7f5afff63c8d5c7bbd50b734517bf4036ce4cf4ae541a218f2",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "9aaa036ab430c6d1a143ef22f78cb35974a7e07d653f57cb3d35481e6a4a2576",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6594,13 +7133,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6222dec692ffdf5ab0a66a90f6270904033071f53725881f18af9a6aba89cc9c",
+      "source_sha256": "3b0e503a3bcf2ecad2d2155eb846bc239f883c11c7a7aed0d3900880fab891b3",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d8a1f3d60c88422fc515aedff91b2c44da2908f47da487f96d568bd92acdc515",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6628,13 +7174,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "84de1027f8d3eaa51338b87eb5850e340869ca35b766c3ddb45aab55dae7b634",
+      "source_sha256": "7cde7388c34b9557bdaf621ac18f96089941eed7aa5cfa83be1bbbd19009bbd7",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "61f0d9a41a49b79d763e2dd8b3a41b09ea2f87b93eafbe34d33c8dcfe9be4926",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6659,13 +7212,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "cf0330e4bf443f998aef15bd8a272fc592bb4e6475e10427e94444f23865b257",
+      "source_sha256": "aa05fa6fae1dd236585341cbe34edc143da30fb8b445e40597d188a9b50c9550",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d631cfe9207cc8270a2eaec708fc5569b94ca566e6d938cc812e460780de10ee",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6690,13 +7250,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3681fff872e4dafc0ebb601884df1735dfbdff2988223d970e6e63dd7fd7349b",
+      "source_sha256": "794206ea62efee8b193c5d10335951eeb5d5d730b8ad49b24e12f0bc1cd0367c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6310e2386b7096b0803ff17e431f877a6fe01df8fb7bcc26156c93850e1abe8d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6721,13 +7288,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a30aaeb806b752c0d66e4f3f3d062f7b36a46078e936d65311ef43a5583f637c",
+      "source_sha256": "0562f5e9e5b73c715d88972693c6d2f0fe071a33186f705a14b24281a7753d1b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "3f8b96ebfdcc46e4bd418f35b5c73949f028ece8867e7731a30783d0e7e79966",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6752,13 +7326,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7ddedfaffdae49a746a342fc613236d73743522472a5f17e6797b7ab56281005",
+      "source_sha256": "c1ed74381897cde96951ab55e5168ebc13c8c158e73dc4cd45cd73fbe9a68ca6",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f0fedc7a73de3d15594b1d14a3057a8bb8343db0fb688f68e97710cd14566f47",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6784,13 +7365,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4d4005f40869eb16bdf36adc73ed68baefe0391a7afb7e85e3cc0284b1042988",
+      "source_sha256": "34ab972cdb655814b33f2a83d4a319614fe9f7cf7df674996955b2b6b88ffdeb",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5f70d67a44acfa11384846710836b50bd29249d1156c7552c024941dd2ef0180",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6815,13 +7403,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "93b5be5c3ed8a1748251c18881482c29fbadf5c5a4a91dcc97d65b8a3bd97545",
+      "source_sha256": "3f87a424be5ee4d31f5507b2056076a93b2ebf07e12087f94e8cfe72c792f9f1",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "bbf250d965962fbc4bb2e340310f873054383960a940f367d187852c9441a1e0",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6930,13 +7525,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "085efa8d78f1ef39840aff35cee41680cdc079764b97b7140d9b0fb1334f4a84",
+      "source_sha256": "80e9aede38a1b9e25f369880849bdd4ebf149c8f436e28ae96822ad7190e3a9f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a734a649fee3d2a449f36ab80ae5a2a127118a292cde9feee0d3bea513f35006",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6961,13 +7563,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9c0da0bc21062b3d1a8dd89bd31846cdc25aa9df15dc58acece083693253d486",
+      "source_sha256": "f418d2e4b33712cb6d9d4b54c629b816c9c1d78350333340d7ff0fb313938609",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d26d7d41736ccac2eab67c8d8147580fc06876a37761f2c03ea14707b1efde42",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -6995,13 +7604,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ac332cbbb87116ceb25992fa93c2764f73666c9f3134e1afb194d20ada421451",
+      "source_sha256": "aab3462987786fae4976afd040953451309de6b667781121d964cb739b180c0c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "2c7243692169f42606cdbe3f12b5dd44860aa280aebde3f34a7663f442e887f7",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7028,13 +7644,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "fbc21a740b23f583b87c940610bfd7a7bf074a0a1944508130ceeb76dff82497",
+      "source_sha256": "43fea2f99a3c22c7cdfbc669a8edc06bbb8aae1e18ef5345ed7afdce71685e0b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c87513762c7ae021442a1d24c8514869812f1cb4684677bf1944deb4d154df29",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7059,13 +7682,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b9893988170d85f08ae07b31b9053d54617b88290b79842503c9c1ba91250e46",
+      "source_sha256": "54d81ac6de7d64a76865430359485bdd16adafb4c17065206782dc5e72dca3d0",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "582e380646ae2e1f5bc8afaec5d386a98cc70b68a93327eb85740c14af8e979a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7123,13 +7753,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5105f40e901703a0e83835eb86636028e6a2a8dd0459a5b12a68c8bcd627b390",
+      "source_sha256": "f265f4059dae88bd26c2e306bc74c97904260f365c8c972a9708d18d952800c9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5baa40804a335471d906bbd6b946eaba7371b4837bb2695b60872fe1fe5a41c1",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7228,13 +7865,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f95c79e43c90dcded9d87d34f0888887798188f188199ad8f83de9f3e7abf744",
+      "source_sha256": "a7fd3f0ed87a898ce9e489fd61174a9d3aafe60d1d9ac2c97ea678b64d52ef89",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "51caf8ed447b7831bb7c23fde937c50ab69280e254b18509866d0572a76b403f",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7259,13 +7903,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "921af4cf725190e8e44eb2ccc5bac1a6aa48b6d5f05b955f644e01f12cc39521",
+      "source_sha256": "403ed537d01b5ff58c2c9140e248be33ee8400dd5d08868c74b27d857a8bc197",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dde5957b81b83efe553bf86cc6cfefe107857fe4dc93a8d91aaeed6d9fad37a4",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7292,13 +7943,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "df8679b8ef4b7b9a4ce23fd0586f7d2fdc037686722fe7296286076661c44315",
+      "source_sha256": "259bd76f00780297b49f889425ee819bf7d2dc8e4edc11c312c46a92329e4877",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b35ca52a194d4624648db4ed9fc6d29510bbbfe391414aba08466b878d4fa739",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7324,13 +7982,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8b4a18abc6aed39243e5f72d273d257b480828685b5b57d4cc89f786dbbde937",
+      "source_sha256": "4814b88864a56c2c34557fc3d7c8e4d8beb7506090bf6a49a00901124622058d",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8a0aa5e3ebb872400c037801bc725303d4de6c131e83510bc3253ea12425cebb",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7355,13 +8020,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "13fdebb6c94de75847350427a01b340516c3422365ed9b6d378a64847883c317",
+      "source_sha256": "72dd4fa011bb6fddc50a28ac3e2600503b5967499820ff618261b45dea9b66ac",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "66825fb2c03f41e2d218727fac44997bec5db776f4d8170cbb708232c164d6f9",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7387,13 +8059,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a2ab0c1ad578869b850efac9f8859c8d14b6d4547424f52c8547629b9d8cad51",
+      "source_sha256": "98ec0286c5c352d4107d4277e1e8a8639fdd0be8e5b790bdbb4e013ebdb75d75",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dc8b40fd9723dd629ede6dc3603648889d2874842140b46e9c43791e1a548bec",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7418,13 +8097,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1349f4a32c12f268abb2d6ca4e5ad05c9aef97f7f856cd12aef84dc1d6270f01",
+      "source_sha256": "4044c08f47db93ff045deae556eb752bbef96d3b4a410e772adb11f33f6e578b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "031887df1180b95872201a6f91a945eb1c234b193ceee6dabaa1db59255b1d54",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7449,13 +8135,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7f74436305f5e9be1ae64209bc9145d744c1957d3732bc003f17f7f94a1f8b3f",
+      "source_sha256": "1a6569f9548061e00dcc8284c0bd43b8c9f59bb861f872b514957c56a4721851",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dbc4c969198d8d3143a582a881b0b4f4ae6a6018abcda6655da1866d3ab1eeac",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7480,13 +8173,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5de689478c2e040b033d8026b4346296c46c17077763e9f40a27b7b7b8c592a4",
+      "source_sha256": "68c79ff2c22a3e8a6a03f7d9e8856e83e8f49876944a31a089e8b90f38eb1bc8",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d433ab1003b426f84c23f2c6c75bb48f707caaae0c9948b351fd954938f47561",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -7762,13 +8462,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0f429b48477a1510d7b14929b3f80f73f7344c8a4b8c551c6c7f54b66eb2a6b2",
+      "source_sha256": "210b955514347624ba7b83651381812bfea0fc7b30c7ada4d5ca5d2f37177481",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "71aa03f7347135be75ed20b9c6f044599a0a172d8294a7b01480dd811912f5eb",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13273,13 +13980,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "cf2a11a8da420f499c1fa60bde80cae60d18082e45effbef64964bcfb56f27bd",
+      "source_sha256": "417165d00cae27b16eb7d06a9b0a80bde125ed441b21b8a6977ab7d12d756d7f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "05824e6617a6efc0c8ff024fbf0e8b3dc888d6577dc36b195a966d3efa075f50",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13711,13 +14425,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "886975a10650694bcc7f676c1d78ef7802f7a0ea57c41161be71207be863f3d6",
+      "source_sha256": "041a9510af54ac8bdfb53195c677fb1b84a45029e645fec05baeb69ee63389a0",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6a487fd846334fe0de52b4bce5899d7e2b4c27867332e6346363e323bdc5674a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13920,13 +14641,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "242c681ad08837a04288767bd4b6a56ca022d36498219346e5f1f8698361dc3d",
+      "source_sha256": "eff121c832292c9a5c5e050f5d676a64e37d00214b9f3423bc7e8ce0fc930e45",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "9a4c90500b4c328756d8ceb57337e8abb4b6fdfb9afaa47f3d646e60fa394a49",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13951,13 +14679,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "e7f26893ea1e2596e03b931bd6e39306d91897201e4a925c87c562c233928426",
+      "source_sha256": "73f5ad20c1af75cf82aa23393a2fdf1ed715ecd1088c65654cce8aae681f3e16",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "ad51ca2cfb0ae50701e1fedbc6f27805eb6977c2f45ffb7d3f544303f6426691",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -13982,13 +14717,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9b3109015679dafb4715b3c73058aaba67b01828536f58d4eee95a191f9cae09",
+      "source_sha256": "588560baa92c4f7362169471d9449fbe5c4242464a1179abdaa0bf801721c015",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "4828882d52898bcf1921e261eace7c44620bece1b0d20c4c3740a27198e8d06b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14013,13 +14755,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "22b28c5c89ed1903fb0b68d65b12b1d49258a441967f5539289db7ad69cf3161",
+      "source_sha256": "b25b069b4aaa65e126de3aa424f14e69d2913f03ed6cc5992ebf08e989987ced",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "4098688aea8acf8b28cb208fe18944a380595fe88949fc3e88ce6f0b99c67fcf",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14044,13 +14793,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b147a36edf4c9bda35703041d156049321b2e7b7ff9e5ceb0ad9cd18a49fa86c",
+      "source_sha256": "39f834d5d9691cf22d2e393bc9f4d92c1d04d05fc2e6fe7d889a8cec94751f35",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c171bdc736a9f1a5b13010ddce1067cfbd83ba925d00c38e8102a33f75603fb0",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14075,13 +14831,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "74f2c0080e798df9bbe37458263eb6f6935a6df2881e20902d39d665c25c4b04",
+      "source_sha256": "5463e58b7ac4728243da679ce5f76b1273408ff740a36312720d04e9be1abe8e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "853513fa2ef026ff73c12c0b2ab4ba7432f4b38d1b9be7711c0dfb1d7d7228ea",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14106,13 +14869,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "66a0c3b17e808fa6bb95e4da933d80d40ba44c07dc41554d57f32d5adc5a6c26",
+      "source_sha256": "70a94697ab601c9031abd5bc9b5d60ff56bb2c9483c20be046d504cd95a66a3d",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0c23829caf94d29b7171996b607417959b06937f176f5279608e468ae3c97d92",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14138,13 +14908,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5247e2ee8fb0de6716e88729a66c28c7b86176f73499f3d207c04ba24103c5eb",
+      "source_sha256": "c6e428a1de9227e699a6e6d074c98af901f1e06130dfd998dad8a6fcc50ae537",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c42c5b3034868fb496b27235c7daa642ad4f7a9b1d770522db1c8e24c968dd73",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14169,13 +14946,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "31a935a451fa717e9fc73bd47eccfdd1dad1019beab890a966a81cc02aeed577",
+      "source_sha256": "6bf50c4b4a85f8b01ac0064bad400691a37e1fbfe7dc5cb6f2b496e439a80e4c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5cc1e8deaaeee2a522d1096297cc709bcb07ce8ad1a00687c42d37314cb7e323",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14200,13 +14984,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "4f1a349a57c3e097deff35e4a8a4c25aa962f31e722c6f1913d4224a79a0b54e",
+      "source_sha256": "db21ff9c208f30338e2fd8b967d49bddb39058ba3ab14c1236fdf3ab8c9a89f5",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "fac105f2b96b5f58785ef64ca96e745eb540ed65a74f32a98ee2c93dc5772b66",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14231,13 +15022,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "68bf46f2283b0a263f92e53bb38ace821fc468e48534e1e986683ddb0c568718",
+      "source_sha256": "81052ee2a3a0a6bf9db126b57548d4f5a4f2a78c665cf51f2daae19c1bfdad4f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c72ac8b3aee3a93dfa05ac927c75ab1860729c7d5410c38fd13dabc363e22c55",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14262,13 +15060,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "459d60c55905dc03698d4ad4cf317ab0c21c1cfeff1f6d21861b0e29888f3341",
+      "source_sha256": "a0fd351dc0f7c5de3ecc3f5f8bf9259a6b0fb4b469feca0b731beaaba5f15121",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "dad4fa177e14a93149c2d8be8ea066ce6e5a861f5b27654fec53306d70d51122",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14293,13 +15098,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "58d13e7a757684e69c563737b05146202069faca78c36ba52ea8b1b407e3b61e",
+      "source_sha256": "99629ef92c4edc24c9581f625d9b5088fe68c1ab41ddeed8b1152be49db1fb5f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "3ddf42eac4829bc3a8d3d57c4be6d66e67cd80654305bb9824197e4f79ece34d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14324,13 +15136,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b2312ee396ac88ee6496d3a429e81deb16058e551018bc7547bb6ec887c83e34",
+      "source_sha256": "eec4657160dabca1ddc7f0cb08ff71509fd45ea9d2111acc2b66b2374902f7ad",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e5b81d43ee83ca0aa93647b22a0ea3c6301b44b659bd74dd34e0b4d4d80a3157",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14355,13 +15174,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "91f76e3176ff85e5a4975ef0b538f62b540f5624e4431536080742fdd8c0ae82",
+      "source_sha256": "960152ee9db42ff5b2af1a5e035f77eddb2070b4fed8274ad6a956d4c4575f34",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b5a940faed506dbc244c9b3cb90ef513699b63da4f2523f62af0215ab414bb6c",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14386,13 +15212,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8843e4de3ac870f26c0d0f4e452841788b467df8db4d0d1a05deeced1f6d5886",
+      "source_sha256": "2311fa45af8cd65592ca579cfe908821c31e0052b588d2d8d83977d261806634",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "460a8b71fe65c788eadc3b663e4d745052a8cb9bbe068672a10ffadf20c4d9c5",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14417,13 +15250,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "27691d3d53739b38a2297e9e636dd07482caa02bae2df7e3e4ac97c591bcc3b0",
+      "source_sha256": "cb983d8bf3916b26a91caff513d4afb06978503d6beb43a6a85113494d89c882",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "648b9115bd06ea1e98068eed64ac53a6019e8660b6de6ef364c2f86ec603a958",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14448,13 +15288,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "76d2fe6044207dfa05c292234fdfa18e2095f9373e01dc0352121a0737836e6e",
+      "source_sha256": "ec18b95ac15243b59de20ffdf53d3466c413e4f35d9939520e03cf5fc871edf4",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "fc4742ba6b05ce49914da468a3f801aca2af47bb405ffb4d68b3dda9ccd1127a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14479,13 +15326,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7bf5eedeb5c01fa20c4f21a91c6c9787940d849aae8c0d1498b26d3b2fa03bf8",
+      "source_sha256": "56d6e5213d062045400c790274de48c5746046b2676456243321903903203ba7",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "74cdf28df26e0402024aa05b8b3e8c3661e54a3bbe4e91cdcaf9b4e13c1ea03c",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14510,13 +15364,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "379a173ff320bea1e6126f578ccc1240debedea8f27ebdfaee871abb1fea7c34",
+      "source_sha256": "efbfa82b1b9076828118a6f8f0978605903f729cb99190a477c0f689f3c6e5f6",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "1b0d9f1eb35708a8b060036771ffb8dc184a0efae137775568198cdb5b250488",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14541,13 +15402,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "cab8a988b4c4180ee35c1aa3156e0b8c4db6406ff120808995f377b75b56f12a",
+      "source_sha256": "9bcab63f1948d6f8bdd79cd9a45bb8e8dd25387b91b97cdfc88a5dafeef5bdfc",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0fa3907c7ff422b153daa736fcc10cefdc69ce3240a3d737d7a909bf1c4878c1",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14572,13 +15440,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "30e20dc353502bdbcef0a61991ca96efa791c92612173a289b47ab3f62e1f3aa",
+      "source_sha256": "ce1dbe789f2fc410f3d4cf196c489dfe382ff6dfcab891bd02c55f9e489b0aa9",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6c9842fbc6f524a359ac7ba35075a3a0f782980ad558d91a7f8bf62d4c1388a3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14603,13 +15478,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "1018458f656d943fd4ab078218ec28cbe5914f3daded7e6dd50ba318e6c269fa",
+      "source_sha256": "4fe112e307f6390bb248b82e681d9ae1acf1179731081f0c4463ff780c51d00f",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "083517a8e35f7a4325f4b4df82360d3df0c967d0b2daf03ac8d508454482c1ab",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14634,13 +15516,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8fc1d2ea0d083b0a00ae277a4ab0999eed861545db607b99be96030b7a380a6f",
+      "source_sha256": "f4cdd1f143e4dbdb58b80a30e3aa629308716d56611ff4a8eca214bf5e3ff06c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e9c2426faf3558ac9e5f548fe7893eb289e39e94b8b955b1fc295bf7ace73068",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14665,13 +15554,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "331ad3a602ae6ed99548fe104954d7c6d149e2333a28f8d6ebd5ae5363d49bb2",
+      "source_sha256": "44f6aca232f62b82ceebd1642303badc9e4a6ee07182a80331150b85143674ad",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "ab568d6dcfa21e84fac571e57445c21a4a173a174699e786ed7e7fb37202df76",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14696,13 +15592,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "dd9db4dd0f297ba4042cfed5061573ac512bf3012a60a7539aa3d78ac432a872",
+      "source_sha256": "1059f4181773e66a1f76ee8dbe7c8ea183b146c6b265eda8813bc1168938e10b",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "829bb2972b297d92aece803eb169e99f0469e13b9662f084e9277ab3cea23936",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14727,13 +15630,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "9c1c2e93af203b6f1ad60be06850979402ebfa0e22e13680bd86fb6b16cb3403",
+      "source_sha256": "6533c6dece97494744c07ab02404b588d4777ddf8b6694ec2de7f1d11cebfbec",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d49bf7682dad28303517cf5f312fe41272c7acd1b635608bffe9b0eca44b0477",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14758,13 +15668,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "d4ba081b28d7738a4b552abfd6c80427edd549f4f6cac151126664404f2b2d7f",
+      "source_sha256": "92138e19b52f9d68e1b4b332b7731ac51cab2aeaf2990ddc13bb0512d31574d4",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e4b5b21db14b213bd43429c97995964b14ed90f622c3bd47211b49424d5a6fb2",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14789,13 +15706,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8670cedcc13e00b7da8046a3568fb27c1c4690bff5ba1397486d8822084f8af2",
+      "source_sha256": "3689d9a80ae78cb488c40561766379327bd571e2f4740710ab193694305e2783",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "36c1dbedb7fa460d7d9d6dfe8adfbc7ee795847f4a1b603da622e5049639a155",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14820,13 +15744,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "6ad876c03223d176b5efee51a4993f8dd6cdf55191eef05be39447fec5fd6f59",
+      "source_sha256": "f130795c49bc729d23bc47424086ca357f7c9f3dc2443ed3eac39d6e4b599feb",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b7d4475a74dff528f8de2b0889cda82d59216a126cb59d46e70e1c5248bcc3dd",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14851,13 +15782,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ebe83a540aea8d3cd52b82d060faaeaf7d1bfe9a4d98c373180502b41a46b25d",
+      "source_sha256": "dc7cf59e25fd79d5490fbb95243bc6a29410c7e01fb77f418d861c2a592c8c16",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8028ebe1962ed077247cfa4aebfb9be79328f70196fb574c59e15f72b216c731",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14882,13 +15820,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "2f07d508876a4404d8ffc97e81cac19923112b130ce5587b1657c77554402847",
+      "source_sha256": "4dd5858b0a6b317a3e622aeadaac4d8d1fad41377129e7b1acf49360e9f8ef3e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "3f6f5b270295ebb238cce92f4dd714161b4629ac73f01106c4a32bb272c22acd",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14913,13 +15858,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "88e445fdcf37120e5c0eda523b3eea286a665d3f5f75b01aae341bf92e4ae218",
+      "source_sha256": "efa50b3b5b4b221a7cca0693b3ea1773838a0c18eb5d8c2a9df38fdd51a05f03",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "d7e8048564e250252cb384013c15b77ab452616b3caf96a2c26f2b5db30ee781",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14944,13 +15896,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b142fae49add6ee1044a83716270354e8ccb3d223184c0603ffa2952177c1e35",
+      "source_sha256": "a6b46b50779bdaaba991c7e6ae520f38e0553fa54b8b41622ebc99610892a631",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "e7f52d88aebe3a0fbf2f63950b5ec54b5f8845cd58093170a7b8928d8429282e",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -14975,13 +15934,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "0eb51d1cbe64f5df1b30ef96c062ba9f7cd52f6b94a52a6ba95f38c2e630629a",
+      "source_sha256": "f464ac5d247dff3267d53c57891b24cf34aa0e32c6ccedddc5339c1c94699139",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0b30994eb7b1c71ae0d3b6683dcafecbdcf2cd4163e526d0c4d4175c939c8830",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15006,13 +15972,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "3e0dc3f7f70d5d36a80410ff57d5397c2490d98b006456556d0f922779462ac5",
+      "source_sha256": "75bf0f3469db318e28dcb265cc63ab2c423a5cbd71c5990dcba9eb3b8fe686b2",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0558b1ad2b263cf919e99f5544d92f3cb95f552055d81a0fedc567897d507b6b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15037,13 +16010,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "7d90cd92e9469118a628e4d06e8ad9f841eeea06448bb8241eb8c61497e7059f",
+      "source_sha256": "637e6c1bfb22fab378731d348400b1c67e16024c325b078944bdd06840af8f41",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "9e246956985e25364db5284bbee0cf6dd903aacbb642a9e87a1bcb674943fbb6",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15068,13 +16048,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f488d78309837d2dd715064f095895abecf915e9074d6b717ac680a71cbe7a03",
+      "source_sha256": "92468ff51d36c8dffe68c0a9fc993f11225076ba884eafe93f928539ccab5757",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "35d157646e006b0042a28fd558138caedf74375e9d68f63a223b006f8304fa2a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15101,13 +16088,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "91fd447419dec9cbf2b6b1e195053363f2cfc5ccd803ec3f26eec1b1095841a1",
+      "source_sha256": "ebffbfe19246cae6d8507550c375e21dd7ac9fb22586e21f9835c5529c0300ed",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "154dd8aa719f3359f5c6955617dade1c75c1987b84cc5118928dc895c053cac6",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15132,13 +16126,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "8584acccf4925daa592f5d0d1771eb4e9dcfabed2194fbf7756e1b2526010201",
+      "source_sha256": "d2403efb0d71a17bca080b893e93430227d2b2ab28a1aba18e675cfc6b9cc062",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "737319eed407071767edcda90a14cf1371f49f992e23543f6c5648854db59dda",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15163,13 +16164,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "bd4ce6d261cd4219f2a708cc4af840fabde9e0276f0832f157a7219dd63ac4b5",
+      "source_sha256": "4f858c423520bdee0822d876fba79e7c8030e2514a90a512d17f179e7cc3848e",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c00a91c50ae96249ee45da112cfc863c7cc120973503805f83db8e5e521d35c7",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15194,13 +16202,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "42332906671cd4a5588069d20c3c23c8bc2a199ce9e54283381ec1405867e502",
+      "source_sha256": "545f395ab00d0ad421f7cbc4c8b82f8027fdf98b6dac3d967efb74fdb896a77a",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a392fa5442eb9ba603b69b2668214eb6037ff6e53ca38e7a3686c427d218de4a",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15225,13 +16240,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "60d2cd03ce6655ed17c188c85e1593d5e3ea5cca9bb59fd12ea2fe5eb3b13e98",
+      "source_sha256": "90d3ab006357ddbfe3fdd6456e4159f38e25eb5fc6fad16a2e5e36033bc83d47",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "63d86f2b972f5bfc92325e2a3b12738a4acb1aba85e64f0b314a17911a980338",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15256,13 +16278,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "ecb0462a09fd2cce2612f737ec38fd056af32737acf7d6849bc488ed0daa0710",
+      "source_sha256": "5df9296bfa4493edd7cbd172c6295205989c38fa5a63e91296d92457a6243578",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "65b51cba7e4cc5603caec90e051777c78a3418c59bdd934f256ff8c068fbe9c5",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15287,13 +16316,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f2a7d2d8ac59a97f2dabce33ffe2dc8ba2027811c8efb28fedda8b2acf239c2d",
+      "source_sha256": "27f5e9a18eccde347f5205fd053f2c3630ccd1bd2cf95caadba90668b163cf0c",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "c82ed52064817e4c0834a7a6851e4cf4b5a626b2583b91cf2066d79ff54a8b5d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15318,13 +16354,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "5e405b231b10691afe295fef42f44455dc1a29e95973f7b2feea699ccabdf55f",
+      "source_sha256": "b7cb3f35e1ac182a9cf76b76475810896c53974fd6ff1c2214a643dc6b1b94ff",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8ddfeb46b0c05654812c1e8f5fa982c3b4d6663d800d1c2a4e16358060d5c220",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15350,13 +16393,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "df4361759aa87255fa76a185cf0361f544bdbb2e4e83da2beedaa472521ebd80",
+      "source_sha256": "6a5474e4352b12eb7702c6c4216a31a4396c080b1d66225ed6575017f8dc2f8a",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "6156c8e32f69f8f03fe0be9f63023cc5a1ec4c650b6d5ffdbbde8353fb1f0288",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -15704,13 +16754,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "eb8ab0be4e9aae45a527fa0746aae831c5229ab2f9cba92c1059cb10d4988e9c",
+      "source_sha256": "fa1a3a6298d9c6d164b22fcdb78be69b681d49b8f5381b39f86b9d55f5fa3ff0",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "8bdf2ca3d62e7c6eeb1174ef01dbb6a48574232e4bcaa36d2a6fd992f9965a0b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17609,13 +18666,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "82b655fed679de54829feb5ebc0d3a34ce6f6c92c00c22228f1b2e7418bc8892",
+      "source_sha256": "1757e52430aa155339f53c57dc6a4f71c3a19608ad7b1bc069cf387dfaecff88",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b8303256701a9212f36bc9ee1832ce1b08631bc928b4a1e17fff08eb418cf329",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -17640,13 +18704,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "a9cfe049c879cb894f616d4caaa2e5d2022c04c04f7084ebe612f3ad8be7e486",
+      "source_sha256": "fb7b9c5478a949a3029d1d7307995c7f47220cf95a1f4e4dc5be8dc497eec2fb",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "0681bf4fee07da1beff3bc18157d07b4740518541c93b65190ad9d50e4d78325",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -20086,13 +21157,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "b43fbe7af06e61df8d3502ea03db517000a48c2e842130ee97ec096b9ebc7478",
+      "source_sha256": "de6e567531ff0796193acac333b292845aed77352a735300a630d2dccc5e8465",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "9afc19dbe9e2cec83121ce1479a76c658ec7ea7266edf0d6f08f17e1d0e385e3",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -22731,13 +23809,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "bb79b770966d71477319fc96fd3a52f588fe2613b18f93fa45e1fd03d06a89b4",
+      "source_sha256": "329dd9148a87558e5849ca60614c318c6a2da6451e4dfdd5e1844af59a92abc5",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f89f33cf4f90469aff519cab99ab9380c9f4ccf4ae6bde227e41860e4396a80d",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24596,12 +25681,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "f99e23c7895de6ee321037d88a64c56effa60fcbfa8f60ffb9a8cf3404d6e861",
+      "source_sha256": "e36ee01a6c62fc6b16502d2e29d5de653baa786acc1d68e6706935ae61370199",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "a58383ac4044c22c1342a672002bb1c8b238ce93d537f1ba788ffc11ed970967",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24626,12 +25718,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "48986fe1ed3d2d68f619459255b4848b77084b53c15e5a0f35dcd2f9b191d4f9",
+      "source_sha256": "1435e341d3d5059a5bccda1c292cb080b7952fdb0169f73195d70986822a42f3",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "f5c0060d26145da70458d12b35f7fd4eb664707ac8bf9d95f1ff24b9aa1cf28b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24658,12 +25757,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "e5f77a10d2cda9b3b7320339da3db0b279593053e108831869df106e6f2a8400",
+      "source_sha256": "6f4f325e34a78ec120463a75fa6cdd201dfa906c9e5e84dc90a602fb19cc4977",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "59e0ec72459848cd3daf443193869c725bbc0c4f9f849ec6fbfea5070544af2f",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24772,12 +25878,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "5c5f66c2644c0a6855bc6717c7cef807f93fae4c14bd0b0445cb088ca527e899",
+      "source_sha256": "456a43e23bb3eb05ef4854cf8a1a0102c373d8ae15fc00c1655ca6f7bac365b0",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "5a0c34e837256b280bc52c647787c7bc23d565dbb696a2dff34aefa38e654457",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24802,12 +25915,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "2df1e09c01a66c8a54da22591bb0d7aa70ae178afd4b327d8c21479573d42a1b",
+      "source_sha256": "b0e77b7f2183127ced4187c643e51b6ab67602271d4c4a3ddbf3d2157598e885",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b4b271fc67597113c8bf271a8820fa19361f24052238f30d30227e18b700322b",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24835,12 +25955,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "8a420341bc59917840bf5b2c62a2296adf7beec9245c6fc885f7ec4e91903a41",
+      "source_sha256": "970702278be1549ba853ac5ef39ad17591c2accce55594d4fbcb175bed623424",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "b0d39285f5376940761d8360d39a2b337a18069025a7528448b1253017d6856f",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24867,12 +25994,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "fa5db3e35a27b65038843a4283c47d0faf38aa32b9cd706da7a39cb50c83477c",
+      "source_sha256": "e2d5bee2ba4f7c2c0a2fdecfe9f82e4db4c5af4bb977d1f093a886d6c2c454f6",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "341e2afc2195f2ed71dbfece539b88f90f928d34251692f0888219ab5dc35825",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -24897,12 +26031,19 @@
     "format": "png",
     "generation": {
       "method": "Public application artwork with Sorcery paper outline and shadow",
-      "source_sha256": "d397472eb660ad36d6c9171ec49534ab81c03e3eb296d0ac7e6f57a5daef152c",
+      "source_sha256": "a506977b1eaf3def0fd4002db21a005e10e2a73ab59a59c6dacf9adceb96b063",
       "source_size": [
         384,
         384
       ],
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "2a60e72282adc5fbe8ba75d84b6e30d520b58ce712f47fa7bb3aee507810a1d0",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
@@ -25930,13 +27071,20 @@
     "format": "png",
     "generation": {
       "method": "GPT image generation with public application icon reference",
-      "source_sha256": "f373eab5d7d571dc1c594d17716bffb066ba322730a2065dffe4bccb9899fcd1",
+      "source_sha256": "0bb17a3e9bd148425c16408cda745559d7b342feef66b5b6709d46b6a5ac9296",
       "source_size": [
         384,
         384
       ],
       "model": "codex/gpt-6.1-sol",
-      "edge_normalization": "Single paper outline; adjoining face colors extend into the corners"
+      "tile_composition": "Original face RGB and native contour; contact and soft shadows follow that contour",
+      "material_sha256": "62a4cc59b4b793f291e06ab46f7fb29134793fbac8b8981a970eb1bf2e877d04",
+      "square_face": [
+        40,
+        40,
+        344,
+        344
+      ]
     }
   },
   {
