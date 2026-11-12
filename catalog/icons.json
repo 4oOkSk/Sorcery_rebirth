@@ -138,9 +138,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "b56f0d8e44ded89bd139bdce79382ec454f62defeb596b1592f422635bc20a0a",
+      "source_sha256": "ad1dc891d548a617cd0330f4d8691fad43f12724a2b5329bef35f48c9a5fd850",
       "source_size": [
         384,
         384
@@ -253,9 +253,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "dac38ea588e6d4617dbf6fb22268149a4791094bf16fb8c414a0c70c6689b0fc",
+      "source_sha256": "f22df0a842e9d907410dac936185336b0ea41accea89614dd38e357519785ae3",
       "source_size": [
         384,
         384
@@ -413,9 +413,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "0f9582f99d56863a550459a29c8f947d0d8dc26cfc4f449d4fcf5e383adebe7e",
+      "source_sha256": "20c6a5bbccae48dee2f86cec0f355ef566e038650df6aa08d3838d76cd1ce63e",
       "source_size": [
         384,
         384
@@ -686,9 +686,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8936001d91a0dca7872a3126c8f9515c911b4a818417cfe21c491dfb57cbaa5f",
+      "source_sha256": "cb91cff2dd75ada62170128296d0d2a131f02873b13fb60ab3ead28f736cde42",
       "source_size": [
         384,
         384
@@ -1318,9 +1318,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1052bedc7b8577ebedc6df8e7ef5def8f9fe09ec3d1f007258f95af9a9991af7",
+      "source_sha256": "8e11dc4122881d555ad957da7d1910b519f22dd8c4e012396e28f41f056b6858",
       "source_size": [
         384,
         384
@@ -1356,9 +1356,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "72c4a16d11614adaea6a6e804d6511dd21c21c52e0df5e1435ae8c1dbe79fadb",
+      "source_sha256": "e97290b222fa05938e80384dc5dc12e1569bd135360ed2b210a81fb2d3dda080",
       "source_size": [
         384,
         384
@@ -1463,9 +1463,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "703c6503e3edd6c38a6de55a43a958794b8967df7211ffb6522541e2c284bb97",
+      "source_sha256": "9726f6a0511a81c74e6e6b4a4be0b944e1dc8a075d897fce435a6b4a237adfee",
       "source_size": [
         384,
         384
@@ -2031,9 +2031,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "f0b010821b3dc4dab80ef4cbaff7a515b450f5166ee53762df9bb2a468c14f6c",
+      "source_sha256": "40b5e6b21e80d314fc3503dd3fbf3e99072d9508fdb8a9931d6ace218574db3f",
       "source_size": [
         384,
         384
@@ -2544,9 +2544,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c9e2bd08b6ad10e68da63c6595b5322627a4feb507e1ce7762c0c39772e31bca",
+      "source_sha256": "cc9fdd35defcd5b3e11cf8d30452d6d2679c21bebaa1e7e279d2c531e0a296b6",
       "source_size": [
         384,
         384
@@ -4056,9 +4056,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "fb51bb7705163e0456615ea7ad381807ebf3bf4e0fbf589ba8b7fd7500faa23b",
+      "source_sha256": "6adc2b6ce57c65474b4ab108ffec98a12ce9fb95dfd8e4ef9bdd043c4e747e63",
       "source_size": [
         384,
         384
@@ -4158,9 +4158,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "2aec45865d69352889d2b77e80e7ebaed18421268441b174b8c431e39ec2deed",
+      "source_sha256": "e99a0a31ad3052008a761414621469679b3888cbdca4b9b2cd33a4509b649e27",
       "source_size": [
         384,
         384
@@ -4193,9 +4193,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cb6f145597e9818073e01e8f03ec4f76c1ed18a0478f875f9cf9d959c564e058",
+      "source_sha256": "b11a687367e95bf630b4384116040071a4e969e6a1235d40b46f49f36d7d256e",
       "source_size": [
         384,
         384
@@ -4224,9 +4224,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "b5ea7a0f4fa229c872cb3646097f011363780d7fc9f5ef9b2a36118a6376b1d0",
+      "source_sha256": "44b87421ba3c508fa53db9404733edac3e25ef10b82280e52798eac60a1dde15",
       "source_size": [
         384,
         384
@@ -4255,9 +4255,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "b2200be059f4289a7bab9710e88d351784adc7cc8d1f8d7d62ea1559d3c118fa",
+      "source_sha256": "955b6c6d8a206ae4487d417c21f8dba873db2d069dd657dd54f4aa54a50e0770",
       "source_size": [
         384,
         384
@@ -4350,9 +4350,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a667877b73a8b81440b0cbd7d7ea2da5dd2dc01f2407f153295a38d109b999f3",
+      "source_sha256": "aa7786bd94d61907b0cecaefe2d3963e16a969b50fa764c0e6fc2237b1062251",
       "source_size": [
         384,
         384
@@ -4414,9 +4414,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "f6a7341f11f9c521f7b9bef62ee71a26508edcc376e5cff17a0b0c06460cf25c",
+      "source_sha256": "872353afa591ae98450875b14e30c5341255a7c6b5e8da0f25ecab8629892202",
       "source_size": [
         384,
         384
@@ -4448,9 +4448,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "148cbdce30a756c54b88dfb2c214df96daa1a83b926a96947f9277dd2f3f2485",
+      "source_sha256": "20b37968789bc0d470fcfc43508be5b65f109a0f800d6a6d242192cdcc5a1add",
       "source_size": [
         384,
         384
@@ -4479,9 +4479,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "3b91558959a831c5e07360162db7dc3b7864b519b461f1cda1b61abb37a6600a",
+      "source_sha256": "1d17301b10d181922b29c65d29fcaaee0ef7c9d06f1c7807d24fe5cf8e7f14e1",
       "source_size": [
         384,
         384
@@ -4557,9 +4557,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a31864dd0a8b0aacb0cb7e93764a5b17858b18939a3dc0d8abf6b047c8f96b1f",
+      "source_sha256": "7005aa8d54d1fef1b2962e9078b4631ce2da7f5c823c5dc8999d795434569a47",
       "source_size": [
         384,
         384
@@ -4652,9 +4652,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a71ae18d0824b924b38be83e9871bb03edb3a1a2415534b4005a61e28939f713",
+      "source_sha256": "371319f70cb181873b19495028a2fcbc52e89b4ff28ddda0440c127909aed437",
       "source_size": [
         384,
         384
@@ -4714,9 +4714,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "983fc713158b5cc8c06ea277fd936679d1fbfe544fe11a75b5e9615dd44d7e82",
+      "source_sha256": "be19b1dcb0a5a4c58ba2cbb1e975e1112a8e17e457c7324d5ad11fa855af21fd",
       "source_size": [
         384,
         384
@@ -4868,9 +4868,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "9a1cee6cedfef2339a6de4b08759f0fe283abdd82302b7d1b8a5c3383fb709c1",
+      "source_sha256": "46cb3847bc17b619d7366555d8ebee055d8b6c8b44327dbe276eac3a8e339e8f",
       "source_size": [
         384,
         384
@@ -5091,9 +5091,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d45cbddfc5bd823f72629cd7722943896ef0fe98259a763d6dde6e5dd1c20733",
+      "source_sha256": "0faf332e873c6e66ee78392acb28a51b8563e9848b0ae4cb4db520a1e45a045e",
       "source_size": [
         384,
         384
@@ -5185,9 +5185,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "75915c6ecf41a54d9e9d43648582db1a0f7aa406286b658d098ad36d4ed29824",
+      "source_sha256": "f71e0e49c01596a6a81618876b738423b95d357178174c83c7f8773bc2446f01",
       "source_size": [
         384,
         384
@@ -5246,9 +5246,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8d232b01fad61d4072283d4eef81c4d62f4a6f9872169541fcb77c6c1088f45c",
+      "source_sha256": "ef3b34f1d7c16bc6027d8c30e8dbef5695ccca8c5bf8acff44ed615f3a0aaf14",
       "source_size": [
         384,
         384
@@ -5277,9 +5277,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "31b34941f8dc0755990b5edb06fd785348cf765c27dca620c29b8b15a6fb3b55",
+      "source_sha256": "9425fd4ad2e2fb396cddb713f02378105ccd1401ca266fab097cb7df0f7aa272",
       "source_size": [
         384,
         384
@@ -5342,9 +5342,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d923536d6bc36e89e5341273075b35f05ca3d6913202a4f3652c98b2ee1248d2",
+      "source_sha256": "8b5e9f8e8b3ca7f3c718d5efcb36d185f7e1cec1bd490239c1947670a797d527",
       "source_size": [
         384,
         384
@@ -5373,9 +5373,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "df7432b7528ebda3f34579de10925b7673568fa1fb92d40b0cbab7d29e6c4f2d",
+      "source_sha256": "132636b7f541df7e4725acb2145f52a734bda45be4fbbdf06402c70dfe67473b",
       "source_size": [
         384,
         384
@@ -5408,9 +5408,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cc10710c07c51a0022df157f5d893afebbf41fe79e8b1811d3fdc05658dc4e29",
+      "source_sha256": "a99d1a1529eca64ab3c46d13e78e04fd6fd9b7c58042f9062e8f4b3a306ffd9b",
       "source_size": [
         384,
         384
@@ -5473,9 +5473,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "73f444e9436450fe96d8147c14d9f507c7236d03a799f905ea3b4dd97f3c37b1",
+      "source_sha256": "4008a90c46628e56541fae35701fb701e0b89a72df7cefc0515dc0120599bea0",
       "source_size": [
         384,
         384
@@ -5763,9 +5763,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1702fe069af1a0aace75d04776d24feac76ffb4456af19dd29badcdb51cf2047",
+      "source_sha256": "8b5f0d835727b5f59febb4046b81f38d7ae2a4e1c84b05c4467d94098aa1f315",
       "source_size": [
         384,
         384
@@ -5827,9 +5827,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "6fdc1d5b1abeaa8e2b49b03e917af26f021f13e8821faa12212614d6f32cd224",
+      "source_sha256": "40f92c5b62a6c32143b35902a854ab8c2b6a94a1a5bf295257df8215baf42992",
       "source_size": [
         384,
         384
@@ -5889,9 +5889,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8713b141e7b93a97cf9750521cd3c4b879244b30cdc2782ed88c9a8973612a6f",
+      "source_sha256": "b4ab0654aae59952de38a4693b22bf49ccd6d7c54bac2e1a181b19be6624a81e",
       "source_size": [
         384,
         384
@@ -5920,9 +5920,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8f71fefcfaa8f2e5fced61c8a8b76ee77cbf97bc5a56cb589493d579211b96bb",
+      "source_sha256": "43c13829a5aaa4125e5236f6466edf0e7dcbb72efc9917aecda3214f36cc9972",
       "source_size": [
         384,
         384
@@ -5952,9 +5952,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "71c31d3347df72691588ba5c6643965abbb7e23f1de2056fd89091bf98dcfd12",
+      "source_sha256": "ed9887f7af4e3d65ed846f53632e1c4a152630d2a52e914e45d9841ddd687f63",
       "source_size": [
         384,
         384
@@ -6076,9 +6076,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "7fdbbab4a0a7fa221bb76244363496e21dd56a94163f58b247b1153115982e85",
+      "source_sha256": "2977a8ad0b1785e9c2db3bddc9346a8446152031d7599653f60b6fb0bfe798bf",
       "source_size": [
         384,
         384
@@ -6140,9 +6140,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "9c2d1cfb8d88e3e72cf310995f49bccc02df00a1c641dd8c06cf77e4481b348a",
+      "source_sha256": "777d6f6479ba05e9fcf57e4366b17393ec67fe38d250951629321c01369fe8b7",
       "source_size": [
         384,
         384
@@ -6364,9 +6364,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d248ba0a855d23ee99b1ebac84c5d6cef728eb61f962f124348fc14356795724",
+      "source_sha256": "0b75c1a5cd72093c3ea457f03d1bcceb5a055726f18725f6360b3b89d20192f5",
       "source_size": [
         384,
         384
@@ -6528,9 +6528,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a57f9947304a5fbda73ac49c1849310d0d8c8ba719c05531eeac02df1064a1ab",
+      "source_sha256": "0adcca8e74fb2fe61fed3585bb5473e788e0193a91ca615d37aa9c4e5a27052b",
       "source_size": [
         384,
         384
@@ -6559,9 +6559,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "08a281a0838e0188d59fdb84499f2836fc60907b9141a0e5a71e9988781194b2",
+      "source_sha256": "a1cbf3bcb3551f982afc8dc55c98718c5a389642c2082e6425121fae122b5a21",
       "source_size": [
         384,
         384
@@ -6590,9 +6590,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "ef746b62b09b9b27e6528b193c9f2fbbc786390d16e2b638456d1bc49805b82c",
+      "source_sha256": "9f13360af0cd7e3f646fa8a8f0ad7c1675b3280e8c76c5f59cb7f202d99ee400",
       "source_size": [
         384,
         384
@@ -6621,9 +6621,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1c7a6bb0e5d2390be527227fe282a34cc5afc58637565b73b5179b3ab3d45d7d",
+      "source_sha256": "39c7b88ef5946021351a34809bdf45e1304e2a8df5e73c78c81a29dfeb5064c7",
       "source_size": [
         384,
         384
@@ -6682,9 +6682,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "0dfe381705eeef19b7bfa72ce9e8b66115b41e0746585cea9da4c5b583815227",
+      "source_sha256": "70e2225207d438ed286aa5dd41547e70db355f12211c360a8947fefcd707fe80",
       "source_size": [
         384,
         384
@@ -6764,9 +6764,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "5ddaf69c4e8e9a8db36e99ebb7812a677c640a355ac36343afa934e878dd8b34",
+      "source_sha256": "7942b4f61f90b34e62496687914824cf9a7a968503cf24b72293c509961ab591",
       "source_size": [
         384,
         384
@@ -6827,9 +6827,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "04dadf0dd0e2df69e2a24d8d4c02874d084ad373f6695c6e879b87c94fd3d475",
+      "source_sha256": "1d88c8742801bc119d1f2989ab04c2c013c630cde757d8f44e2d535bfbb17ebb",
       "source_size": [
         384,
         384
@@ -7116,9 +7116,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "ce148c9b4fa09a30edb92810d50c5d93501eab16cbb1f8001121ab3eaa73691f",
+      "source_sha256": "8f8396a43dd1f10e454405997d5b2475c7fb7080239e6c15a4986d656fedd980",
       "source_size": [
         384,
         384
@@ -7152,9 +7152,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c3aa652956a2682fe3e2df2919988d499eb82012bca8daba551481a93cb59230",
+      "source_sha256": "524bd47a04d6041a7895804a419a693b4ee2a8b84603724c8fdca5fb24369650",
       "source_size": [
         384,
         384
@@ -7341,9 +7341,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "0910100f52e7d6f92d3c992fcb867353b4ada867517d9d810e7551e48e74b00f",
+      "source_sha256": "e03c748cdbc51fe10c2f1a49ca81d3e7080edf59d32072cedce54463f89ec163",
       "source_size": [
         384,
         384
@@ -7374,9 +7374,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "e493854bdb3a140851550cd35fa9598be0fbe58915c4855b469b5372ce371ed3",
+      "source_sha256": "b93f070c2b9dc76f0fee9fbc03b84e711848b895c54ed74d24f9b2fe1940727e",
       "source_size": [
         384,
         384
@@ -7604,9 +7604,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "f2ae1c604244aea4f88682e257b207e9327e9b050138b2e7417865a5ffa4f0fd",
+      "source_sha256": "214f9167ea3da7269baa83198d2def2f057355b2e0a9348bb1dfb1e43ec61b85",
       "source_size": [
         384,
         384
@@ -7636,9 +7636,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "acfe5a466aa4e115ea3e2a0db0105e47723fce3def017405fb6aa4cd8f88777b",
+      "source_sha256": "2d2fd7c76857670fed07915da0b4874e09f4d884cf0eb5b605694f38360d5db5",
       "source_size": [
         384,
         384
@@ -7667,9 +7667,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "08739693b3479c2083c2c6fbed2ecbd3f44f639762b9989f593f778b60a65af1",
+      "source_sha256": "8fdafe1eeb8f8f76bcc33343d31728641e9c6152e25c2aa8fa0281c727a0b17e",
       "source_size": [
         384,
         384
@@ -7698,9 +7698,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "7d0b2e1f254be90e8066f2b96a673f2223cd0b5eb5ef6f43d81ddb396d81ab5e",
+      "source_sha256": "7bf51d8043dfc94f06d9f049770574f04315be07eda7743d06badbce11d9a4c8",
       "source_size": [
         384,
         384
@@ -8123,9 +8123,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "195efe9821607a3fd6c5ee3f215d92e2caac6f6090375c152ebe9157af6c5e45",
+      "source_sha256": "bfe3c6a2408be4c3ca223228a11f87fe3f0855c70a30ac273160a8758440d399",
       "source_size": [
         384,
         384
@@ -8232,9 +8232,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "939f5c900cd4f6d3f284869be553ce8541634b065ae4c6ef6edfc4c8b0d1e362",
+      "source_sha256": "5a4f52ac19a0d2c26ac57678e59ebbcf400d6036422e54635db35db22d9329c9",
       "source_size": [
         384,
         384
@@ -8659,9 +8659,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "96e70c30fd6e621446c6756ef7ff122dac66e8fab9026165f75bfc338f972dba",
+      "source_sha256": "53051560c114ba89f0953800a377336426a4133fdd9d182ffd9a0a484a78f8d7",
       "source_size": [
         384,
         384
@@ -8798,9 +8798,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "5dbdb245d4196ec172357a9603959afcc396b3449bd92aaf589430e6f06684b7",
+      "source_sha256": "68ee93eb49238b37a55d6f39976ecb48c9a662824a82250d6cde281dc99171d4",
       "source_size": [
         384,
         384
@@ -8872,9 +8872,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "3acf5b8ff8e6606598233438c853221d4279bd91732bf30f421f93e41d31ee8c",
+      "source_sha256": "c5719085a6f9496394f53f5a489f5fd317603c5f0100f3362106dc3303c3d633",
       "source_size": [
         384,
         384
@@ -8947,9 +8947,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "e392fc9ced99d728da93be30adff1e1ef34d21694b48c3914352e4b1d76caf88",
+      "source_sha256": "7a18eae53ea5b95269d0a91f11649db919e7b7bbc3238f8876a84ebafe01d95b",
       "source_size": [
         384,
         384
@@ -9333,9 +9333,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "dd3c60a228cf73da37d45f13185651164ce104bbf6341750595778208664c629",
+      "source_sha256": "f0243cccf1cc8d7a0b33dd9a2a991edf667155dbb4899df02b870a5f5374b637",
       "source_size": [
         384,
         384
@@ -9366,9 +9366,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "725c451c26b37a716455b4b3e1df09f57648fd02fffc42be12312a53cdbf23dd",
+      "source_sha256": "07d6470a80f24fbd72291a2c7599afe9fdd475bfbcdb313badf703987bc03c16",
       "source_size": [
         384,
         384
@@ -9571,9 +9571,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d06961cd84fe7dd10971e7a6a0bbb27658f79f7a0e2be173905f13250f407b4d",
+      "source_sha256": "33451ca829b0670ee1af90fc65ebbbe2709170b002e18f85a421ff99788000e7",
       "source_size": [
         384,
         384
@@ -10002,9 +10002,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "e0be08441d5de2f916df0ad151c2928f2bfd78d1bc9410539f1a981a097c11e7",
+      "source_sha256": "ca59151a9ae351a6e8302bc7b4aaf7c4e5c49b0cfe34836fe79f796568ba18e3",
       "source_size": [
         384,
         384
@@ -10837,9 +10837,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "079143283f72d316d9f27c5cf7482949783bdd2b10e9fe1b7cbeb3b65c910be1",
+      "source_sha256": "4e220e0e40a4bb0666f28eda87c735a387eb6a9de92e09525be38748ac346009",
       "source_size": [
         384,
         384
@@ -10912,9 +10912,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "fe711bbc11d0b690f1d640af1a5d1ed8d142515522975fc50a24679bd9a24fc2",
+      "source_sha256": "41c511b1c28f7fc3f4c3b7c7e4ed34038d4cc4341790970f9de4e0e6a267437a",
       "source_size": [
         384,
         384
@@ -13095,9 +13095,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8cfcb573af4f7a3844e81c21bdd36c685f5b45a8598f3e0b6678abc58749d7f0",
+      "source_sha256": "2c5cd6e7120057c637667ad292878ae18594dca39ecad9fc142e68722e141c91",
       "source_size": [
         384,
         384
@@ -13175,9 +13175,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "2ad53edb3eb876ad4daf85f769a39eab60a2b203d6885d373d7ac996a157370a",
+      "source_sha256": "6a63c611ce4f92137ed5f68f34f87872f579d9b75c18fb0861d3fb0fa7dcc115",
       "source_size": [
         384,
         384
@@ -13381,9 +13381,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "f9b9b50ba4e9e45ead038cd43b73639d6d0852b41a976e060cc4e1df2ff92f19",
+      "source_sha256": "2a0800604e5dd114e25db96b7757b0ffc7fecaf80f40825dd214531a1864e52f",
       "source_size": [
         384,
         384
@@ -13922,9 +13922,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1f4ce18211c742394b27e1babd5aa755e8ac1fe20f9c20ba57495d88f0262761",
+      "source_sha256": "7397163c79d1f71466a2a16273954c71cb88776e962fa337180e3f290d4d3e1e",
       "source_size": [
         384,
         384
@@ -14036,9 +14036,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "256d1cf06983f7545e9ace94098b0c95a9f87429cd6d2a7510d6a3690b78b6c8",
+      "source_sha256": "ea07f796996cc54a1e13c3f69f25108ca180bdf3c05ac2730c46e0ec9a706f01",
       "source_size": [
         384,
         384
@@ -14102,9 +14102,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "9873dfecfe6a4cd9bdd763cdc8f8569c006e50d5a741ab7029333d068b77e505",
+      "source_sha256": "7ca399b35c3eaa4688243669798cb48a6bb1556bf01728d8aff9cbc8e99e2366",
       "source_size": [
         384,
         384
@@ -14135,9 +14135,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "7e20d5e7dbafffa4bbaa87bb7c61e5707f47050a109473ba9132941907c5dd51",
+      "source_sha256": "4b4395c3c330b730f0b9b018cab776dd4a3269ffb17c5c39ce5b101e4ea1255d",
       "source_size": [
         384,
         384
@@ -14342,9 +14342,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cfbd51cec2abeb04b99548c6eecae80e1856c2eedcbc3c648d558ceecc3dfac8",
+      "source_sha256": "b7c8db0cdf0a932711d41a7451979854e264600050439a38b02f1b3b5a489f2e",
       "source_size": [
         384,
         384
@@ -14571,9 +14571,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "fa71ccaefed3e1cef5eee1cac2b8590b37f8b26c1ad3cf3f9ec743062284c9f2",
+      "source_sha256": "fbea75799808e7f874d285ba9365a21517fb3394248ab113c834dcc52c520201",
       "source_size": [
         384,
         384
@@ -14633,9 +14633,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "b4649a394ea02bb2e9becd740c989cea3bf0bf3497da9a85f9f669d2b2dbbac6",
+      "source_sha256": "3ed6bd50ea42b8d16521f8619e103ed6473b9e62d70eb7c38178223302d1bbdc",
       "source_size": [
         384,
         384
@@ -14695,9 +14695,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "712b2e95bff5bb2bac701eaa058ab451a1fdce8f69a2c4fc2cf9a08edafe0d11",
+      "source_sha256": "418ff487c8693d2cd728aac82325d5caf411fe87754577ddb898b186841a39bc",
       "source_size": [
         384,
         384
@@ -14757,9 +14757,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "7b08c2da5d9264f7576458cde527433fd770c6ac91b46824b22c3237acf79de9",
+      "source_sha256": "f32bfc1135d1ad81118689992a72bdc499e0ff2ae3e8d254e254aa86f4362993",
       "source_size": [
         384,
         384
@@ -14789,9 +14789,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a106a9be0334af118503d8f881c238c01acea10688ef9bfe6acdbb56e9bb13bc",
+      "source_sha256": "9b82356eda19100780b3f91ba71f546a6a970343e4e19c281dd902986e69c99e",
       "source_size": [
         384,
         384
@@ -14851,9 +14851,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "458e5c1da14b45463d2492b08720b10d5e62ad2a4b36b9e64f108ff1d43ab7a8",
+      "source_sha256": "3d17c8507ef2e45553526c824dda327173f0b8b60233d0a53ea4b3a239cd3458",
       "source_size": [
         384,
         384
@@ -14882,9 +14882,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d535119ae329d4865bd6764b9a17e2922debfda1910a0cd825c8e7db53cf5cc2",
+      "source_sha256": "4e42413df7e57a72ef6dfffe1a7cecec9ec399163cbcecfdb933cc63552494bf",
       "source_size": [
         384,
         384
@@ -14913,9 +14913,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "31f1246ef054684e51bef47bf2ae091ea3175f265a3acadc113cc3f7602402d0",
+      "source_sha256": "737cd305a9ab542f42c7c2dc7f8347c8ebed6f4936deb5e3ab77066a050e90ef",
       "source_size": [
         384,
         384
@@ -14944,9 +14944,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "0eb07521c08b416429e91e9ac9a382238e9b487cd231a102edf3970e14b2ac49",
+      "source_sha256": "84f602f86bcb26860634ada1d00a24d6a7fb4a9590b5facb0a37ab54c6d4fd03",
       "source_size": [
         384,
         384
@@ -14975,9 +14975,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "44c698bddd0bbe74e64288f9e62fd921aa74af366e96841b79fd167ad12bfcc6",
+      "source_sha256": "79402b2a1438ceec2019c2aa866e363a2041cbc8c993908680bfbe1ed53451d7",
       "source_size": [
         384,
         384
@@ -15006,9 +15006,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "21d74180815f5823efcb7ba0677bb625a2f4547e213fec04c7329419bbddbd13",
+      "source_sha256": "bb617f68a33629091da935136109c1186db8560b8fea6276d380fdc8d30aaf2f",
       "source_size": [
         384,
         384
@@ -15037,9 +15037,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c7516f71b61e94ae6b4b7e86febe910b5c5dfcb2b944dd3a333e57306a0ad71d",
+      "source_sha256": "b70a00ac15c2adfd0f9be688fa57dea604055633280f29ff7fea69ca93fd6317",
       "source_size": [
         384,
         384
@@ -15130,9 +15130,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "10494e00e760d2bd133c9c6afc38acd423aac4fa86feaeef48cb8d16943123ce",
+      "source_sha256": "5aa6c2baa8abf88aa2a74890edf500a52bd8a47b9cfa07940d5dbe2320fb049c",
       "source_size": [
         384,
         384
@@ -15161,9 +15161,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cf0940a7f26d3e7819a22a09d90d6f19455087a21d8770799c65c0ef830d9a0e",
+      "source_sha256": "32b1a3b2fbb7a4d1aa255ccdeb7919a4f63967527e8d96d1f052ad9b45eb03ac",
       "source_size": [
         384,
         384
@@ -15192,9 +15192,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "50ea26f249a4b7ec8a69c02362730963fc4db5adc30b7249a0f00e98060e864b",
+      "source_sha256": "bcec29e1f424b21155a1073050264f5cec4aacc587d0b5768309bcaaa9bc0a7a",
       "source_size": [
         384,
         384
@@ -15223,9 +15223,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8cb02b1e96ebc6c3f94edb9762051cd7147ad9332a7e48c9d91d49c32b029fe4",
+      "source_sha256": "1db0582d692b8409ec6f034b63c80a216e270515aefcc108a75f7137c2128da9",
       "source_size": [
         384,
         384
@@ -15254,9 +15254,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "bc9b69bdabf4f5b1d59d75e1519900eafedabf266d0aa395f22509440d8807d1",
+      "source_sha256": "f1fa787aef5b2cc0cf90e3fa79f7492594d27a1b3170e64daee86c4cafbc7770",
       "source_size": [
         384,
         384
@@ -15285,9 +15285,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "eecb93838f4d5ab82b3551871e600c7bc5c03f805d4bdc33ac116d26415fd262",
+      "source_sha256": "42e4506326ca89694ef933b3827d43d4e96627e2d765f0ca41d53a391ad8ab7b",
       "source_size": [
         384,
         384
@@ -15316,9 +15316,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "4def2699f82dc5b0dcec14ca0310bf082bfb16def5d784bfe8ff2341049a9c5f",
+      "source_sha256": "ec9d259560b3ec7808cc0b342f6ac411ba8bba1fe9ed0d27bc2baa6b74373401",
       "source_size": [
         384,
         384
@@ -15347,9 +15347,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cd7f0be51e929bf03c343d732dac82386cb922d8b7b5fa4d5cb28f202ab01002",
+      "source_sha256": "f8489d7839f422e4019db8c1aaf0e573669e51b22cb46c5b712091c6b668d1c7",
       "source_size": [
         384,
         384
@@ -15409,9 +15409,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "47c6cf25ccef1312932346cb9f12563b137b0c562e3054ac4ee3fbafb203e5f3",
+      "source_sha256": "a554bc043a087d1a535fc86f95f208492f01ef4e11eae52c16c8a4efcd605595",
       "source_size": [
         384,
         384
@@ -15440,9 +15440,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "18eb2361f400cffc685379fa1ca142f557a64e3de734a3aa68f80e42f70a720a",
+      "source_sha256": "b43e3c25b8100168d0d787e62d8305e6e040b93c1ec88236cd4b27cc16211790",
       "source_size": [
         384,
         384
@@ -15502,9 +15502,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "439167225ddd445a060968ca73a71e87691779d65b1abd0e127f7b8046b51f17",
+      "source_sha256": "7ebc4458b2f9913bd215818deb73fdcce2ae5e112194345015173aa7f65b52d3",
       "source_size": [
         384,
         384
@@ -15533,9 +15533,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "bd8268ab8ce0f1ff2a627ce602ac1f3f0350bff14450cac3bea5c3ab310e7025",
+      "source_sha256": "4b1dfda5559c9c91e05380ffb8b0e0b2af62c988dc04f930b7bc8643ac4ec7f9",
       "source_size": [
         384,
         384
@@ -15564,9 +15564,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "f8807936e44118b96427dd7b8752879fb3591a3492fe83488240f4a70931a5ac",
+      "source_sha256": "8ad8b87d28ec589c89b7209908fe094a85362fe95d3fb683de0a9d74b2eb6cd1",
       "source_size": [
         384,
         384
@@ -15626,9 +15626,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "28be54fa60f1cb8a82160f72eafee896eab6ae69211b7c259a0f367fc6021b57",
+      "source_sha256": "6c05ccfcb5172ae01a3b44f5d85fbedb09e23f6cf94d5e079697efbe094a60d0",
       "source_size": [
         384,
         384
@@ -15657,9 +15657,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "dd164514f319da4281cbd2379fa03fdd1047416b76f4a2c0527a0abc273e64d4",
+      "source_sha256": "15e16d9ca8358b7378f90c07e276528c39acdb4d3fe1b71a5a47b5305b0d27b2",
       "source_size": [
         384,
         384
@@ -15688,9 +15688,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "aa5bdd557899e6a6dd4d4594b75b657d78e415d261080df41a317b0533df0d5e",
+      "source_sha256": "0a311fc778af05e94f70efc235648887fea1d410472794817ae0a67229cecac7",
       "source_size": [
         384,
         384
@@ -15719,9 +15719,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "eb74d61bbe7e08a61cb35b9a574394877a1228ce7b1ea8efb106f38a5df2db7f",
+      "source_sha256": "0a83ba52dc237dbc04f6cc8ad9fc2073f0d2eaf65bb40bbcfea12d90e1c44c6a",
       "source_size": [
         384,
         384
@@ -15752,9 +15752,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "3595eeeb83ec85186aa7b66ee03b561b9b96bb28cc98ec1da007b98ce20ee0a1",
+      "source_sha256": "c9a394d2f6248cc52b86d0a083b538d7fff59209c226bcb175e8b59c04bd57a9",
       "source_size": [
         384,
         384
@@ -15783,9 +15783,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "675faeef3c657cb00b4627af25f936a00f2f03d6000bc8ffce08d33fda6a3796",
+      "source_sha256": "29d895376cb6509d93044f096e796914bf49a45da41719ea78bce60281842266",
       "source_size": [
         384,
         384
@@ -15814,9 +15814,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c2657e0d12dca0716faa16ae4edb3598ff26db4d46ff935d02f8a3d86b96a6ef",
+      "source_sha256": "90706eea0237e580a24b61157e19d2c9456ba6e1aee4c2fdb3f8f24d9375e6a5",
       "source_size": [
         384,
         384
@@ -15845,9 +15845,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "d95f03f9198bb63e2ab9d2ec7f14df82783f51409fd5227b9877ba23cb80c01b",
+      "source_sha256": "a34bdb84940c352acccb191c0321bf93cc8305b40614719ce6d7c02d5dc0230b",
       "source_size": [
         384,
         384
@@ -15907,9 +15907,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "69ca408012d78ec3931aa1575e791a51987baa7087b32328dbd8b6a79bd5b113",
+      "source_sha256": "7c61be0ad33a627352f4525a358dd81b57d2df1abeb6929480de3a7517058314",
       "source_size": [
         384,
         384
@@ -15938,9 +15938,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "eaa8dcc49bcb6d817782fea616d6f04f9e632a4c41dc11cd07b114db59997241",
+      "source_sha256": "6f37fd6ba6ef54a173dc19723fccba82f262bf2049410d1a9499dedb328fd67e",
       "source_size": [
         384,
         384
@@ -15969,9 +15969,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "5f7be7f1691f31908ba3aaefd22f6b140acd0b42531445922c37971cfd49777d",
+      "source_sha256": "907a419eafc49d6a43cc339e4ee5a591c054f784160ee70962b9599a4525af0b",
       "source_size": [
         384,
         384
@@ -16001,9 +16001,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "5a8cf804a5c165bb4f0ab56a4c80bcbda8b9262307843115410a0c665ade4c05",
+      "source_sha256": "41beda7c3e358cac980c2f7407e962a1e144b7a335e61047179430f19965ed6d",
       "source_size": [
         384,
         384
@@ -16190,9 +16190,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "620279733e75274041b446623dbc3df2447c26d8e39ef65c9227fc1a1e0c1d61",
+      "source_sha256": "08864bf2677b89b41f1f24f42ec7dd3f1f8c1619873246e82950b4d42047b98e",
       "source_size": [
         384,
         384
@@ -16579,8 +16579,8 @@
     },
     "format": "png",
     "generation": {
-      "method": "Original Sorcery artwork, optically aligned",
-      "source_sha256": "9f7195c7ca96fe23d961e7f5587da70e96b4edfc8caf74d50af4f73f8635a402",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
+      "source_sha256": "3a966c0396b80175ea345a65a93184b34a64eb49d68be34f63df6e3c7fbfae31",
       "source_size": [
         384,
         384
@@ -16775,9 +16775,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "18f515955cee3c18e93f3ecb79d60cd1176500fddc8a20b3818d7915cd7c9845",
+      "source_sha256": "1a38a7bd841e54b64deea39628259336cec4d85629387d4eba96981f179392be",
       "source_size": [
         384,
         384
@@ -16858,9 +16858,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "4dc4b8f9b40f49f164e6e7c9c1131c87175ad2039e20675f4d619c0b477a8b27",
+      "source_sha256": "c8feb3f29b2c17b7f5ab716971834f71ca879baec5150cf7c2b9d31a24057fdb",
       "source_size": [
         384,
         384
@@ -17702,9 +17702,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "666f7c78b4c2a1fcdeb644f5b4f8b53a9aa609c2d204359852e62904167a123c",
+      "source_sha256": "c0131b9f6b61e772050ebcfea4e7ac1a6217308024164af7c8db008b18bdbf60",
       "source_size": [
         384,
         384
@@ -17810,9 +17810,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "058fa03d0bdf640cbb96ae162ff4c136b53d6cab7cc0a243d6955cf67e0dee3d",
+      "source_sha256": "71425e45518d76c6420fe8e27d2254706f80775ba87f9f6e74f95316c8e3fa53",
       "source_size": [
         384,
         384
@@ -18238,9 +18238,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8ff743cb677f2b6b380eb954a8a05bbba4dd2ce2825015283bb39e8e57383c06",
+      "source_sha256": "4873a6b109e3aade2822c83e3de6f4d4f410846908314a7834cab7f55c8191ff",
       "source_size": [
         384,
         384
@@ -18272,9 +18272,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "587e7c9ea33461ba07de33139bb04c0cad9792ad350edd5a0f3a00f3ffc31bd1",
+      "source_sha256": "3321dbdc262d180850855f40c8c9717480bf5466a4cb5ade79e3ef20121312ed",
       "source_size": [
         384,
         384
@@ -18403,9 +18403,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "ef4d95f8490b6efbde8378b66eafd51031f3476ff146be3c8c9cef41c1f9f6b5",
+      "source_sha256": "9bebd720b41d13435cfece1a40ec9dc8fdcff66ee664e65b93303832b29a7257",
       "source_size": [
         384,
         384
@@ -19342,9 +19342,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "261c3c654309b940a8c70a8c9f027bd3d14b4717a328ab9aba42f6a33b5b67f9",
+      "source_sha256": "8c03152421b8101475633978704cd8d549425e69d93d27ebecd1e9599d6400c8",
       "source_size": [
         384,
         384
@@ -19553,9 +19553,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "94b56419dbd312bb39885ca8721f597ff9fba594674abaa188259ff2f513818e",
+      "source_sha256": "ee8310b9efb1e9834b2f5f2b25f28df6d45c6c23f40654354d9fdf9f0e01d6b6",
       "source_size": [
         384,
         384
@@ -20850,9 +20850,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a34fe87f5f2dbf894808a638f722d91d930bd593cbe37d0203b8da62d77b2570",
+      "source_sha256": "982f33c62ae77661d1e77f214f76e925382b665ec97757bcef1a2798deb78bb3",
       "source_size": [
         384,
         384
@@ -21295,9 +21295,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "6ce84cec024c9f437d2f80c7849df18b04690741cd7653f575605f51616ca3b6",
+      "source_sha256": "7b244051c0f65eb743b3a25e8961987103db63b83e2a49f7c9a94d488e7d8deb",
       "source_size": [
         384,
         384
@@ -21730,9 +21730,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a4a49b9703f27e2f13be5a222621d23ccb7f22c8a7477dd490c4b03ca9f94515",
+      "source_sha256": "7d9e96d7760ad75030a7a1920eaa6294889359adba7d0bbc7c7db2b34fe6c1fc",
       "source_size": [
         384,
         384
@@ -22010,9 +22010,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "9d9c8cec0c176665d09d8e9f93b527471a20f9e9ecfc5063614b62b5083c2024",
+      "source_sha256": "00edf52b27247c27f82e5aefbf2adbe4124973fc5e08f390e59c1c3f7cf28f5f",
       "source_size": [
         384,
         384
@@ -23471,9 +23471,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1ce1e7f1f7a3476aa619bbafd74a96417d8eef4fc341bd302c66c07efbc126b3",
+      "source_sha256": "d0c4c84eea27f547dc5d74c692fa6481643b3c7abad7cbff23e093d2b028fe7d",
       "source_size": [
         384,
         384
@@ -24003,9 +24003,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1329655f0a2e69065becfa2de035bb3c18ce3d8f92bbe361df6d6e8377f7e791",
+      "source_sha256": "a20c44bb55aa65601e9cf8a6cd8ccf7e7e39a170cbdcf781930ed6129a077091",
       "source_size": [
         384,
         384
@@ -24776,9 +24776,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "cf02b84c87ab4210d835ba07e5d85d0484cefb3f9a24ea2feb9ddd19a14b7ba5",
+      "source_sha256": "4a0c0f1b0cc201da13a8850170bb02caebe8d4d5464a68a0f39ef8e252762985",
       "source_size": [
         384,
         384
@@ -25523,9 +25523,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "ad4ea967506b1a337fa223bd6bd562a4ff70efc25deae400b023c25a75728aa0",
+      "source_sha256": "3a9c7d06592a5ea0103f2684c952bc451d535bc96bfd3726758287035dfc9c3c",
       "source_size": [
         384,
         384
@@ -25597,9 +25597,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "0edc1c47e36e5144951cf939e4739f777d7035714cfe5885c102e26b59399e5d",
+      "source_sha256": "9d69a1c91907e512c2153b60a6f5b9172d366d2ef530099c0b7a01d488414d4d",
       "source_size": [
         384,
         384
@@ -25974,9 +25974,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "89220b2124fa3da0320e2c5daa56da634827b1340166b6463036b2e232aca46c",
+      "source_sha256": "cb67999076dece6822c98a485afab74109cc993cbacfe3037bbcd1ea746ebba9",
       "source_size": [
         384,
         384
@@ -26152,9 +26152,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c88004817661150a7ec2976c49de224fe3149f7c14ceedb1a6cbfe7b40dd077f",
+      "source_sha256": "84f7a79e612d2d4c079bcd043062fe73f3de0e90dfece440a9dfb03994c5fbbb",
       "source_size": [
         384,
         384
@@ -26183,9 +26183,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "2890650bf595c742ca6229b1f4e8029c0dc10987d9cf82aea3271b319f00c624",
+      "source_sha256": "686c7c992b08bd96243d821b18bbc54a83b9d8c25827f2247ca51793fd3bcb32",
       "source_size": [
         384,
         384
@@ -26217,9 +26217,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "297e9afb08b80c26a9c6f4a43e51c8e092099535756efb877d7d6a278a41a997",
+      "source_sha256": "03ed7290b95ff274a3d3acf015e1fd6ed6f40b85ac787d8f6b5c4b618d11ed63",
       "source_size": [
         384,
         384
@@ -26280,9 +26280,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "59204ff31c1c0da84e642d8a3773e8472066b76dac7b6721cc9dcd6f1bea51c7",
+      "source_sha256": "d8ecb1de6063e618c29ed9e3f029f02d5c08f733e0c5a12018fa14ed91953b39",
       "source_size": [
         384,
         384
@@ -26441,9 +26441,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "12eef501fd3039ba0fc9f2da6a29870da936dfb587dae46fdd263b8535840f16",
+      "source_sha256": "865a1558f73b59132738e1fc8e52b97c6a40e5f4601b2c2c9bfe0979bf99a7b4",
       "source_size": [
         384,
         384
@@ -27386,9 +27386,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "5bf4348f732e31d629eb4a13c7510cb623d5dbc553a91878d81da687a5f9e280",
+      "source_sha256": "87f9e366f02332ea5a7a33ffa9b522631ef3361a8eeb17fa6218fbad501d9e0f",
       "source_size": [
         384,
         384
@@ -28419,9 +28419,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "1997a9f6599dc39f2e1eb6031ee736df73a0375193e861412592c359dabbb9d5",
+      "source_sha256": "8fe830077d7ab2471d0dc7b05b706f78990dd23e4cd63cd19ee3ce97689098df",
       "source_size": [
         384,
         384
@@ -28536,9 +28536,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "bb9a963e73da55dcac13fe7c519429a2f94256dcb3765d42c51a4fb972c4fa29",
+      "source_sha256": "f1e50a3943f506190ece3fa36ad2e76c7834f784e196660ca9399d23f80ef175",
       "source_size": [
         384,
         384
@@ -29265,9 +29265,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "74560ac1cc93b31d804135f3086c0e492dff2b8ea586fb020471367ae8cd788b",
+      "source_sha256": "9f2de7cc16466218b9ac9750ad2a14e74489f34999e3ac9c7188cecc751efc35",
       "source_size": [
         384,
         384
@@ -29538,9 +29538,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "8f99e437b43cd7e9779fcec0729e235d4261f054885b8659898648683349f445",
+      "source_sha256": "849841f0d2c34fe5cceffc96720a6b2a9ea4af4f35d7af8ebf4b32d1a1589da3",
       "source_size": [
         384,
         384
@@ -30068,9 +30068,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "a1e6e5cd4af31e059e902fdf2ebd308957de3dbecdf87c7dff304d54f3e70eed",
+      "source_sha256": "6443b76d0c9f9307cce20b7b368541f34b4215451d15eaefd464b70c72f702b6",
       "source_size": [
         384,
         384
@@ -30304,9 +30304,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "c1ccc43d502b3f27097b03ff2cf791b44304ba603d33e01ce8567710723ed5df",
+      "source_sha256": "cf9e1d36314e2a3535cc0ad09ae95f84e2a388106d2406e877df51b2b2f9c190",
       "source_size": [
         384,
         384
@@ -30337,9 +30337,9 @@
     },
     "format": "png",
     "generation": {
-      "method": "GPT image generation; original Sorcery design language",
+      "method": "bespoke_sorcery_silhouette_sheet_384",
       "model": "codex/gpt-6.1-sol",
-      "source_sha256": "81121ec802d10b3992afdb1c5c0ae70455c472770918639a5d1bc5cfc8ce9fc3",
+      "source_sha256": "db409f543e70c03e5d4916c33b17ba382d7a5c71a9814ac184ae9db987dec9c9",
       "source_size": [
         384,
         384

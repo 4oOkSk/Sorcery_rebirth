@@ -2,7 +2,7 @@
 
 New icons follow original Sorcery's vivid Material colors, clear white details, thin paper layers and directional shadows. The original pack supplies the style reference. Public application artwork supplies the mark: retain its silhouette, negative space, lettering, color relationships and arrangement.
 
-The collection combines original Sorcery artwork with newly illustrated circular discs, hexagonal/shield badges, folded cards, notched tickets, layered objects and Material square faces with directional long shadows. Avoid placing a raw application icon inside an unstyled white or black square frame. Authoring method, public references and the source PNG hash are recorded per icon in `catalog/icons.json`.
+The collection combines original Sorcery artwork with newly illustrated object silhouettes—such as stitched wallets, notched tickets, shopping bags, hardcover books, window cards, vinyl sleeves, speech bubbles, road signs, circular medallions and standalone paper-cut marks—alongside Material square faces with directional long shadows. Avoid placing a raw application icon inside an unstyled white or black square frame, and avoid repeating a generic folded-corner polygon badge across unrelated apps. Authoring method, public references and the source PNG hash are recorded per icon in `catalog/icons.json`.
 
 ## Style prompt
 
@@ -12,7 +12,7 @@ The collection combines original Sorcery artwork with newly illustrated circular
 
 配色遵循原版：鲜明、饱满、清爽的 Material 色彩，干净的白色和明确的明暗对比。参考支付宝和 Twitter 的明亮蓝、AIDA64 的红、Evernote 和 LINE 的绿。保留各应用的识别色，白色图形保持清亮。
 
-造型与材质：严禁在原始图标外直接套一层白色或纯黑方框。根据应用特征采用双层圆形圆盘、正六边形折角徽章、右上折角卡片、打孔票券、盾牌、独立器物轮廓或满幅品牌色长投影方卡。准确保留核心品牌符号与字形，将表面材质、薄纸层、明暗、边缘和 45 度斜向长投影转为原版 Sorcery 风格。图标在手机桌面尺寸下应清晰、有份量、有细节。
+造型与材质：严禁在原始图标外直接套一层白色或纯黑方框，也严禁把不同应用千篇一律地塞进同一个“多边形+右上折角纸”模板。像原版 Sorcery 一样因物制宜，根据每个应用自身的功能属性与品牌特征赋予不同造型：如无外框独立纸雕剪影、冲孔手提纸袋、细密缝线带扣皮夹、两侧半圆缺口票券、顶栏三点终端窗口、立式精装书册、半抽黑胶封套、多形态对话气泡、外带杯桶、双层圆章或满幅品牌色长投影方砖。准确保留核心品牌符号与字形，将表面材质、薄纸层、明暗、边缘和 45 度斜向长投影转为原版 Sorcery 风格。图标在手机桌面尺寸下应清晰、有份量、有细节。
 
 各图标与全部阴影完整放在自己的格子内，四边保留透明空隙。协调方形、圆形和自由轮廓的视觉份量，统一正面视角与左上方光源，输出透明 PNG。
 
