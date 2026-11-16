@@ -4398,8 +4398,8 @@
   <item component="ComponentInfo{dev.daily/dev.daily.LauncherActivity}" drawable="rebirth_dailydotdev" />
   <item component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}" drawable="rebirth_obtainium" />
   <item component="ComponentInfo{dev.imranr.obtainium/dev.imranr.obtainium.MainActivity}" drawable="rebirth_obtainium" />
-  <item component="ComponentInfo{dev.sanmer.pi/dev.sanmer.pi.ui.MainActivity}" drawable="rebirth_pi" />
-  <item component="ComponentInfo{dev.sanmer.pi/dev.sanmer.pi.ui.activity.MainActivity}" drawable="rebirth_pi" />
+  <item component="ComponentInfo{dev.sanmer.pi/dev.sanmer.pi.ui.MainActivity}" drawable="rebirth_pi_installer" />
+  <item component="ComponentInfo{dev.sanmer.pi/dev.sanmer.pi.ui.activity.MainActivity}" drawable="rebirth_pi_installer" />
   <item component="ComponentInfo{dev.shadoe.delta/dev.shadoe.delta.MainActivity}" drawable="rebirth_delta" />
   <item component="ComponentInfo{dk.burgerking.orderapp/com.deazy.popeyes.MainActivity}" drawable="rebirth_burgerking" />
   <item component="ComponentInfo{dk.coop.coopplus/dk.coop.coopplus.splash.SplashActivity}" drawable="rebirth_coop" />
@@ -4433,7 +4433,7 @@
   <item component="ComponentInfo{free.programming.programming/free.programming.programming.MainActivityNew}" drawable="rebirth_geeksforgeeks" />
   <item component="ComponentInfo{free.programming.programming/free.programming.programming.SaleIcon}" drawable="rebirth_geeksforgeeks" />
   <item component="ComponentInfo{free.programming.programming/free.programming.programming.splashscreen.SplashActivity}" drawable="rebirth_geeksforgeeks" />
-  <item component="ComponentInfo{gr.cosmote.box/gr.cosmote.box.boxCode.activities.SplashScreenActivity}" drawable="rebirth_box" />
+  <item component="ComponentInfo{gr.cosmote.box/gr.cosmote.box.boxCode.activities.SplashScreenActivity}" drawable="rebirth_cosmote_box" />
   <item component="ComponentInfo{gr.mobile.ikea.cyprus/gr.mobile.ikea.ui.activity.LaunchActivity}" drawable="rebirth_ikea" />
   <item component="ComponentInfo{hk.com.hsbc.hsbchkmobilebanking/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="rebirth_hsbc" />
   <item component="ComponentInfo{hk.ikea.android/com.bitbox.inspire.inspire_hk_flutter.MainActivity}" drawable="rebirth_ikea" />

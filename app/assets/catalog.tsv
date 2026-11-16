@@ -4,7 +4,7 @@ rebirth_500px	500px	Global	com.fivehundredpx.viewer com.fivehundredpx.viewer.mai
 rebirth_9gag	9GAG	Global	com.ninegag.android.app
 rebirth_accuweather	AccuWeather	Global	com.accuweather.android
 rebirth_acode	Acode	Global	com.foxdebug.acode com.foxdebug.acodefree
-rebirth_ada	Ada	Global	com.ada.app
+rebirth_ada	Ada Health	Global	com.ada.app
 rebirth_adaway	AdAway	Global	org.adaway
 rebirth_addydotio	addy.io	Global	host.stjin.anonaddy
 rebirth_adguard	AdGuard	Global	com.adguard.android com.adguard.android.contentblocker
@@ -80,7 +80,7 @@ rebirth_bluetooth	Bluetooth	Global	com.android.bluetooth
 rebirth_bookmyshow	BookMyShow	Global	com.bt.bms com.bt.bms.id com.bt.bms.lk com.bt.bms.mmx
 rebirth_boosty	Boosty	Global	to.boosty.android to.boosty.mobile
 rebirth_bose	Bose	Global	com.bose.bosemusic
-rebirth_box	Box	Global	com.box.android gr.cosmote.box
+rebirth_box	Box	Global	com.box.android
 rebirth_brave	Brave	Global	com.brave.browser
 rebirth_britishairways	British Airways	Global	com.ba.mobile
 rebirth_buffer	Buffer	Global	org.buffer.android
@@ -100,7 +100,7 @@ rebirth_castorama	Castorama	Global	com.kingfisher.cafr pl.looksoft.castorama
 rebirth_castro	Castro	Global	com.itemstudio.castro
 rebirth_cbc	CBC	Global	com.kbc.mobile.android.phone.cbc
 rebirth_cbs	CBS	Global	com.cbs.tve
-rebirth_ccc	CCC	Global	eu.ccc.mobile
+rebirth_ccc	CCC · Shoes & Bags	Global	eu.ccc.mobile
 rebirth_ccleaner	CCleaner	Global	com.piriform.ccleaner
 rebirth_chai	Chai	Global	com.Beauchamp.Messenger.external
 rebirth_channel4	Channel 4	Global	com.channel4.ondemand
@@ -358,7 +358,7 @@ rebirth_happycow	HappyCow	Global	com.hcceg.veg.compassionfree
 rebirth_hbomax	HBO Max	Global	com.hbo.hbonow com.wbd.hbomax com.wbd.stream
 rebirth_hdfcbank	HDFC Bank	Global	com.app.hdfc com.hdfcbank.android.now com.snapwork.hdfc
 rebirth_headspace	Headspace	Global	com.getsomeheadspace.android
-rebirth_helium	Helium	Global	io.github.jqssun.helium
+rebirth_helium	Titanium (Helium)	Global	io.github.jqssun.helium
 rebirth_hermes	Hermes	Global	de.myhermes.app
 rebirth_hevy	Hevy	Global	com.hevy
 rebirth_hey	HEY	Global	com.basecamp.hey
@@ -431,7 +431,7 @@ rebirth_jp_karaokekan_karakan_karakan	カラオケ館	JP	jp.karaokekan.karakan.k
 rebirth_jp_linecorp_linemusic_android	LINE MUSIC	JP	jp.linecorp.linemusic.android
 rebirth_jp_naver_linemanga_android	LINEマンガ	JP	jp.naver.linemanga.android
 rebirth_jp_ne_paypay_android_app	PayPay	JP	jp.ne.paypay.android.app
-rebirth_jp_nhk_plus	NHKプラス	JP	jp.nhk.plus
+rebirth_jp_nhk_plus	NHK ONE	JP	jp.nhk.plus
 rebirth_jp_nicovideo_android	ニコニコ動画	JP	jp.nicovideo.android
 rebirth_jp_or_jaf_digitalmembercard	JAF	JP	jp.or.jaf.digitalmembercard
 rebirth_jp_or_nhk_news	NHKニュース・防災	JP	jp.or.nhk.news
@@ -585,7 +585,7 @@ rebirth_perplexity	Perplexity	Global	ai.perplexity.app.android
 rebirth_pexels	Pexels	Global	com.pexels.app
 rebirth_philipshue	Philips Hue	Global	com.philips.lighting.hue2
 rebirth_phonepe	PhonePe	Global	com.phonepe.app com.phonepe.spoof
-rebirth_pi	Pi	Global	ai.inflection.pi dev.sanmer.pi
+rebirth_pi	Pi · Personal AI	Global	ai.inflection.pi
 rebirth_picpay	PicPay	Global	com.picpay
 rebirth_picsart	Picsart	Global	com.picsart.studio com.picsart.studio.light
 rebirth_pinetwork	Pi Network	Global	com.blockchainvault
@@ -794,6 +794,8 @@ rebirth_zoiper	Zoiper	Global	com.zoiper.android.app
 rebirth_zomato	Zomato	Global	com.application.zomato
 rebirth_zoom	Zoom	Global	us.zoom.videomeetings
 rebirth_zulip	Zulip	Global	com.zulipmobile
+rebirth_pi_installer	PI · Package Installer	Global	dev.sanmer.pi
+rebirth_cosmote_box	BOX · Food delivery	Global	gr.cosmote.box
 a10086	a10086	Original	
 a115	a115	Original	
 a12306	a12306	Original	

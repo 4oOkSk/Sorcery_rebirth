@@ -221,6 +221,7 @@
   <item drawable="rebirth_confluence" />
   <item drawable="rebirth_coop" />
   <item drawable="rebirth_coppel" />
+  <item drawable="rebirth_cosmote_box" />
   <item drawable="rebirth_coursera" />
   <item drawable="rebirth_crowdsource" />
   <item drawable="rebirth_crunchyroll" />
@@ -589,6 +590,7 @@
   <item drawable="rebirth_philipshue" />
   <item drawable="rebirth_phonepe" />
   <item drawable="rebirth_pi" />
+  <item drawable="rebirth_pi_installer" />
   <item drawable="rebirth_picpay" />
   <item drawable="rebirth_picsart" />
   <item drawable="rebirth_pinetwork" />
