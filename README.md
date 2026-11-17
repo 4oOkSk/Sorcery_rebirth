@@ -43,7 +43,7 @@ python3 tools/build.py --sdk "$ANDROID_HOME" --keystore /path/to/release.p12 --a
 
 ## Contribute artwork
 
-Edit the transparent PNG in `artwork/icons/` and its entry in `catalog/icons.json`, then regenerate metadata with `python3 tools/generate.py`. Each entry needs a label, packages, actual launcher components, region, artwork format and source/license information. Update `generation.source_sha256` to match the edited PNG. Square faces occupy about 152/192 of the canvas; circular and freeform silhouettes can extend to 176/192. Keep logos readable at 48 px. The [art direction](docs/art-direction.md) describes the accepted style and generation prompt. Symbol SVGs in `artwork/glyphs/` are retained artwork references.
+Edit the transparent PNG in `artwork/icons/` and its entry in `catalog/icons.json`, then regenerate metadata with `python3 tools/generate.py`. Each entry needs a label, packages, actual launcher components, region, artwork format and source/license information. Update `generation.source_sha256` to match the edited PNG. Keep logos readable at 48 px. Symbol SVGs in `artwork/glyphs/` are retained artwork references. Follow the sizing, style and generation prompt in [Artwork direction](docs/art-direction.md).
 
 Use `docs/gallery.html` to review the full collection. Open it from a downloaded source archive or serve the repository with `python3 -m http.server`. Run `tools/validate.py` before building; it checks image format, transparency, source hashes, duplicate components and missing drawable references.
 
