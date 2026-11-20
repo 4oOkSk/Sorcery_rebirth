@@ -44,12 +44,21 @@ for item in catalog:
         components[component] = item['id']
 drawables = ids | {x.stem for x in (ROOT / 'artwork/original').glob('*.png')}
 seen = set()
+seen_calendars = set()
 for item in ET.parse(ROOT / 'app/res/xml/appfilter.xml').getroot():
-    if item.get('drawable'):
+    if item.tag == 'calendar':
+        component = item.get('component')
+        prefix = item.get('prefix', '')
+        assert component and component not in seen_calendars, item.attrib
+        assert prefix and all(f'{prefix}{day}' in drawables for day in range(1, 32)), item.attrib
+        seen_calendars.add(component)
+    elif item.get('drawable'):
         assert item.get('drawable') in drawables, item.attrib
         component = item.get('component')
         assert component not in seen, component
         seen.add(component)
+for fallback_name in ['rebirth_fallback_back.svg', 'rebirth_fallback_mask.svg', 'rebirth_fallback_upon.svg']:
+    assert (ROOT / 'artwork/fallback' / fallback_name).exists(), fallback_name
 stats = json.loads((ROOT / 'catalog/stats.json').read_text())
 assert stats['svg_icons'] == sum(x.get('format', 'svg') == 'svg' for x in catalog)
 assert stats.get('png_icons', 0) == sum(x.get('format', 'svg') == 'png' for x in catalog)

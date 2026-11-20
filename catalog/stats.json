@@ -1,14 +1,14 @@
 {
   "svg_icons": 0,
-  "png_icons": 798,
-  "rebirth_icons": 798,
+  "png_icons": 800,
+  "rebirth_icons": 800,
   "original_icons": 1683,
-  "total_icons": 2481,
-  "component_mappings": 4883,
-  "packages": 1274,
+  "total_icons": 2483,
+  "component_mappings": 4884,
+  "packages": 1265,
   "regions": {
     "CN": 73,
     "JP": 74,
-    "Global": 651
+    "Global": 653
   }
 }

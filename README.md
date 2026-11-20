@@ -8,8 +8,8 @@ A continuation of [SorceryIconPack](https://github.com/sorcererxw/SorceryIconPac
 
 ## What's included
 
-- **798 Rebirth icons** cover publicly distributed Chinese, Japanese and global Android apps. Exact counts, regions and component totals are generated in [catalog/stats.json](catalog/stats.json).
-- **1,683 original Sorcery PNGs** remain available alongside the new collection, for **2,481 icon resources**. Original artwork is identified in the gallery and dashboard.
+- **800 Rebirth icons** cover publicly distributed Chinese, Japanese and global Android apps. Exact counts, regions and component totals are generated in [catalog/stats.json](catalog/stats.json).
+- **1,683 original Sorcery PNGs** remain available alongside the new collection, for **2,483 icon resources**. Original artwork is identified in the gallery and dashboard.
 - A searchable, offline Android dashboard and launcher icon picker. Android 8.0 or newer; no network or root permissions.
 - A standalone [HTML gallery](docs/gallery.html), transparent PNG artwork, component mappings and a packaging script.
 
@@ -21,7 +21,7 @@ New source artwork is stored as transparent **384 × 384 PNGs**, normalized to S
 
 Install the APK, then select **Sorcery_rebirth** in your launcher's icon pack settings or in Global Icon Pack. The package ID is `io.github.user4ooksk.sorceryrebirth`; it can coexist with the original Sorcery pack. Applying the theme is an explicit user action.
 
-The pack supplies appfilter metadata, drawable metadata, an icon picker and a fallback background/mask with a `0.70` foreground scale. Launcher implementations differ; unsupported applications can use their launcher's fallback rendering. For Global Icon Pack's custom mask and sizing settings, see [compatibility](docs/compatibility.md).
+The pack supplies appfilter metadata (including dynamic `<calendar>` entries such as Google Calendar), drawable metadata, an icon picker and a shadowed fallback paper background, inverse mask and subtle surface sheen (`iconupon`) with a `0.70` foreground scale. Launcher implementations differ; unsupported applications can use their launcher's fallback rendering. For Global Icon Pack's custom mask and sizing settings, see [compatibility](docs/compatibility.md).
 
 Mappings are sourced from public application metadata and include multiple launcher activities where available. Release checks resolve all mapped resources; this does not mean every third-party app version has been tested on a device. Report a missing icon with its package and launcher activity.
 
@@ -53,12 +53,12 @@ Original Sorcery material and new project code are distributed under **GPL-2.0**
 
 ## 中文
 
-Sorcery_rebirth 延续原 Sorcery 的鲜明配色、纸片层次和阴影，收录 798 个面向公开发行应用的 Rebirth 图标。设计保留应用原有标志、字形和配色关系，以公开商店和上游素材核对辨识度。新图标以 384 像素透明 PNG 公开，APK 使用 192 像素版本；原版 1,683 张图标保持原始 PNG，共计 2,481 个图标资源。图标清单、来源、预览与构建脚本全部公开。
+Sorcery_rebirth 延续原 Sorcery 的鲜明配色、纸片层次和阴影，收录 800 个面向公开发行应用的 Rebirth 图标。设计保留应用原有标志、字形和配色关系，以公开商店和上游素材核对辨识度。新图标以 384 像素透明 PNG 公开，APK 使用 192 像素版本；原版 1,683 张图标保持原始 PNG，共计 2,483 个图标资源。图标清单、来源、预览与构建脚本全部公开。
 
 安装 Release 中的 APK，在桌面或 Global Icon Pack 中选择 **Sorcery_rebirth**。独立包名支持与原包共存。包内有离线搜索和图标选择界面，支持 Android 8.0 及以上。具体数量见 `catalog/stats.json`，来源按图标登记。
 
 ## 日本語
 
-Sorcery_rebirth は Sorcery の鮮やかな配色、紙の質感と影を受け継ぐアイコンパックです。公開配布されている Android アプリ向けに、元のロゴ・文字・配色を尊重した 798 個の Rebirth アイコンを収録しています。新作は透明な 384 px PNG、APK 内では 192 px PNG です。従来の 1,683 個を合わせ、全 2,481 個のアイコンを収録しています。
+Sorcery_rebirth は Sorcery の鮮やかな配色、紙の質感と影を受け継ぐアイコンパックです。公開配布されている Android アプリ向けに、元のロゴ・文字・配色を尊重した 800 個の Rebirth アイコンを収録しています。新作は透明な 384 px PNG、APK 内では 192 px PNG です。従来の 1,683 個を合わせ、全 2,483 個のアイコンを収録しています。
 
 Release の APK をインストールし、ランチャーまたは Global Icon Pack で **Sorcery_rebirth** を選択してください。Android 8.0 以降に対応し、元の Sorcery と共存できます。PNG 原画、対応アプリ一覧、出典、ギャラリー、ビルドツールを公開しています。

@@ -680,6 +680,7 @@
   <item drawable="rebirth_stripe" />
   <item drawable="rebirth_substack" />
   <item drawable="rebirth_sumup" />
+  <item drawable="rebirth_sumup_ai" />
   <item drawable="rebirth_suno" />
   <item drawable="rebirth_surfshark" />
   <item drawable="rebirth_swiggy" />
@@ -706,6 +707,7 @@
   <item drawable="rebirth_tidal" />
   <item drawable="rebirth_tile" />
   <item drawable="rebirth_tinder" />
+  <item drawable="rebirth_tinkoff_mvno" />
   <item drawable="rebirth_todoist" />
   <item drawable="rebirth_toggltrack" />
   <item drawable="rebirth_tomtom" />

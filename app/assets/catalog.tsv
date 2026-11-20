@@ -98,7 +98,7 @@ rebirth_cashapp	Cash App	Global	com.squareup.cash
 rebirth_castbox	Castbox	Global	fm.castbox.audiobook.radio.podcast
 rebirth_castorama	Castorama	Global	com.kingfisher.cafr pl.looksoft.castorama
 rebirth_castro	Castro	Global	com.itemstudio.castro
-rebirth_cbc	CBC	Global	com.kbc.mobile.android.phone.cbc
+rebirth_cbc	CBC Mobile	Global	com.kbc.mobile.android.phone.cbc
 rebirth_cbs	CBS	Global	com.cbs.tve
 rebirth_ccc	CCC · Shoes & Bags	Global	eu.ccc.mobile
 rebirth_ccleaner	CCleaner	Global	com.piriform.ccleaner
@@ -216,7 +216,7 @@ rebirth_com_yodobashi_coupon	GoldPoint	JP	com.yodobashi.coupon
 rebirth_com_yodobashi_ishop	Yodobashi	JP	com.yodobashi.iShop
 rebirth_com_youku_phone	优酷	CN	com.youku.phone
 rebirth_confluence	Confluence	Global	com.atlassian.android.confluence.core
-rebirth_coop	Coop	Global	ch.coop.coopapp dk.coop.coopplus ee.coop.shopping.app no.coop.members se.nansen.coop uk.co.coop.app
+rebirth_coop	Coop	Global	uk.co.coop.app
 rebirth_coppel	Coppel	Global	com.coppel.coppelapp
 rebirth_coursera	Coursera	Global	org.coursera.android
 rebirth_crowdsource	Crowdsource	Global	com.google.android.apps.village.boond
@@ -234,7 +234,7 @@ rebirth_deliveroo	Deliveroo	Global	com.deliveroo.orderapp
 rebirth_delta	Delta	Global	dev.shadoe.delta
 rebirth_derspiegel	DER SPIEGEL	Global	de.spiegel.android.app.spon
 rebirth_deutschebank	Deutsche Bank	Global	com.db.pwcc.dbmobile
-rebirth_deutschetelekom	Т-Мобайл ~~ T-Mobile	Global	com.tmobile.pr.mytmobile cz.tmobile.oneapp pl.tmobile.miboa ru.tinkoff.mvno
+rebirth_deutschetelekom	T-Mobile	Global	com.tmobile.pr.mytmobile cz.tmobile.oneapp pl.tmobile.miboa
 rebirth_deviantart	DeviantArt	Global	com.deviantart.android.damobile
 rebirth_dhl	DHL	Global	com.dhl.frt.mittdhl com.dhlparcel.nl
 rebirth_dictionarydotcom	Dictionary.com	Global	com.dictionary
@@ -270,7 +270,7 @@ rebirth_eventbrite	Eventbrite	Global	com.eventbrite.attendee
 rebirth_evernote	Evernote	Global	com.evernote
 rebirth_expedia	Expedia	Global	com.expedia.bookings
 rebirth_expo	Expo	Global	host.exp.exponent
-rebirth_expressvpn	ExpressVPN	Global	com.expressvpn.vpn com.unlimited.unblock.free.accelerator.top
+rebirth_expressvpn	ExpressVPN	Global	com.expressvpn.vpn
 rebirth_eyeem	EyeEm	Global	com.baseapp.eyeem
 rebirth_facebook	Facebook	Global	com.facebook.katana
 rebirth_faceit	FACEIT	Global	com.faceit.mobile
@@ -363,7 +363,7 @@ rebirth_hermes	Hermes	Global	de.myhermes.app
 rebirth_hevy	Hevy	Global	com.hevy
 rebirth_hey	HEY	Global	com.basecamp.hey
 rebirth_homeassistant	Home Assistant	Global	io.homeassistant.companion.android io.homeassistant.companion.android.minimal
-rebirth_honey	Honey	Global	com.joinhoney.honeyandroid com.sec.android.app.sbrowser.webapk.wc689ca71c69364a301d6e8e59565f1821
+rebirth_honey	Honey	Global	com.joinhoney.honeyandroid
 rebirth_honeygain	Honeygain	Global	com.honeygain.make.money
 rebirth_hotelsdotcom	Hotels.com	Global	com.hcom.android
 rebirth_hsbc	HSBC	Global	ar.com.hsbc.hsbcargentina au.com.hsbc.hsbcaustralia ca.hsbc.hsbccanada com.htsu.hsbcpersonalbanking fr.hsbc.hsbcfrance hk.com.hsbc.hsbchkmobilebanking in.hsbc.hsbcindia mx.hsbc.hsbcmexico my.com.hsbc.hsbcmalaysia sg.com.hsbc.hsbcsingapore tr.com.hsbc.hsbcturkey uk.co.hsbc.hsbcukmobilebanking us.hsbc.hsbcus vn.hsbc.hsbcvietnam
@@ -504,7 +504,7 @@ rebirth_mega	MEGA	Global	mega.privacy.android.app mega.privacy.android.apq
 rebirth_meituan	美团 ~~ Meituan	CN	com.sankuai.meituan
 rebirth_mercadopago	Mercado Pago	Global	com.mercadopago.wallet
 rebirth_messenger	Messenger	Global	com.facebook.mlite com.facebook.orca com.facebook.orca.morphe
-rebirth_meta	Meta	Global	com.madness.collision
+rebirth_meta	Boundo (Meta)	Global	com.madness.collision
 rebirth_metaai	Meta AI	Global	com.facebook.stella
 rebirth_mewe	MeWe	Global	com.mewe
 rebirth_microsoftazure	Microsoft Azure	Global	com.microsoft.azure
@@ -533,7 +533,7 @@ rebirth_naver	네이버 ~~ NAVER	Global	com.nhn.android.search
 rebirth_nebula	Nebula	Global	ai.nreal.nebula.universal
 rebirth_neon	Neon	Global	br.com.neon
 rebirth_netflix	Netflix	Global	com.netflix.mediaclient com.netflix.mediaclieog
-rebirth_netto	Netto	Global	com.mousquetaires.netto com.valuephone.vpnetto
+rebirth_netto	Netto	Global	com.valuephone.vpnetto
 rebirth_newegg	Newegg	Global	com.newegg.app
 rebirth_newpipe	NewPipe	Global	org.polymorphicshade.newpipe org.schabi.newpipe org.schabi.newpipe.debug.release0252 org.schabi.newpipe.morphe
 rebirth_nextbike	nextbike	Global	de.nextbike
@@ -608,7 +608,7 @@ rebirth_pubg	PUBG	CN	com.pubg.krmobile com.rekoo.pubgm com.tencent.ig com.tencen
 rebirth_pushbullet	Pushbullet	Global	com.pushbullet.android
 rebirth_qantas	Qantas	Global	au.com.qantas.qantas
 rebirth_qatarairways	Qatar Airways	Global	com.m.qr
-rebirth_qbittorrent	qBittorrent	Global	com.delphicoder.fludd
+rebirth_qbittorrent	Flud	Global	com.delphicoder.flud com.delphicoder.fludd
 rebirth_qq	QQ	CN	com.tencent.mobileqq
 rebirth_quizlet	Quizlet	Global	com.quizlet.quizletandroid
 rebirth_quora	Quora	Global	com.quora.android
@@ -623,7 +623,7 @@ rebirth_revolut	Revolut	Global	com.revolut.revolut
 rebirth_rewe	REWE	Global	de.rewe.app.mobile
 rebirth_ring	Ring	Global	com.ringapp
 rebirth_robinhood	Robinhood	Global	com.robinhood.android com.robinhood.gateway com.robinhood.money
-rebirth_roblox	roblox	Global	com.my.newproject9 com.roblox.client com.roblox.client.samsunggalaxy com.roblox.client.vnggames
+rebirth_roblox	Roblox	Global	com.roblox.client com.roblox.client.samsunggalaxy com.roblox.client.vnggames
 rebirth_rocketdotchat	Rocket.Chat	Global	chat.rocket.android
 rebirth_roku	Roku	Global	com.roku.remote
 rebirth_roll20	Roll20	Global	net.roll20.player
@@ -659,7 +659,7 @@ rebirth_sonos	Sonos	Global	com.sonos.acr com.sonos.acr2
 rebirth_soundcloud	SoundCloud	Global	com.apple.android.music com.luna.music com.soundcloud.android com.soundcloud.android.revanced
 rebirth_southwestairlines	Southwest Airlines	Global	com.southwestairlines.mobile
 rebirth_sparkasse	Sparkasse	Global	com.starfinanz.smob.android.sfinanzstatus
-rebirth_speedtest	Speed test	Global	com.nperf.tester
+rebirth_speedtest	nPerf	Global	com.nperf.tester
 rebirth_spond	Spond	Global	com.spond.spond
 rebirth_spotify	Spotify	Global	com.spotify.music com.spotify.music.revanced com.spotify.musix
 rebirth_square	Square	Global	com.squareup
@@ -674,7 +674,7 @@ rebirth_streamlabs	Streamlabs	Global	com.streamlabs
 rebirth_stremio	Stremio	Global	com.stremio.one
 rebirth_stripe	Stripe	Global	com.stripe.android.dashboard
 rebirth_substack	Substack	Global	com.substack.app
-rebirth_sumup	SumUp	Global	com.gustavoas.sumup com.kaching.merchant
+rebirth_sumup	SumUp	Global	com.kaching.merchant
 rebirth_suno	Suno	Global	com.suno.android
 rebirth_surfshark	Surfshark	Global	com.surfshark.vpnclient.android
 rebirth_swiggy	Swiggy	Global	in.swiggy.android
@@ -705,7 +705,7 @@ rebirth_todoist	Todoist	Global	com.todoist
 rebirth_toggltrack	Toggl Track	Global	com.toggl.giskard
 rebirth_tomtom	TomTom	Global	com.tomtom.speedcams.android.map
 rebirth_torbrowser	Tor Browser	Global	org.torproject.torbrowser
-rebirth_toyota	TOYOTA	Global	com.ekk.toyota com.toyota.oneapp com.toyota.oneapp.eu tmp_notifsv1_devv1.app
+rebirth_toyota	TOYOTA	Global	com.ekk.toyota com.toyota.oneapp com.toyota.oneapp.eu
 rebirth_tradingview	TradingView	Global	com.tradingview.tradingviewapp
 rebirth_trailforks	Trailforks	Global	com.pinkbike.trailforks
 rebirth_trakt	Trakt	Global	tv.trakt.trakt
@@ -742,7 +742,7 @@ rebirth_vimeo	Vimeo	Global	com.vimeo.android.videoapp
 rebirth_vinted	Vinted	Global	fr.vinted
 rebirth_virustotal	VirusTotal	Global	com.funnycat.virustotal
 rebirth_vivino	Vivino	Global	vivino.web.app
-rebirth_vivo	vivo	Global	br.com.vivo
+rebirth_vivo	Vivo	Global	br.com.vivo
 rebirth_vk	ВКонтакте ~~ VK	Global	com.uma.musicvk com.vk.clips com.vk.im com.vk.love com.vk.mail com.vk.vkvideo com.vkontakte.android
 rebirth_vodafone	Vodafone	Global	com.vodafone.selfservis
 rebirth_volkswagen	Volkswagen	Global	com.volkswagen.weconnect
@@ -796,6 +796,8 @@ rebirth_zoom	Zoom	Global	us.zoom.videomeetings
 rebirth_zulip	Zulip	Global	com.zulipmobile
 rebirth_pi_installer	PI · Package Installer	Global	dev.sanmer.pi
 rebirth_cosmote_box	BOX · Food delivery	Global	gr.cosmote.box
+rebirth_tinkoff_mvno	Т-Мобайл	Global	ru.tinkoff.mvno
+rebirth_sumup_ai	Sum Up · AI Summary	Global	com.gustavoas.sumup
 a10086	a10086	Original	
 a115	a115	Original	
 a12306	a12306	Original	

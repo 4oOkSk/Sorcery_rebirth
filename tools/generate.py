@@ -71,16 +71,31 @@ for item in CATALOG:
 all_png = {x.stem for x in (ROOT / 'artwork/original').glob('*.png')}
 new_names = {x['id'] for x in CATALOG}
 root = ET.Element('resources')
-for tag, attributes in [('iconback', {'img1': 'rebirth_fallback_back'}), ('iconmask', {'img1': 'rebirth_fallback_mask'}), ('scale', {'factor': '0.70'})]:
+for tag, attributes in [
+    ('iconback', {'img1': 'rebirth_fallback_back'}),
+    ('iconmask', {'img1': 'rebirth_fallback_mask'}),
+    ('iconupon', {'img1': 'rebirth_fallback_upon'}),
+    ('scale', {'factor': '0.70'}),
+]:
     ET.SubElement(root, tag, attributes)
 overrides = {component: item['id'] for item in CATALOG for component in item['components']}
-seen = set()
+seen_items = set()
+seen_calendars = set()
 for item in ET.parse(ROOT / 'catalog/original-appfilter.xml').getroot():
     if item.tag not in ('item', 'calendar'):
         continue
     component = item.get('component', '')
     plain = component.removeprefix('ComponentInfo{').removesuffix('}')
-    if plain in overrides or component in seen:
+    if item.tag == 'calendar':
+        prefix = item.get('prefix', '')
+        if not component or component in seen_calendars:
+            continue
+        if not prefix or not all(f'{prefix}{day}' in all_png for day in range(1, 32)):
+            continue
+        root.append(copy.deepcopy(item))
+        seen_calendars.add(component)
+        continue
+    if plain in overrides or component in seen_items:
         continue
     drawable = item.get('drawable', '')
     if drawable == 'contracts':
@@ -89,7 +104,7 @@ for item in ET.parse(ROOT / 'catalog/original-appfilter.xml').getroot():
     if drawable and drawable not in all_png:
         raise ValueError('Missing original drawable: ' + drawable)
     root.append(copy.deepcopy(item))
-    seen.add(component)
+    seen_items.add(component)
 for component, drawable in sorted(overrides.items()):
     ET.SubElement(root, 'item', dict(component='ComponentInfo{' + component + '}', drawable=drawable))
 ET.indent(root)

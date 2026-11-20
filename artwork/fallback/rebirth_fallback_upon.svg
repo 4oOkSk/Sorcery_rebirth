@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<defs>
+<clipPath id="face">
+<rect x="26.6667" y="26.6667" width="202.6666" height="202.6666" rx="15.3333"/>
+</clipPath>
+<linearGradient id="sheen" x1="0" y1="0" x2="0.25" y2="1" gradientUnits="objectBoundingBox">
+<stop offset="0" stop-color="#ffffff" stop-opacity=".14"/>
+<stop offset=".45" stop-color="#ffffff" stop-opacity="0"/>
+<stop offset="1" stop-color="#10161c" stop-opacity=".05"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#face)">
+<rect x="26.6667" y="26.6667" width="202.6666" height="202.6666" rx="15.3333" fill="url(#sheen)"/>
+<path d="M42 27.5h172a14.5 14.5 0 0 1 14.5 14.5" fill="none" stroke="#ffffff" stroke-opacity=".28" stroke-width="1.5"/>
+<path d="M27.5 214a14.5 14.5 0 0 0 14.5 14.5h172a14.5 14.5 0 0 0 14.5-14.5" fill="none" stroke="#10161c" stroke-opacity=".055" stroke-width="1.2"/>
+</g>
+</svg>

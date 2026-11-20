@@ -2,6 +2,7 @@
 <resources>
   <iconback img1="rebirth_fallback_back" />
   <iconmask img1="rebirth_fallback_mask" />
+  <iconupon img1="rebirth_fallback_upon" />
   <scale factor="0.70" />
   <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
   <item component=":BROWSER" drawable="browser" />
@@ -14,6 +15,7 @@
   <item component=":EMAIL" drawable="email" />
   <item component=":GALLERY" drawable="gallery" />
   <item component=":PHONE" drawable="dialer" />
+  <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_" />
   <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_" />
   <calendar component="ComponentInfo{am.sunrise.android.calendar/am.sunrise.android.calendar.ui.HomeActivity}" prefix="sunrise_" />
   <calendar component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" prefix="flyme_calendar_" />
@@ -307,6 +309,7 @@
   <item component="ComponentInfo{com.jamworks.floatify/com.jamworks.floatify.HomeActivity}" drawable="floatify" />
   <item component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}" drawable="duitang" />
   <item component="ComponentInfo{com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es_explorer" />
+  <item component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" drawable="flyme_calendar" />
   <item component="ComponentInfo{com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator}" drawable="flyme_calculator" />
   <item component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}" drawable="flyme_gallery" />
   <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="email" />
@@ -365,6 +368,7 @@
   <item component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" drawable="google_calendar" />
   <item component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" drawable="google_calendar" />
   <item component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" drawable="google_calendar" />
+  <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="google_calendar" />
   <item component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" drawable="google_calendar" />
   <item component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}" drawable="flyme_toolbox" />
   <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="gallery" />
@@ -712,6 +716,7 @@
   <item component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}" drawable="sougou_keyboard" />
   <item component="ComponentInfo{org.dayup.gnotes/org.dayup.gnotes.GNotesListActivity}" drawable="suibiji" />
   <item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="sony_weather" />
+  <item component="ComponentInfo{am.sunrise.android.calendar/am.sunrise.android.calendar.ui.HomeActivity}" drawable="sunrise" />
   <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}" drawable="smartisan_note" />
   <item component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NotesActivity}" drawable="smartisan_note" />
   <item component="ComponentInfo{com.smartisan.reader/com.smartisan.reader.activities.MainActivity_}" drawable="smartisan_reader" />
@@ -1040,6 +1045,7 @@
   <item component="ComponentInfo{com.tratao.xcurrency/com.qihoo.util.StartActivity}" drawable="xcurrency" />
   <item component="ComponentInfo{com.tratao.xcurrency/com.tratao.xcurrency.SplashAdActivity}" drawable="xcurrency" />
   <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="oneplus_gallery" />
+  <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="oneplus_calendar" />
   <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="oneplus_deskclock" />
   <item component="ComponentInfo{com.baidu.baidutranslate/com.baidu.baidutranslate.activity.MainActivity}" drawable="baidu_translate" />
   <item component="ComponentInfo{com.baidu.baidutranslate/com.baidu.baidutranslate.activity.SplashActivity}" drawable="baidu_translate" />
@@ -1100,6 +1106,8 @@
   <item component="ComponentInfo{com.netease.finance/com.netease.finance.activities.SplashActivity}" drawable="netease_finance" />
   <item component="ComponentInfo{com.netease.mkey/com.netease.mkey.activity.SplashActivity}" drawable="netease_mkey" />
   <item component="ComponentInfo{com.netease.mobimail.oneplus/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_mail_box" />
+  <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}" drawable="lenovo_calendar" />
+  <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.SplashActivity}" drawable="lenovo_calendar" />
   <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.LeMainActivity}" drawable="lenovo_gt_browser" />
   <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="lenovo_gt_browser" />
   <item component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}" drawable="lenovo_calendar" />
@@ -1450,6 +1458,7 @@
   <item component="ComponentInfo{com.xiaomi.o2o/com.xiaomi.o2o.activity.GuideActivity}" drawable="xiaomi_o2o" />
   <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiActivity}" drawable="microsoft_solitaire" />
   <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="microsoft_solitaire" />
+  <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="xiaomi_calendar" />
   <item component="ComponentInfo{com.android.providers.downloads/com.color.downloads.ui.DownloadMainActivity}" drawable="download" />
   <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}" drawable="download" />
   <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadListUI}" drawable="download" />
@@ -1544,6 +1553,7 @@
   <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />
   <item component="ComponentInfo{com.ifanr.android/com.ifanr.android.view.activity.SplashActivity}" drawable="ifanr_sudu" />
   <item component="ComponentInfo{com.uusafe.appmaster/com.uusafe.appmaster.ui.activity.SplashActivity}" drawable="uusafe" />
+  <item component="ComponentInfo{com.smartisan.calendar/com.android.calendar.AllInOneActivity}" drawable="smartisan_calendar" />
   <item component="ComponentInfo{com.gionee.freya.gallery/com.freya.app.story.page.StoryGalleryActivity}" drawable="ami_album" />
   <item component="ComponentInfo{com.microsoft.mimickeralarm/com.microsoft.mimickeralarm.appcore.AlarmMainActivity}" drawable="microsoft_mimicker_alarm" />
   <item component="ComponentInfo{com.tencent.tmgp.carrot3/com.tencent.tmgp.carrot3.CarrotFantasy}" drawable="game_carrot_3" />
@@ -1552,6 +1562,8 @@
   <item component="ComponentInfo{com.xinpinget.xbox/com.xinpinget.xbox.activity.SplashActivity}" drawable="xinpinget" />
   <item component="ComponentInfo{com.tencent.ttpic/com.tencent.ttpic.module.MainActivity}" drawable="tencent_ttpic" />
   <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_editor" />
+  <item component="ComponentInfo{com.when.coco/com.when.coco.Login}" drawable="a365_calendar" />
+  <item component="ComponentInfo{com.when.coco/com.when.coco.MainTab}" drawable="a365_calendar" />
   <item component="ComponentInfo{com.qidian.QDReader.g/com.qidian.QDReader.SplashActivity}" drawable="qidian_reader" />
   <item component="ComponentInfo{com.huaban.android/com.huaban.android.modules.main.MainActivity}" drawable="huaban" />
   <item component="ComponentInfo{com.wealoha.social/com.wealoha.social.ui.navi.NaviIntroActivity}" drawable="aloha" />
@@ -1589,6 +1601,7 @@
   <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LUCK/com.android.vending.billing.InAppBillingService.LUCK.MainActivity-Original}" drawable="lucky_patcher" />
   <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LACK/com.android.vending.billing.InAppBillingService.LACK.MainActivity-2}" drawable="lucky_patcher" />
   <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LACK/com.android.vending.billing.InAppBillingService.LACK.MainActivity-Original}" drawable="lucky_patcher" />
+  <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="samsung_calendar" />
   <item component="ComponentInfo{com.samsung.android.sm/com.samsung.android.sm.app.dashboard.SmartManagerDashBoardActivity}" drawable="samsung_smart_manager" />
   <item component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.app.dashboard.SmartManagerDashBoardActivity}" drawable="samsung_smart_manager" />
   <item component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity}" drawable="samsung_smart_manager" />
@@ -2078,7 +2091,6 @@
   <item component="ComponentInfo{ca.walmart.ecommerceapp/com.walmart.glass.integration.splash.SplashActivity}" drawable="rebirth_walmart" />
   <item component="ComponentInfo{canvasm.myo2/canvasm.myo2.SplashActivity}" drawable="rebirth_o2" />
   <item component="ComponentInfo{canvasm.myo2/com.tuenti.messenger.ui.activity.MainActivity}" drawable="rebirth_o2" />
-  <item component="ComponentInfo{ch.coop.coopapp/ch.coop.coopapp.MainActivity}" drawable="rebirth_coop" />
   <item component="ComponentInfo{ch.mediamarkt/com.mediamarkt.mms_oscapps_flutter.MainActivity}" drawable="rebirth_mediamarkt" />
   <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="rebirth_protonmail" />
   <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.RoutingActivity}" drawable="rebirth_protonmail" />
@@ -2471,6 +2483,7 @@
   <item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.plus}" drawable="rebirth_deliveroo" />
   <item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.appicon.pride}" drawable="rebirth_deliveroo" />
   <item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.splash.ui.SplashActivity}" drawable="rebirth_deliveroo" />
+  <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="rebirth_qbittorrent" />
   <item component="ComponentInfo{com.delphicoder.fludd/com.delphicoder.flud.MainActivity}" drawable="rebirth_qbittorrent" />
   <item component="ComponentInfo{com.dena.automotive.taxibell/com.dena.automotive.taxibell.SplashActivity}" drawable="rebirth_com_dena_automotive_taxibell" />
   <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="rebirth_feedly" />
@@ -3022,7 +3035,7 @@
   <item component="ComponentInfo{com.guardian/com.guardian.feature.stream.NewHomeActivity}" drawable="rebirth_theguardian" />
   <item component="ComponentInfo{com.gumtree.android/com.gumtree.android.MainActivity}" drawable="rebirth_gumtree" />
   <item component="ComponentInfo{com.gumtree.android/com.gumtree.android.splash.activity.SplashActivity}" drawable="rebirth_gumtree" />
-  <item component="ComponentInfo{com.gustavoas.sumup/com.gustavoas.sumup.SettingsActivity}" drawable="rebirth_sumup" />
+  <item component="ComponentInfo{com.gustavoas.sumup/com.gustavoas.sumup.SettingsActivity}" drawable="rebirth_sumup_ai" />
   <item component="ComponentInfo{com.hanver.wdsj/com.mojang.minecraftpe.MainActivity}" drawable="rebirth_minecraft" />
   <item component="ComponentInfo{com.hbo.hbonow/com.hbo.go.LaunchActivity}" drawable="rebirth_hbomax" />
   <item component="ComponentInfo{com.hbo.hbonow/com.hbo.hbonow.LaunchActivity}" drawable="rebirth_hbomax" />
@@ -3379,7 +3392,6 @@
   <item component="ComponentInfo{com.moonshot.kimichat/com.moonshot.kimichat.MainActivity}" drawable="rebirth_kimi" />
   <item component="ComponentInfo{com.morphe.youtube.music/com.morphe.youtube.music.morphe_original_1}" drawable="rebirth_youtubemusic" />
   <item component="ComponentInfo{com.morphe.youtube/com.morphe.youtube.morphe_original_1}" drawable="rebirth_youtube" />
-  <item component="ComponentInfo{com.mousquetaires.netto/com.mousquetaires.netto.netto_flutter.MainActivity}" drawable="rebirth_netto" />
   <item component="ComponentInfo{com.movistar.android.mimovistar.es/com.movistar.android.mimovistar.es.MainActivity}" drawable="rebirth_movistar" />
   <item component="ComponentInfo{com.movistarmx.mx.app/com.movistarmx.mx.app.MainActivity}" drawable="rebirth_movistar" />
   <item component="ComponentInfo{com.mttnow.droid.easyjet/com.easyjet.travel.android.MainActivity}" drawable="rebirth_easyjet" />
@@ -3389,7 +3401,6 @@
   <item component="ComponentInfo{com.musescore.playerlite/com.musescoremobile.MainActivity}" drawable="rebirth_musescore" />
   <item component="ComponentInfo{com.musescore.playerlite/com.zoontek.rnbootsplash.RNBootSplashActivity}" drawable="rebirth_musescore" />
   <item component="ComponentInfo{com.mxbc.mxsa/com.mxbc.mxsa.modules.splash.SplashActivity}" drawable="rebirth_com_mxbc_mxsa" />
-  <item component="ComponentInfo{com.my.newproject9/com.my.newproject9.MainActivity}" drawable="rebirth_roblox" />
   <item component="ComponentInfo{com.myklarnamobile/com.google.android.archive.ReactivateActivity}" drawable="rebirth_klarna" />
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.LaunchActivity}" drawable="rebirth_klarna" />
   <item component="ComponentInfo{com.myklarnamobile/com.klarna.MainActivity}" drawable="rebirth_klarna" />
@@ -3656,7 +3667,6 @@
   <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="rebirth_com_sdu_didi_psnger" />
   <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}" drawable="rebirth_com_sdu_didi_psnger" />
   <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.splash.SplashActivity}" drawable="rebirth_com_sdu_didi_psnger" />
-  <item component="ComponentInfo{com.sec.android.app.sbrowser.webapk.wc689ca71c69364a301d6e8e59565f1821/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity}" drawable="rebirth_honey" />
   <item component="ComponentInfo{com.serinus42.downdetector/com.serinus42.downdetector.dashboard.DashboardActivity}" drawable="rebirth_downdetector" />
   <item component="ComponentInfo{com.server.auditor.ssh.client/com.google.android.archive.ReactivateActivity}" drawable="rebirth_termius" />
   <item component="ComponentInfo{com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.MainActivity}" drawable="rebirth_termius" />
@@ -4052,7 +4062,6 @@
   <item component="ComponentInfo{com.uniqlo.vn.catalogue/com.uniqlo.ja.catalogue.view.mobile.home.DummyLauncherActivity}" drawable="rebirth_uniqlo_ja" />
   <item component="ComponentInfo{com.uniqlo.vn.catalogue/com.uniqlo.ja.catalogue.view.mobile.startup.StartupActivity}" drawable="rebirth_uniqlo_ja" />
   <item component="ComponentInfo{com.united.mobile.android/com.united.mobile.android.ui.splash.SplashActivity}" drawable="rebirth_unitedairlines" />
-  <item component="ComponentInfo{com.unlimited.unblock.free.accelerator.top/com.unlimited.unblock.free.accelerator.top.splash.SplashActivity}" drawable="rebirth_expressvpn" />
   <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivity}" drawable="rebirth_untappd" />
   <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivityDefault}" drawable="rebirth_untappd" />
   <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.mosaic.MainActivity}" drawable="rebirth_untappd" />
@@ -4402,8 +4411,6 @@
   <item component="ComponentInfo{dev.sanmer.pi/dev.sanmer.pi.ui.activity.MainActivity}" drawable="rebirth_pi_installer" />
   <item component="ComponentInfo{dev.shadoe.delta/dev.shadoe.delta.MainActivity}" drawable="rebirth_delta" />
   <item component="ComponentInfo{dk.burgerking.orderapp/com.deazy.popeyes.MainActivity}" drawable="rebirth_burgerking" />
-  <item component="ComponentInfo{dk.coop.coopplus/dk.coop.coopplus.splash.SplashActivity}" drawable="rebirth_coop" />
-  <item component="ComponentInfo{ee.coop.shopping.app/ee.coop.shopping.app.MainActivity}" drawable="rebirth_coop" />
   <item component="ComponentInfo{ee.ikea.app.android/es.bitboxonline.baltics.MainActivity}" drawable="rebirth_ikea" />
   <item component="ComponentInfo{ee.linktr.admin/ee.linktr.admin.MainActivity}" drawable="rebirth_linktree" />
   <item component="ComponentInfo{es.burgerking.android/es.burgerking.android.presentation.walkthrough.WalkthroughIntroActivity}" drawable="rebirth_burgerking" />
@@ -4628,8 +4635,6 @@
   <item component="ComponentInfo{nl.lecreditsportif.knip/nl.lecreditsportif.lcs.Activities.LoaderActivity}" drawable="rebirth_knip" />
   <item component="ComponentInfo{nl.oberon.tmobile.my/nl.oberon.tmobile.my.activity.LoginActivity}" drawable="rebirth_odido" />
   <item component="ComponentInfo{no.burgerking.ordersapp/com.deazy.popeyes.MainActivity}" drawable="rebirth_burgerking" />
-  <item component="ComponentInfo{no.coop.members/no.coop.app2020.MainActivity}" drawable="rebirth_coop" />
-  <item component="ComponentInfo{no.coop.members/no.coop.member_app.MainActivity}" drawable="rebirth_coop" />
   <item component="ComponentInfo{no.mobitroll.kahoot.android/com.google.android.archive.ReactivateActivity}" drawable="rebirth_kahoot" />
   <item component="ComponentInfo{no.mobitroll.kahoot.android/no.mobitroll.kahoot.android.Default}" drawable="rebirth_kahoot" />
   <item component="ComponentInfo{no.mobitroll.kahoot.android/no.mobitroll.kahoot.android.HolidayGreen}" drawable="rebirth_kahoot" />
@@ -4831,7 +4836,7 @@
   <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.AppActivity}" drawable="rebirth_imagetoolbox" />
   <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.MainActivity}" drawable="rebirth_imagetoolbox" />
   <item component="ComponentInfo{ru.tech.imageresizershrinker/ru.tech.imageresizershrinker.presentation.main_screen.MainActivity}" drawable="rebirth_imagetoolbox" />
-  <item component="ComponentInfo{ru.tinkoff.mvno/ru.tcsbank.mvno.preloader.PreloaderActivity}" drawable="rebirth_deutschetelekom" />
+  <item component="ComponentInfo{ru.tinkoff.mvno/ru.tcsbank.mvno.preloader.PreloaderActivity}" drawable="rebirth_tinkoff_mvno" />
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.DefaultMainActivityAlias}" drawable="rebirth_go" />
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.Go2024AppIconMainActivityAlias}" drawable="rebirth_go" />
   <item component="ComponentInfo{ru.yandex.taxi/com.yandex.go.activity.alias.GoOriginalAppIconMainActivityAlias}" drawable="rebirth_go" />
@@ -4845,7 +4850,6 @@
   <item component="ComponentInfo{se.max.android.locator/com.futureordering.android.mobile.ui.main.MainActivity}" drawable="rebirth_max" />
   <item component="ComponentInfo{se.max.android.locator/com.google.android.archive.ReactivateActivity}" drawable="rebirth_max" />
   <item component="ComponentInfo{se.max.android.locator/se.max.android.locator.MainActivity}" drawable="rebirth_max" />
-  <item component="ComponentInfo{se.nansen.coop/se.nansen.coop.feature.splash.SplashActivity}" drawable="rebirth_coop" />
   <item component="ComponentInfo{se.telenor.mytelenor/com.telenor.app.mytelenor.ui.LoginActivity}" drawable="rebirth_telenor" />
   <item component="ComponentInfo{se.telenor.mytelenor/com.telenor.app.mytelenor.ui.MainActivity}" drawable="rebirth_telenor" />
   <item component="ComponentInfo{sg.com.hsbc.hsbcsingapore/com.hsbc.mobilebanking.splash.SplashActivity}" drawable="rebirth_hsbc" />
@@ -4855,7 +4859,6 @@
   <item component="ComponentInfo{side.quest.mobile/side.quest.mobile.MainActivity}" drawable="rebirth_sidequest" />
   <item component="ComponentInfo{sv.telefonica.mimovistar/sv.telefonica.mimovistar.MyAmtActivity}" drawable="rebirth_movistar" />
   <item component="ComponentInfo{tdp.app.col/tdp.app.col.MainActivity}" drawable="rebirth_movistar" />
-  <item component="ComponentInfo{tmp_notifsv1_devv1.app/com.sven.tma.MainActivity}" drawable="rebirth_toyota" />
   <item component="ComponentInfo{to.boosty.android/to.boosty.android.ui.root.MainActivity}" drawable="rebirth_boosty" />
   <item component="ComponentInfo{to.boosty.mobile/to.boosty.android.ui.root.MainActivity}" drawable="rebirth_boosty" />
   <item component="ComponentInfo{tr.com.hsbc.hsbcturkey/tr.com.hsbc.hsbcturkey.DEFAULT}" drawable="rebirth_hsbc" />

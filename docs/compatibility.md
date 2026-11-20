@@ -6,7 +6,7 @@ The dashboard provides offline browsing and search. Its **Apply** button explain
 
 ## Global Icon Pack
 
-Select Sorcery_rebirth as the icon pack. For fallback icons, the pack provides a paper background, an inverse alpha mask and scale `0.70`. Square dedicated artwork has a paper face of approximately 79% of the canvas width. Global Icon Pack can override pack-supplied fallback options. The sizing of other silhouettes is covered in [Artwork direction](art-direction.md#source-and-launcher-sizes).
+Select Sorcery_rebirth as the icon pack. For fallback icons, the pack provides a shadowed paper background (`iconback`), an inverse alpha mask (`iconmask`), a subtle paper sheen overlay (`iconupon`) and scale `0.70`. Launchers that support `<calendar>` entries also receive dynamic daily icons for mapped calendars such as Google Calendar (`com.google.android.calendar`). Square dedicated artwork has a paper face of approximately 79% of the canvas width. Global Icon Pack can override pack-supplied fallback options. The sizing of other silhouettes is covered in [Artwork direction](art-direction.md#source-and-launcher-sizes).
 
 When using its custom shape override, the following 100 × 100 path aligns the fallback outline with the paper face of dedicated Sorcery icons:
 
