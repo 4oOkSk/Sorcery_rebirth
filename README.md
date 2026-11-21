@@ -8,8 +8,7 @@ A continuation of [SorceryIconPack](https://github.com/sorcererxw/SorceryIconPac
 
 ## What's included
 
-- **800 Rebirth icons** cover publicly distributed Chinese, Japanese and global Android apps. Exact counts, regions and component totals are generated in [catalog/stats.json](catalog/stats.json).
-- **1,683 original Sorcery PNGs** remain available alongside the new collection, for **2,483 icon resources**. Original artwork is identified in the gallery and dashboard.
+- **Rebirth icons** covering publicly distributed Chinese, Japanese and global Android apps, paired with the **original Sorcery collection** (exact counts, regions and component totals are generated in [catalog/stats.json](catalog/stats.json)). Original artwork is identified in the gallery and dashboard.
 - A searchable, offline Android dashboard and launcher icon picker. Android 8.0 or newer; no network or root permissions.
 - A standalone [HTML gallery](docs/gallery.html), transparent PNG artwork, component mappings and a packaging script.
 
@@ -53,12 +52,12 @@ Original Sorcery material and new project code are distributed under **GPL-2.0**
 
 ## 中文
 
-Sorcery_rebirth 延续原 Sorcery 的鲜明配色、纸片层次和阴影，收录 800 个面向公开发行应用的 Rebirth 图标。设计保留应用原有标志、字形和配色关系，以公开商店和上游素材核对辨识度。新图标以 384 像素透明 PNG 公开，APK 使用 192 像素版本；原版 1,683 张图标保持原始 PNG，共计 2,483 个图标资源。图标清单、来源、预览与构建脚本全部公开。
+Sorcery_rebirth 延续原 Sorcery 的鲜明配色、纸片层次和阴影，为公开发行的 Android 应用持续补充 Rebirth 图标，并与原版 Sorcery 图标一并收录。设计保留应用原有标志、字形和配色关系，以公开商店和上游素材核对辨识度。新图标以 384 像素透明 PNG 公开，APK 使用 192 像素版本；原版图标保持原始 PNG。图标清单、来源、预览与构建脚本全部公开。
 
 安装 Release 中的 APK，在桌面或 Global Icon Pack 中选择 **Sorcery_rebirth**。独立包名支持与原包共存。包内有离线搜索和图标选择界面，支持 Android 8.0 及以上。具体数量见 `catalog/stats.json`，来源按图标登记。
 
 ## 日本語
 
-Sorcery_rebirth は Sorcery の鮮やかな配色、紙の質感と影を受け継ぐアイコンパックです。公開配布されている Android アプリ向けに、元のロゴ・文字・配色を尊重した 800 個の Rebirth アイコンを収録しています。新作は透明な 384 px PNG、APK 内では 192 px PNG です。従来の 1,683 個を合わせ、全 2,483 個のアイコンを収録しています。
+Sorcery_rebirth は Sorcery の鮮やかな配色、紙の質感と影を受け継ぐアイコンパックです。公開配布されている Android アプリ向けに、元のロゴ・文字・配色を尊重した Rebirth アイコンを従来の Sorcery アイコンと併せて収録しています。新作は透明な 384 px PNG、APK 内では 192 px PNG です（収録数は `catalog/stats.json` を参照）。
 
 Release の APK をインストールし、ランチャーまたは Global Icon Pack で **Sorcery_rebirth** を選択してください。Android 8.0 以降に対応し、元の Sorcery と共存できます。PNG 原画、対応アプリ一覧、出典、ギャラリー、ビルドツールを公開しています。
