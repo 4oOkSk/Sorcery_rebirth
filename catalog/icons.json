@@ -1185,6 +1185,9 @@
     ],
     "components": [
       "com.eg.android.AlipayGphone/com.alipay.android.client.WelcomeUse",
+      "com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity",
+      "com.eg.android.AlipayGphone/com.alipay.mobile.quinox.LauncherActivity.alias",
+      "com.eg.android.AlipayGphone/com.alipay.mobile.quinox.SchemeLauncherActivity",
       "com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin"
     ],
     "collection": "new",
@@ -1215,7 +1218,6 @@
       "pl.allegro"
     ],
     "components": [
-      "pl.allegro/.Allegro",
       "pl.allegro/pl.allegro.Allegro"
     ],
     "collection": "new",
@@ -1322,7 +1324,6 @@
       "com.amazon.dee.app"
     ],
     "components": [
-      "com.amazon.dee.app/.Launcher",
       "com.amazon.dee.app/com.amazon.dee.app.Launcher",
       "com.amazon.dee.app/com.amazon.dee.webapp.activity.AlexaWebAppActivity"
     ],
@@ -1701,9 +1702,7 @@
       "com.apple.android.music"
     ],
     "components": [
-      "com.apple.android.music/.onboarding.activities.SplashActivity",
       "com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity",
-      "com.apple.android.music/com.google.android.apps.youtube.music.activities.MusicActivity",
       "com.apple.android.music/com.google.android.archive.ReactivateActivity"
     ],
     "collection": "new",
@@ -3642,6 +3641,7 @@
       "it.burgerking.android/it.burgerking.android.MainActivity",
       "it.burgerking.android/it.burgerking.android.Splash",
       "it.burgerking.android/it.burgerking.android.SplashActivity",
+      "jp.co.burgerkingjapan/com.mcnc.bizmob.base.MainActivity",
       "jp.co.burgerkingjapan/com.mcnc.bizmob.base.SlideFragmentActivity",
       "kr.co.burgerkinghybrid/com.mcnc.bizmob.base.SlideFragmentActivity",
       "kr.co.burgerkinghybrid/kr.co.burgerkinghybrid.SplashActivity",
@@ -5049,9 +5049,14 @@
     "label": "百度网盘",
     "region": "CN",
     "packages": [
-      "com.baidu.netdisk"
+      "com.baidu.netdisk",
+      "com.baidu.netdisk.samsung"
     ],
     "components": [
+      "com.baidu.netdisk.samsung/com.baidu.netdisk.ui.DefaultMainActivity",
+      "com.baidu.netdisk.samsung/com.baidu.netdisk.ui.Navigate",
+      "com.baidu.netdisk.samsung/com.baidu.netdisk.ui.OPLauncherActivity",
+      "com.baidu.netdisk.samsung/com.baidu.netdisk.ui.SvipLauncherActivity",
       "com.baidu.netdisk/com.baidu.netdisk.ui.DefaultMainActivity",
       "com.baidu.netdisk/com.baidu.netdisk.ui.Navigate",
       "com.baidu.netdisk/com.baidu.netdisk.ui.SvipLauncherActivity"
@@ -5853,10 +5858,24 @@
     "label": "Gemini",
     "region": "Global",
     "packages": [
-      "com.google.android.apps.bard"
+      "com.google.android.apps.bard",
+      "com.google.android.googlequicksearchbox"
     ],
     "components": [
-      "com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity"
+      "com.google.android.apps.bard/com.google.android.apps.bard.shellapp.BardEntryPointActivity",
+      "com.google.android.apps.bard/com.google.android.apps.bard.shellapp.VisualInterpreterShortcutActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.agentunderstander.magicactions.GeminiAppFunctionFallbackActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.deeplinks.handlers.gateway.impl.GeminiGatewayActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.deeplinks.handlers.gateway.impl.SharedConversationDeeplinkGateway",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.launcher.NotebooksShortcutGatewayActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.launcher.ProcessTextGatewayActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.launcher.RobinEntryPointActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.main.MainActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.ui.floaty.activity.FloatyActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.ui.settings.ace.AceAgentSettingsGatewayActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.ui.settings.ace.AceSettingsGatewayActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.libraries.accountlinking.activity.gsa.gemini.GeminiAccountLinkingActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.libraries.search.integrations.notifications.gemini.entrypoints.GeminiSystemTrayActivity"
     ],
     "collection": "new",
     "source": "GPT image generation with public symbol and Sorcery style references",
@@ -5930,7 +5949,6 @@
       "com.google.android.apps.nbu.files"
     ],
     "components": [
-      "com.google.android.apps.nbu.files/.home.HomeActivity",
       "com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
     ],
     "collection": "new",
@@ -5990,10 +6008,13 @@
     "label": "Weather",
     "region": "Global",
     "packages": [
-      "com.google.android.apps.weather"
+      "com.google.android.apps.weather",
+      "com.google.android.googlequicksearchbox"
     ],
     "components": [
-      "com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity"
+      "com.google.android.apps.weather/com.google.android.apps.weather.home.HomeActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.weather.WeatherActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.weather.entrypoints.appicon.WeatherAppIconActivity"
     ],
     "collection": "new",
     "source": "Original Sorcery artwork, optically aligned",
@@ -6438,11 +6459,15 @@
     "label": "Mi Fitness",
     "region": "Global",
     "packages": [
-      "com.mi.health"
+      "com.mi.health",
+      "com.xiaomi.wearable"
     ],
     "components": [
       "com.mi.health/com.mi.health.home.HomeActivity",
-      "com.mi.health/com.xiaomi.fitness.login.SplashActivity"
+      "com.mi.health/com.xiaomi.fitness.login.SplashActivity",
+      "com.mi.health/com.xiaomi.fitness.main.MainActivity",
+      "com.xiaomi.wearable/com.xiaomi.fitness.login.SplashActivity",
+      "com.xiaomi.wearable/com.xiaomi.wearable.start.privacy.PrivacyActivity"
     ],
     "collection": "new",
     "source": "GPT image generation; original Sorcery design language",
@@ -6559,7 +6584,6 @@
       "com.miui.calculator"
     ],
     "components": [
-      "com.miui.calculator/.cal.CalculatorActivity",
       "com.miui.calculator/com.miui.calculator.MainActivity",
       "com.miui.calculator/com.miui.calculator.cal.CalculatorActivity",
       "com.miui.calculator/com.miui.calculator.cal.NormalCalculatorActivity"
@@ -6592,7 +6616,6 @@
       "com.miui.notes"
     ],
     "components": [
-      "com.miui.notes/.ui.NotesListActivity",
       "com.miui.notes/com.miui.notes.ui.NotesListActivity"
     ],
     "collection": "new",
@@ -6623,7 +6646,6 @@
       "com.miui.player"
     ],
     "components": [
-      "com.miui.player/.ui.MusicBrowserActivity",
       "com.miui.player/com.miui.player.component.MusicBrowserActivity",
       "com.miui.player/com.miui.player.drawerActivityGroup.MainActivityGroup",
       "com.miui.player/com.miui.player.home.LauncherActivity",
@@ -6804,7 +6826,7 @@
       "com.netease.cloudmusic/com.netease.cloudmusic.activity.IconChangeDefaultAlias",
       "com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity",
       "com.netease.cloudmusic/com.netease.cloudmusic.activity.MainActivity",
-      "com.netease.cloudmusic/com.squareup.leakcanary.internal.DisplayLeakActivity",
+      "com.netease.cloudmusic/com.netease.cloudmusic.activity.ShortcutTrampolineActivity",
       "com.netease.cloudmusic/com.startad.StartActivity"
     ],
     "collection": "new",
@@ -7192,9 +7214,11 @@
     "label": "Global Icon Pack",
     "region": "Global",
     "packages": [
-      "com.richardluo.globalIconPack"
+      "com.richardluo.globalIconPack",
+      "com.richardluo.globalIconPack.fork"
     ],
     "components": [
+      "com.richardluo.globalIconPack.fork/com.richardluo.globalIconPack.ui.MainActivity",
       "com.richardluo.globalIconPack/com.richardluo.globalIconPack.ui.MainActivity"
     ],
     "collection": "new",
@@ -7522,7 +7546,6 @@
     ],
     "components": [
       "com.ss.android.ugc.aweme.mobile/com.ss.android.ugc.aweme.splash.SplashActivity",
-      "com.ss.android.ugc.aweme/com.android.camera.CameraLauncher",
       "com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity",
       "com.ss.android.ugc.trill/com.ss.android.ugc.aweme.splash.SplashActivity",
       "com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity",
@@ -7703,7 +7726,6 @@
       "com.tencent.qqmusic"
     ],
     "components": [
-      "com.tencent.qqmusic/com.google.android.apps.youtube.music.activities.MusicActivity",
       "com.tencent.qqmusic/com.qihoo.util.StartActivity",
       "com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity"
     ],
@@ -7816,7 +7838,6 @@
       "com.termux"
     ],
     "components": [
-      "com.termux/.app.TermuxActivity",
       "com.termux/com.termux.app.TermuxActivity",
       "com.termux/com.termux.app.TermuxFailsafeActivity"
     ],
@@ -7871,9 +7892,7 @@
       "com.topjohnwu.magisk/com.topjohnwu.magisk.NoUIActivity",
       "com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity",
       "com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity",
-      "com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity#0",
       "com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity",
-      "com.topjohnwu.magisk/com.topjohnwu.magisk.ui.MainActivity#0",
       "com.topjohnwu.magisk/f.u7",
       "com.topjohnwu.magisk/iG.tSb",
       "com.topjohnwu.magisk/x.COMPONENT_PLACEHOLDER_2"
@@ -8793,7 +8812,6 @@
       "deezer.android.app/com.deezer.android.ui.activity.LauncherActivityDark",
       "deezer.android.app/com.deezer.android.ui.activity.LauncherActivityValentines",
       "deezer.android.app/com.deezer.android.ui.activity.RIzkE",
-      "deezer.android.app/com.jojoy.delegate.JojoyInstallerActivity",
       "deezer.android.app/deezer.android.app.DZMidlet",
       "deezer.android.app/dz.ApplicationScreens"
     ],
@@ -12160,6 +12178,7 @@
       "com.google.android.gm/com.google.android.gm.MailboxSelectionActivityGoogleMail",
       "com.google.android.gm/com.google.android.gm.MailboxSelectionActivitygoogle_mail",
       "com.google.android.gm/com.google.android.gm.Preference.GmailPreferenceActivity",
+      "com.google.android.gm/com.google.android.gm.ui.MailActivityGmail",
       "com.google.android.gm/com.google.android.gm.ui.MailActivityGmailSafeMode"
     ],
     "collection": "new",
@@ -12316,19 +12335,20 @@
     "components": [
       "com.android.quicksearchbox/com.android.quicksearchbox.SearchActivity",
       "com.google.android.apps.searchlite/com.google.android.googlequicksearchbox.SearchActivity",
-      "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher",
       "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.velour.DynamicActivityTrampoline",
       "com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.shortcut.AddShortcutActivity",
       "com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.shortcut.AliasAddShortcutActivity",
-      "com.google.android.googlequicksearchbox/com.google.android.apps.search.weather.entrypoints.appicon.WeatherAppIconActivity",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.GoogleSearch",
+      "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.ImplicitGoogleSearchEntrypointInternal",
+      "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.InternalGoogleAppActivityEntrypoint",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.MainActivity",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.MainInfoGatewayInternal",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity",
       "com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchPreferences",
       "com.google.android.googlequicksearchbox/com.google.android.handsfree.HandsFreeLauncherActivity",
-      "com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity"
+      "com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.search.core.google.GoogleSearch"
     ],
     "collection": "new",
     "source": "Original Sorcery artwork, optically aligned",
@@ -12423,11 +12443,15 @@
     "label": "Google Assistant",
     "region": "Global",
     "packages": [
-      "com.google.android.apps.googleassistant"
+      "com.google.android.apps.googleassistant",
+      "com.google.android.googlequicksearchbox"
     ],
     "components": [
       "com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity",
-      "com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivityV2"
+      "com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivityV2",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.assistant.handoff.AssistantHandoffActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.OpaActivity"
     ],
     "collection": "new",
     "source": "GPT image generation with public symbol and Sorcery style references",
@@ -12820,9 +12844,18 @@
     "label": "Google Lens",
     "region": "Global",
     "packages": [
+      "com.google.android.googlequicksearchbox",
       "com.google.ar.lens"
     ],
     "components": [
+      "com.google.android.googlequicksearchbox/com.google.android.apps.lens.DirectLensYoutubeActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.lens.DirectLensientActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.lens.MainActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.lens.SearchImageActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.lens.LensActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.lens.LensShareEntryPointActivity",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.lens.deeplink.LensDeeplink",
+      "com.google.android.googlequicksearchbox/com.google.android.apps.search.lens.live.deeplink.LiveActivity",
       "com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity"
     ],
     "collection": "new",
@@ -12932,8 +12965,7 @@
       "com.google.android.apps.messaging/com.google.android.apps.messaging.dittosatellite.impl.DittoWebActivity",
       "com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity",
       "com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity",
-      "com.google.android.apps.messaging/com.google.android.archive.ReactivateActivity",
-      "com.google.android.apps.messaging/com.kyant.vanilla.MainActivity"
+      "com.google.android.apps.messaging/com.google.android.archive.ReactivateActivity"
     ],
     "collection": "new",
     "source": "GPT image generation with public symbol and Sorcery style references",
@@ -13205,7 +13237,6 @@
       "com.google.android.apps.translate"
     ],
     "components": [
-      "com.google.android.apps.translate/.TranslateActivity",
       "com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity",
       "com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity"
     ],
@@ -13243,7 +13274,6 @@
       "com.google.android.videos/com.google.android.videos.activity.LauncherActivity",
       "com.google.android.videos/com.google.android.youtube.videos.EntryPoint",
       "com.google.android.videos/com.google.android.youtube.videos.EntryPointGtv",
-      "com.google.android.videos/com.google.android.youtube.videos.EntryPointGtv/com.google.android.videos.GoogleTvEntryPoint",
       "com.google.android.videos/com.google.android.youtube.videos.froyo.VideosActivity",
       "com.google.android.videos/com.google.android.youtube.videos.honeycomb.VideosActivity",
       "com.google.android.videos/com.google.android.youtube.videos.phone.VideosActivity",
@@ -14873,7 +14903,6 @@
     ],
     "components": [
       "com.aeroinsta.android/com.instagram.android.activity.MainTabActivity",
-      "com.instagram.android/.activity.MainTabActivity",
       "com.instagram.android/com.OM7753.gold.icon1",
       "com.instagram.android/com.instagram.android.InternalLauncher",
       "com.instagram.android/com.instagram.android.activity.MainTabActivity",
@@ -18604,7 +18633,6 @@
       "com.linkedin.android"
     ],
     "components": [
-      "com.linkedin.android/.authenticator.LaunchActivity",
       "com.linkedin.android/com.linkedin.android.authenticator.AATestDefaultActivityAlias",
       "com.linkedin.android/com.linkedin.android.authenticator.BackToSchoolActivityAlias",
       "com.linkedin.android/com.linkedin.android.authenticator.CarnivalFestivalActivityAlias",
@@ -19518,7 +19546,6 @@
       "mega.privacy.android.apq"
     ],
     "components": [
-      "mega.privacy.android.app/com.duapps.ad.DuAd",
       "mega.privacy.android.app/com.google.android.archive.ReactivateActivity",
       "mega.privacy.android.app/mega.privacy.android.app.LauncherActivity",
       "mega.privacy.android.app/mega.privacy.android.app.appstate.MegaActivity",
@@ -19650,12 +19677,10 @@
       "com.facebook.orca.morphe"
     ],
     "components": [
-      "com.facebook.mlite/.coreui.view.MainActivity",
       "com.facebook.mlite/com.facebook.lite.MainActivity",
       "com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity",
       "com.facebook.mlite/com.facebook.mlite.share.view.ShareActivity",
       "com.facebook.orca.morphe/com.facebook.orca.auth.StartScreenActivity",
-      "com.facebook.orca/.auth.StartScreenActivity",
       "com.facebook.orca/com.facebook.orca.MainActivity",
       "com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
     ],
@@ -20116,7 +20141,6 @@
       "com.mojang.minecraftpe/com.github.rcnkdi.adtemplate.chuanshanjia.CSJSplashAdShowActivity",
       "com.mojang.minecraftpe/com.github.rcnkdi.adtemplate.youlianghui.YLHSplashAdShowActivity",
       "com.mojang.minecraftpe/com.google.android.archive.ReactivateActivity",
-      "com.mojang.minecraftpe/com.jojoy.delegate.JojoyInstallerActivity",
       "com.mojang.minecraftpe/com.kuaiyouxi.gamepad.sdk.shell.KyxShellActivity",
       "com.mojang.minecraftpe/com.me.game.pmupdatesdk.MainActivity",
       "com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity",
@@ -23148,7 +23172,6 @@
       "com.pinterest"
     ],
     "components": [
-      "com.pinterest/.activity.PinterestActivity",
       "com.pinterest/com.google.android.archive.ReactivateActivity",
       "com.pinterest/com.pinterest.LauncherActivity",
       "com.pinterest/com.pinterest.activity.ExperimentPinterestActivity",
@@ -23880,11 +23903,11 @@
     "region": "Global",
     "packages": [
       "com.delphicoder.flud",
-      "com.delphicoder.fludd"
+      "com.delphicoder.flud.paid"
     ],
     "components": [
       "com.delphicoder.flud/com.delphicoder.flud.MainActivity",
-      "com.delphicoder.fludd/com.delphicoder.flud.MainActivity"
+      "com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity"
     ],
     "collection": "new",
     "source": "Individual GPT illustration from application purpose, verified official brand artwork and original Sorcery references",
@@ -23951,7 +23974,6 @@
       "com.quizlet.quizletandroid"
     ],
     "components": [
-      "com.quizlet.quizletandroid/com.min.n.MainActivity",
       "com.quizlet.quizletandroid/com.quizlet.quizletandroid.activities.RootActivity",
       "com.quizlet.quizletandroid/com.quizlet.quizletandroid.ui.RootActivity"
     ],
@@ -23983,7 +24005,6 @@
       "com.quora.android"
     ],
     "components": [
-      "com.quora.android/.components.activities.LauncherActivity",
       "com.quora.android/com.quora.android.LaunchFromUrlActivity",
       "com.quora.android/com.quora.android.LauncherActivity",
       "com.quora.android/com.quora.android.StartupActivity",
@@ -24496,7 +24517,6 @@
       "com.roblox.client.samsunggalaxy/com.roblox.client.startup.LauncherAliasMain",
       "com.roblox.client.vnggames/com.roblox.client.startup.ActivitySplash",
       "com.roblox.client.vnggames/com.roblox.client.startup.LauncherAliasMain",
-      "com.roblox.client/com.min.n.MainActivity",
       "com.roblox.client/com.roblox.client.ActivitySplash",
       "com.roblox.client/com.roblox.client.startup.ActivitySplash",
       "com.roblox.client/com.roblox.client.startup.LauncherAliasMain"
@@ -25676,7 +25696,6 @@
       "com.snapchat.android"
     ],
     "components": [
-      "com.snapchat.android/.LandingPageActivity",
       "com.snapchat.android/com.google.android.archive.ReactivateActivity",
       "com.snapchat.android/com.snap.mushroom.MushroomMainActivity",
       "com.snapchat.android/com.snapchat.android.AiWaveAlias",
@@ -25890,14 +25909,10 @@
     "label": "SoundCloud",
     "region": "Global",
     "packages": [
-      "com.apple.android.music",
-      "com.luna.music",
       "com.soundcloud.android",
       "com.soundcloud.android.revanced"
     ],
     "components": [
-      "com.apple.android.music/com.soundcloud.android.launcher.LauncherActivity",
-      "com.luna.music/com.soundcloud.android.launcher.LauncherActivity",
       "com.soundcloud.android.revanced/com.soundcloud.android.launcher.LauncherActivity",
       "com.soundcloud.android/com.google.android.archive.ReactivateActivity",
       "com.soundcloud.android/com.soundcloud.android.activity.Dashboard",
@@ -26093,9 +26108,7 @@
     ],
     "components": [
       "com.spotify.music.revanced/com.spotify.music.MainActivity",
-      "com.spotify.music/com.duapps.ad.DuAd",
       "com.spotify.music/com.google.android.archive.ReactivateActivity",
-      "com.spotify.music/com.jojoy.delegate.JojoyInstallerActivity",
       "com.spotify.music/com.music.spotui.MainActivity",
       "com.spotify.music/com.pollock_roe.AppOpenAdActivity",
       "com.spotify.music/com.spotify.login.loginflowimpl.LoginActivity",
@@ -27233,7 +27246,6 @@
       "org.telegram.messenger.web/org.telegram.ui.LaunchActivity",
       "org.telegram.messenger/com.exteragram.messenger.AyuGramSpotify",
       "org.telegram.messenger/com.google.android.archive.ReactivateActivity",
-      "org.telegram.messenger/com.min.n.MainActivity",
       "org.telegram.messenger/org.telegram.messenger.AquaIcon",
       "org.telegram.messenger/org.telegram.messenger.CloudIcon",
       "org.telegram.messenger/org.telegram.messenger.DarkIcon",
@@ -29541,28 +29553,9 @@
     "label": "ВКонтакте ~~ VK",
     "region": "Global",
     "packages": [
-      "com.uma.musicvk",
-      "com.vk.clips",
-      "com.vk.im",
-      "com.vk.love",
-      "com.vk.mail",
-      "com.vk.vkvideo",
       "com.vkontakte.android"
     ],
     "components": [
-      "com.uma.musicvk/com.vk.music.screens.main.MainActivity",
-      "com.uma.musicvk/ru.mail.moosic.ui.main.MainActivity",
-      "com.vk.clips/com.vk.clips.settings.icons.ClipsIconAlias.DefaultIcon",
-      "com.vk.im/com.vk.im.ui.MainActivity",
-      "com.vk.im/com.vk.im.ui.settings.icons.ImIconAlias.DefaultIcon",
-      "com.vk.im/com.vk.im.ui.settings.icons.ImIconAlias.EventIcon1",
-      "com.vk.im/com.vk.im.ui.settings.icons.ImIconAlias.StaticIcon2",
-      "com.vk.im/com.vk.im.ui.settings.icons.ImIconAlias.StaticIcon3",
-      "com.vk.im/com.vk.im.ui.settings.icons.ImIconAlias.StaticIcon4",
-      "com.vk.love/com.vk.standalone.base.ui.activities.MainMiniAppActivity",
-      "com.vk.mail/ru.mail.gamification.alias.MailLauncherAlias",
-      "com.vk.mail/ru.mail.mailapp.SplashScreenActivity",
-      "com.vk.vkvideo/com.vk.video.screens.main.MainActivity",
       "com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.DefaultIcon",
       "com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.EventIcon3",
       "com.vkontakte.android/com.vk.android.launcher.icons.IconAlias.EventIcon7",
@@ -31043,7 +31036,6 @@
       "app.morphe.android.youtube/app.morphe.android.youtube.morphe_play_black_1",
       "app.morphe.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity",
       "com.gbox.com.google.android.youtube/com.gbox.app.LaunchAppActivity",
-      "com.google.android.youtube/.app.honeycomb.Shell$HomeActivity",
       "com.google.android.youtube/com.google.android.youtube.HomeActivity",
       "com.google.android.youtube/com.google.android.youtube.HomePage",
       "com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity",
@@ -31087,8 +31079,7 @@
     "components": [
       "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.activities.SplashScreenActivity",
       "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.browse.SplashScreenActivity",
-      "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity",
-      "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.music.activities.MusicActivity"
+      "com.google.android.apps.youtube.kids/com.google.android.apps.youtube.kids.splash.SplashScreenActivity"
     ],
     "collection": "new",
     "source": "GPT image generation with public symbol and Sorcery style references",
@@ -31122,7 +31113,6 @@
       "app.revanced.android.apps.youtube.music",
       "com.android.youtube.music.premium",
       "com.google.android.apps.youtube.music",
-      "com.google.android.music",
       "com.morphe.youtube.music",
       "ytm.morphe.noname.exe"
     ],
@@ -31143,8 +31133,6 @@
       "com.android.youtube.music.premium/com.google.android.apps.youtube.music.activities.MusicActivity",
       "com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity",
       "com.google.android.apps.youtube.music/com.google.android.archive.ReactivateActivity",
-      "com.google.android.music/com.android.music.activitymanagement.TopLevelActivity",
-      "com.google.android.music/com.google.android.music.tombstone.LauncherActivity",
       "com.morphe.youtube.music/com.morphe.youtube.music.morphe_original_1",
       "ytm.morphe.noname.exe/ytm.morphe.noname.exe.morphe_original_1"
     ],
@@ -31176,7 +31164,6 @@
       "com.google.android.apps.youtube.creator"
     ],
     "components": [
-      "com.google.android.apps.youtube.creator/.main.MainActivity",
       "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.activities.SplashActivity",
       "com.google.android.apps.youtube.creator/com.google.android.apps.youtube.creator.main.MainActivity"
     ],

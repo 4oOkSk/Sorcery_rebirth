@@ -3,7 +3,9 @@ package io.github.user4ooksk.sorceryrebirth;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -16,7 +18,6 @@ import android.text.TextWatcher;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowInsets;
 import android.widget.BaseAdapter;
 import android.widget.Button;
 import android.widget.EditText;
@@ -24,8 +25,11 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+import android.widget.Toast;
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Locale;
 
@@ -41,9 +45,11 @@ public final class MainActivity extends Activity {
 
     private static final class Entry {
         final String id, label, region, searchable;
-        Entry(String[] fields) {
+        final int resource;
+        Entry(String[] fields, int resource) {
             id = fields[0]; label = fields[1]; region = fields[2];
             searchable = String.join(" ", fields).toLowerCase(Locale.ROOT);
+            this.resource = resource;
         }
     }
 
@@ -55,10 +61,15 @@ public final class MainActivity extends Activity {
         getWindow().setStatusBarColor(Color.rgb(244, 240, 232));
         getWindow().setNavigationBarColor(Color.rgb(244, 240, 232));
         getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR | View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR);
-        try (BufferedReader reader = new BufferedReader(new InputStreamReader(getAssets().open("catalog.tsv"), "UTF-8"))) {
+        try (BufferedReader reader = new BufferedReader(new InputStreamReader(getAssets().open("catalog.tsv"), StandardCharsets.UTF_8))) {
             String line;
-            while ((line = reader.readLine()) != null) all.add(new Entry(line.split("\t", -1)));
-        } catch (Exception error) {
+            while ((line = reader.readLine()) != null) {
+                String[] fields = line.split("\t", -1);
+                if (fields.length != 4 || fields[0].isEmpty() || fields[1].isEmpty() || fields[2].isEmpty()) continue;
+                int resource = getResources().getIdentifier(fields[0], "drawable", getPackageName());
+                if (resource != 0) all.add(new Entry(fields, resource));
+            }
+        } catch (IOException error) {
             throw new IllegalStateException("Cannot load icon catalog", error);
         }
         LinearLayout page = new LinearLayout(this);
@@ -104,10 +115,28 @@ public final class MainActivity extends Activity {
             apply.setOnClickListener(view -> new AlertDialog.Builder(this).setTitle("Apply icon pack").setMessage("Choose Sorcery_rebirth in your launcher's icon pack settings, or select it in Global Icon Pack.\n\n在桌面或 Global Icon Pack 的图标包设置中选择 Sorcery_rebirth。\n\nランチャーのアイコンパック設定で Sorcery_rebirth を選んでください。").setPositiveButton("OK", null).show());
             footer.addView(apply, new LinearLayout.LayoutParams(0, dp(48), 1));
             Button about = new Button(this); about.setText("About / 源码"); about.setAllCaps(false);
-            about.setOnClickListener(view -> new AlertDialog.Builder(this).setTitle("Sorcery_rebirth 1.0.2").setMessage("Copyright 2026 4oOkSk\nOriginal Sorcery artwork © sorcererxw and contributors.\nCode and original Sorcery artwork: GPL-2.0, without warranty. Individual artwork sources and licenses are recorded in the catalog.\n\nRebirth artwork combines GPT illustrations and adaptations of public application marks. Style: original Sorcery. Symbol references: Simple Icons (CC0 subset), public app stores and upstream projects. Brand marks belong to their respective owners. The F-Droid artwork retains CC-BY-SA-3.0.\n\nSource artwork and license notices accompany every release.").setPositiveButton("Source & licenses", (dialog, which) -> startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/4oOkSk/Sorcery_rebirth")))).setNegativeButton("Close", null).show());
+            about.setOnClickListener(view -> new AlertDialog.Builder(this).setTitle(aboutTitle()).setMessage("Copyright 2026 4oOkSk\nOriginal Sorcery artwork © sorcererxw and contributors.\nCode and original Sorcery artwork: GPL-2.0, without warranty. Individual artwork sources and licenses are recorded in the catalog.\n\nRebirth artwork combines GPT illustrations and adaptations of public application marks. Style: original Sorcery. Symbol references: Simple Icons (CC0 subset), public app stores and upstream projects. Brand marks belong to their respective owners. The F-Droid artwork retains CC-BY-SA-3.0.\n\nSource artwork and license notices accompany every release.").setPositiveButton("Source & licenses", (dialog, which) -> openSource()).setNegativeButton("Close", null).show());
             footer.addView(about, new LinearLayout.LayoutParams(0, dp(48), 1)); page.addView(footer);
         }
         setContentView(page); filter();
+    }
+
+    private String aboutTitle() {
+        try {
+            String version = getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
+            if (version != null && !version.isEmpty()) return "Sorcery_rebirth " + version;
+        } catch (PackageManager.NameNotFoundException ignored) {
+            // The app name still identifies the pack if version metadata is unavailable.
+        }
+        return "Sorcery_rebirth";
+    }
+
+    private void openSource() {
+        try {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/4oOkSk/Sorcery_rebirth")));
+        } catch (ActivityNotFoundException error) {
+            Toast.makeText(this, "A browser is required to open the source link.", Toast.LENGTH_SHORT).show();
+        }
     }
 
     private void filter() {
@@ -121,11 +150,12 @@ public final class MainActivity extends Activity {
     }
 
     private void select(Entry entry) {
-        int resource = getResources().getIdentifier(entry.id, "drawable", getPackageName());
+        int resource = entry.resource;
         if (picking) {
             Intent result = new Intent();
             result.putExtra(Intent.EXTRA_SHORTCUT_ICON_RESOURCE, Intent.ShortcutIconResource.fromContext(this, resource));
             Drawable drawable = getDrawable(resource);
+            if (drawable == null) return;
             Bitmap bitmap = Bitmap.createBitmap(192, 192, Bitmap.Config.ARGB_8888);
             drawable.setBounds(0, 0, 192, 192); drawable.draw(new Canvas(bitmap));
             result.putExtra(Intent.EXTRA_SHORTCUT_ICON, bitmap); setResult(RESULT_OK, result); finish();
@@ -151,8 +181,7 @@ public final class MainActivity extends Activity {
                 label.setTextColor(Color.rgb(38, 53, 47)); tile.addView(label, new LinearLayout.LayoutParams(-1, dp(34)));
             } else tile = (LinearLayout) recycled;
             Entry entry = shown.get(position);
-            int resource = getResources().getIdentifier(entry.id, "drawable", getPackageName());
-            ((ImageView) tile.getChildAt(0)).setImageResource(resource);
+            ((ImageView) tile.getChildAt(0)).setImageResource(entry.resource);
             ((TextView) tile.getChildAt(1)).setText(entry.label);
             tile.setContentDescription(entry.label + " · " + entry.id);
             return tile;

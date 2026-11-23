@@ -12,7 +12,7 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-VERSION = json.loads((ROOT / 'version.json').read_text())
+VERSION = json.loads((ROOT / 'version.json').read_text(encoding='utf-8'))
 parser = argparse.ArgumentParser()
 parser.add_argument('--sdk', default=os.environ.get('ANDROID_HOME') or os.environ.get('ANDROID_SDK_ROOT'))
 parser.add_argument('--jobs', type=int, default=4)
@@ -21,7 +21,14 @@ parser.add_argument('--alias', default='sorcery')
 args = parser.parse_args()
 if not args.sdk:
     parser.error('Provide --sdk or set ANDROID_HOME')
-sdk = Path(args.sdk)
+sdk = Path(args.sdk).expanduser().resolve()
+keystore = args.keystore
+if keystore is not None:
+    keystore = keystore.expanduser().resolve()
+    if not keystore.is_file():
+        parser.error('Release keystore does not exist: ' + str(keystore))
+    if not os.environ.get('SORCERY_STORE_PASSWORD'):
+        parser.error('Set SORCERY_STORE_PASSWORD for the release keystore')
 tools = sdk / 'build-tools/37.0.0'
 android = sdk / 'platforms/android-35/android.jar'
 for executable in ['javac', 'keytool', 'rsvg-convert']:
@@ -64,7 +71,7 @@ def render(source):
 
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=max(1, args.jobs)) as executor:
-    catalog = json.loads((ROOT / 'catalog/icons.json').read_text())
+    catalog = json.loads((ROOT / 'catalog/icons.json').read_text(encoding='utf-8'))
     sources = [ROOT / 'artwork/icons' / (item['id'] + '.' + item.get('format', 'svg')) for item in catalog]
     list(executor.map(render, sources))
 # The app mark is a small tree cut from paper, distinct from app brand logos.
@@ -89,7 +96,6 @@ with zipfile.ZipFile(unsigned, 'a', zipfile.ZIP_DEFLATED) as apk:
         apk.write(dex, dex.name)
 run([tools / 'zipalign', '-f', '-p', '4', unsigned, build / 'aligned.apk'])
 
-keystore = args.keystore
 if keystore is None:
     keystore = ROOT / '.local/debug.p12'
     keystore.parent.mkdir(exist_ok=True)
@@ -99,8 +105,6 @@ if keystore is None:
              '-storepass:env', 'SORCERY_STORE_PASSWORD', '-keypass:env', 'SORCERY_STORE_PASSWORD',
              '-alias', args.alias, '-keyalg', 'RSA', '-keysize', '3072', '-validity', '10000',
              '-dname', 'CN=Sorcery Rebirth Development'])
-if not os.environ.get('SORCERY_STORE_PASSWORD'):
-    parser.error('Set SORCERY_STORE_PASSWORD for the release keystore')
 dist = ROOT / 'dist'
 dist.mkdir(exist_ok=True)
 output = dist / ('Sorcery_rebirth-' + VERSION['name'] + '.apk')

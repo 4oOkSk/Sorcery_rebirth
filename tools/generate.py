@@ -1,17 +1,18 @@
 #!/usr/bin/env python3
 """Generate launcher metadata and a gallery for the catalog's source artwork."""
 import copy
-import hashlib
 import html
 import json
-import re
 import xml.etree.ElementTree as ET
 from pathlib import Path
+
+from appfilter import COMPONENT_PREFIX, PACKAGE_DEFAULTS, catalog_mappings, normalize_component
 
 ROOT = Path(__file__).resolve().parents[1]
 NS = 'http://www.w3.org/2000/svg'
 ET.register_namespace('', NS)
-CATALOG = json.loads((ROOT / 'catalog/icons.json').read_text())
+CATALOG = json.loads((ROOT / 'catalog/icons.json').read_text(encoding='utf-8'))
+OVERRIDES, PACKAGE_ICONS = catalog_mappings(CATALOG)
 CUSTOM = ET.parse(ROOT / 'artwork/custom.svg').getroot() if (ROOT / 'artwork/custom.svg').exists() else ET.Element('svg')
 for generated in (ROOT / 'artwork/icons').glob('rebirth_*.svg'):
     if generated.stem not in {item['id'] for item in CATALOG if item.get('format', 'svg') == 'svg'}:
@@ -68,45 +69,99 @@ for item in CATALOG:
 '''
     (ROOT / 'artwork/icons' / (item['id'] + '.svg')).write_text(svg)
 
+
+# Compatibility fixes for the preserved Sorcery source XML.
+ORIGINAL_COMPONENT_FIXES = {
+    'ComponentInfo{com.Latour.Maestria/com.unity3d.player.UnityPlayerNativeActivity}'
+    'com.Latour.Maestria/com.unity3d.player.UnityPlayerNativeActivit}':
+        'ComponentInfo{com.Latour.Maestria/com.unity3d.player.UnityPlayerNativeActivity}',
+}
+ORIGINAL_DRAWABLE_FIXES = {
+    'com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity': 'oneplus_dialer',
+}
+ORIGINAL_PACKAGE_DEFAULTS = {
+    'com.android.gallery3d': 'gallery',
+    'com.android.providers.downloads': 'download',
+    'com.android.soundrecorder': 'sound_recorder',
+}
+ORIGINAL_ALIASES = {
+    'cn.wps.moffice_eng/cn.wps.moffice.documentmanager.ab.proxy.main': 'wps',
+    'com.android.providers.downloads.ui/com.android.providers.downloads.ui.TrampolineActivity': 'download',
+    'com.google.android.documentsui/com.android.documentsui.LauncherActivity': 'download',
+    'com.google.android.documentsui/com.android.documentsui.files.FilesActivity': 'download',
+    'com.google.android.music/com.google.android.music.tombstone.LauncherActivity': 'google_play_music',
+    'com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity': 'tencent_qq_mail',
+    'jp.dominos.android.orderapp/com.arizona.MainActivity': 'domino_pizza',
+    'org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity': 'ookla_speedtest',
+}
+
+
+def add_mapping(root, tag, component, attribute, drawable):
+    if not component.startswith(':'):
+        component = f'{COMPONENT_PREFIX}{component}}}'
+    ET.SubElement(root, tag, {'component': component, attribute: drawable})
+
+
+def appfilter(original, original_names):
+    root = ET.Element('resources')
+    for tag, attributes in [
+        ('iconback', {'img1': 'rebirth_fallback_back'}),
+        ('iconmask', {'img1': 'rebirth_fallback_mask'}),
+        ('iconupon', {'img1': 'rebirth_fallback_upon'}),
+        ('scale', {'factor': '0.70'}),
+    ]:
+        ET.SubElement(root, tag, attributes)
+
+    # Global Icon Pack protects calendar entries and uses the first entry for
+    # each package as its default. Keep the first prefix for identical OEM keys.
+    calendars = set()
+    for item in original.findall('calendar'):
+        component = normalize_component(item.attrib['component'], from_xml=True)
+        prefix = item.attrib['prefix']
+        if not prefix or not all(f'{prefix}{day}' in original_names for day in range(1, 32)):
+            raise ValueError(f'Missing calendar resources for {component}: {prefix!r}')
+        if component not in calendars:
+            add_mapping(root, 'calendar', component, 'prefix', prefix)
+            calendars.add(component)
+
+    def rebirth_order(component):
+        package = component.split('/')[0]
+        return package, OVERRIDES[component] != PACKAGE_DEFAULTS.get(package), component
+
+    for component in sorted(OVERRIDES, key=rebirth_order):
+        add_mapping(root, 'item', component, 'drawable', OVERRIDES[component])
+
+    legacy = {}
+    for item in original.findall('item'):
+        raw = item.attrib['component']
+        component = normalize_component(ORIGINAL_COMPONENT_FIXES.get(raw, raw), from_xml=True, allow_action=True)
+        drawable = item.attrib['drawable']
+        if drawable == 'contracts':
+            drawable = 'contacts'
+        legacy.setdefault(component, ORIGINAL_DRAWABLE_FIXES.get(component, drawable))
+    legacy.update({normalize_component(component): drawable for component, drawable in ORIGINAL_ALIASES.items()})
+
+    def legacy_order(component):
+        package = component.split('/')[0]
+        return legacy[component] != ORIGINAL_PACKAGE_DEFAULTS.get(package)
+
+    for component in sorted(legacy, key=legacy_order):
+        if component in OVERRIDES:
+            continue
+        drawable = legacy[component]
+        if drawable not in original_names:
+            raise ValueError(f'Missing original drawable for {component}: {drawable!r}')
+        package = component.split('/')[0]
+        owners = PACKAGE_ICONS.get(package, ())
+        if len(owners) == 1:
+            drawable = next(iter(owners))
+        add_mapping(root, 'item', component, 'drawable', drawable)
+    return root
+
+
 all_png = {x.stem for x in (ROOT / 'artwork/original').glob('*.png')}
 new_names = {x['id'] for x in CATALOG}
-root = ET.Element('resources')
-for tag, attributes in [
-    ('iconback', {'img1': 'rebirth_fallback_back'}),
-    ('iconmask', {'img1': 'rebirth_fallback_mask'}),
-    ('iconupon', {'img1': 'rebirth_fallback_upon'}),
-    ('scale', {'factor': '0.70'}),
-]:
-    ET.SubElement(root, tag, attributes)
-overrides = {component: item['id'] for item in CATALOG for component in item['components']}
-seen_items = set()
-seen_calendars = set()
-for item in ET.parse(ROOT / 'catalog/original-appfilter.xml').getroot():
-    if item.tag not in ('item', 'calendar'):
-        continue
-    component = item.get('component', '')
-    plain = component.removeprefix('ComponentInfo{').removesuffix('}')
-    if item.tag == 'calendar':
-        prefix = item.get('prefix', '')
-        if not component or component in seen_calendars:
-            continue
-        if not prefix or not all(f'{prefix}{day}' in all_png for day in range(1, 32)):
-            continue
-        root.append(copy.deepcopy(item))
-        seen_calendars.add(component)
-        continue
-    if plain in overrides or component in seen_items:
-        continue
-    drawable = item.get('drawable', '')
-    if drawable == 'contracts':
-        item.set('drawable', 'contacts')
-        drawable = 'contacts'
-    if drawable and drawable not in all_png:
-        raise ValueError('Missing original drawable: ' + drawable)
-    root.append(copy.deepcopy(item))
-    seen_items.add(component)
-for component, drawable in sorted(overrides.items()):
-    ET.SubElement(root, 'item', dict(component='ComponentInfo{' + component + '}', drawable=drawable))
+root = appfilter(ET.parse(ROOT / 'catalog/original-appfilter.xml').getroot(), all_png)
 ET.indent(root)
 filter_data = ET.tostring(root, encoding='utf-8', xml_declaration=True)
 (ROOT / 'app/res/xml/appfilter.xml').write_bytes(filter_data)
@@ -130,8 +185,8 @@ for name in sorted(all_png):
     gallery.append(dict(label=name.replace('_', ' '), region='Original', collection='original',
                         id=name, packages=[], source='../artwork/original/' + name + '.png'))
 data = json.dumps(gallery, ensure_ascii=False).replace('</', '<\\/')
-template = (ROOT / 'docs/gallery.template.html').read_text()
-(ROOT / 'docs/gallery.html').write_text(template.replace('/*CATALOG*/[]', data))
+template = (ROOT / 'docs/gallery.template.html').read_text(encoding='utf-8')
+(ROOT / 'docs/gallery.html').write_text(template.replace('/*CATALOG*/[]', data), encoding='utf-8')
 
 # Dashboard list is a simple TSV, allowing Android's standard resource loader
 # to discover the same generated PNGs used by launchers.
@@ -139,7 +194,7 @@ assets = ROOT / 'app/assets'
 assets.mkdir(exist_ok=True)
 rows = [(x['id'], x['label'].replace('\t', ' '), x['region'], ' '.join(x['packages'])) for x in CATALOG]
 rows.extend((name, name.replace('_', ' '), 'Original', '') for name in sorted(all_png))
-(assets / 'catalog.tsv').write_text('\n'.join('\t'.join(row) for row in rows) + '\n')
+(assets / 'catalog.tsv').write_text('\n'.join('\t'.join(row) for row in rows) + '\n', encoding='utf-8')
 for name in ['appfilter.xml', 'drawable.xml']:
     (assets / name).write_bytes((ROOT / 'app/res/xml' / name).read_bytes())
 

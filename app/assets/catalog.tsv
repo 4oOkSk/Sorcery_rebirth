@@ -123,7 +123,7 @@ rebirth_com_android_bankabc	中国农业银行	CN	com.android.bankabc
 rebirth_com_anytimefitness_userapp	AF App	Global	com.anytimefitness.userapp
 rebirth_com_autonavi_minimap	高德地图	CN	com.autonavi.minimap
 rebirth_com_baidu_baidumap	百度地图	CN	com.baidu.BaiduMap
-rebirth_com_baidu_netdisk	百度网盘	CN	com.baidu.netdisk
+rebirth_com_baidu_netdisk	百度网盘	CN	com.baidu.netdisk com.baidu.netdisk.samsung
 rebirth_com_baidu_tieba	百度贴吧	CN	com.baidu.tieba
 rebirth_com_biccamera_android_mobile	ビックカメラ	JP	com.biccamera.android.mobile
 rebirth_com_cainiao_wireless	菜鸟	CN	com.cainiao.wireless
@@ -146,11 +146,11 @@ rebirth_com_flightradar24free	Flightradar24	Global	com.flightradar24free
 rebirth_com_fujifilm_fb_netprint_kantan	かんたんnetprint	JP	com.fujifilm.fb.netprint.kantan
 rebirth_com_fusionmedia_investing	Investing.com	Global	com.fusionmedia.investing
 rebirth_com_github_zly2006_zhplus_lite	知乎 · Zhihu	CN	com.github.zly2006.zhplus.lite com.zhihu.android
-rebirth_com_google_android_apps_bard	Gemini	Global	com.google.android.apps.bard
+rebirth_com_google_android_apps_bard	Gemini	Global	com.google.android.apps.bard com.google.android.googlequicksearchbox
 rebirth_com_google_android_apps_classroom	Classroom	Global	com.google.android.apps.classroom
 rebirth_com_google_android_apps_nbu_files	Files	Global	com.google.android.apps.nbu.files
 rebirth_com_google_android_apps_safetyhub	Safety	Global	com.google.android.apps.safetyhub
-rebirth_com_google_android_apps_weather	Weather	Global	com.google.android.apps.weather
+rebirth_com_google_android_apps_weather	Weather	Global	com.google.android.apps.weather com.google.android.googlequicksearchbox
 rebirth_com_greenpoint_android_mc10086_activity	中国移动	CN	com.greenpoint.android.mc10086.activity
 rebirth_com_hpbr_bosszhipin	BOSS直聘	CN	com.hpbr.bosszhipin
 rebirth_com_htinns	华住会	CN	com.htinns
@@ -164,7 +164,7 @@ rebirth_com_kugou_android	酷狗音乐	CN	com.kugou.android
 rebirth_com_kurashiru	クラシル	JP	com.kurashiru
 rebirth_com_limebike	Lime	Global	com.limebike
 rebirth_com_lucky_luckyclient	瑞幸咖啡	CN	com.lucky.luckyclient
-rebirth_com_mi_health	Mi Fitness	Global	com.mi.health
+rebirth_com_mi_health	Mi Fitness	Global	com.mi.health com.xiaomi.wearable
 rebirth_com_mihoyo_hoyolab	HoYoLAB	CN	com.mihoyo.hoyolab
 rebirth_com_mihoyo_hyperion	米游社	CN	com.mihoyo.hyperion
 rebirth_com_miui_calculator	小米计算器	CN	com.miui.calculator
@@ -185,7 +185,7 @@ rebirth_com_qiyi_video	爱奇艺	CN	com.qiyi.video
 rebirth_com_qtrun_quicktest	Network Signal Guru	Global	com.qtrun.QuickTest
 rebirth_com_quark_browser	夸克	CN	com.quark.browser
 rebirth_com_reddit_frontpage	Reddit	Global	com.reddit.frontpage com.reddit.frontpage.rvx
-rebirth_com_richardluo_globaliconpack	Global Icon Pack	Global	com.richardluo.globalIconPack
+rebirth_com_richardluo_globaliconpack	Global Icon Pack	Global	com.richardluo.globalIconPack com.richardluo.globalIconPack.fork
 rebirth_com_rosan_installer_x_revived	InstallerX Revived	Global	com.rosan.installer.x.revived
 rebirth_com_sankuai_meituan_takeoutnew	美团外卖	CN	com.sankuai.meituan.takeoutnew
 rebirth_com_sdu_didi_psnger	滴滴出行	CN	com.sdu.didi.psnger
@@ -319,7 +319,7 @@ rebirth_goodreads	Goodreads	Global	com.goodreads
 rebirth_google	Google	Global	com.android.quicksearchbox com.google.android.apps.searchlite com.google.android.googlequicksearchbox
 rebirth_googleads	Google Ads	Global	com.google.android.apps.adwords
 rebirth_googleanalytics	Google Analytics	Global	com.google.android.apps.giant
-rebirth_googleassistant	Google Assistant	Global	com.google.android.apps.googleassistant
+rebirth_googleassistant	Google Assistant	Global	com.google.android.apps.googleassistant com.google.android.googlequicksearchbox
 rebirth_googleauthenticator	Google Authenticator	Global	com.google.android.apps.authenticator2
 rebirth_googlecalendar	Google Calendar	Global	com.google.android.calendar
 rebirth_googlechat	Google Chat	Global	com.google.android.apps.dynamite com.google.android.talk
@@ -331,7 +331,7 @@ rebirth_googleearth	Google Earth	Global	com.google.earth
 rebirth_googlefit	Google Fit	Global	com.google.android.apps.fitness
 rebirth_googlehome	Google Home	Global	com.google.android.apps.chromecast.app
 rebirth_googlekeep	Google Keep	Global	com.google.android.keep
-rebirth_googlelens	Google Lens	Global	com.google.ar.lens
+rebirth_googlelens	Google Lens	Global	com.google.android.googlequicksearchbox com.google.ar.lens
 rebirth_googlemaps	Google Maps	Global	com.google.android.apps.maps
 rebirth_googlemeet	Google Meet	Global	com.google.android.apps.meetings com.google.android.apps.tachyon
 rebirth_googlemessages	Google Messages	Global	com.google.android.apps.messaging
@@ -608,7 +608,7 @@ rebirth_pubg	PUBG	CN	com.pubg.krmobile com.rekoo.pubgm com.tencent.ig com.tencen
 rebirth_pushbullet	Pushbullet	Global	com.pushbullet.android
 rebirth_qantas	Qantas	Global	au.com.qantas.qantas
 rebirth_qatarairways	Qatar Airways	Global	com.m.qr
-rebirth_qbittorrent	Flud	Global	com.delphicoder.flud com.delphicoder.fludd
+rebirth_qbittorrent	Flud	Global	com.delphicoder.flud com.delphicoder.flud.paid
 rebirth_qq	QQ	CN	com.tencent.mobileqq
 rebirth_quizlet	Quizlet	Global	com.quizlet.quizletandroid
 rebirth_quora	Quora	Global	com.quora.android
@@ -656,7 +656,7 @@ rebirth_sololearn	Sololearn	Global	com.sololearn
 rebirth_sonarr	Sonarr	Global	org.chromium.webapk.aa95d741c670a63fb_v2
 rebirth_songkick	Songkick	Global	com.songkick
 rebirth_sonos	Sonos	Global	com.sonos.acr com.sonos.acr2
-rebirth_soundcloud	SoundCloud	Global	com.apple.android.music com.luna.music com.soundcloud.android com.soundcloud.android.revanced
+rebirth_soundcloud	SoundCloud	Global	com.soundcloud.android com.soundcloud.android.revanced
 rebirth_southwestairlines	Southwest Airlines	Global	com.southwestairlines.mobile
 rebirth_sparkasse	Sparkasse	Global	com.starfinanz.smob.android.sfinanzstatus
 rebirth_speedtest	nPerf	Global	com.nperf.tester
@@ -743,7 +743,7 @@ rebirth_vinted	Vinted	Global	fr.vinted
 rebirth_virustotal	VirusTotal	Global	com.funnycat.virustotal
 rebirth_vivino	Vivino	Global	vivino.web.app
 rebirth_vivo	Vivo	Global	br.com.vivo
-rebirth_vk	ВКонтакте ~~ VK	Global	com.uma.musicvk com.vk.clips com.vk.im com.vk.love com.vk.mail com.vk.vkvideo com.vkontakte.android
+rebirth_vk	ВКонтакте ~~ VK	Global	com.vkontakte.android
 rebirth_vodafone	Vodafone	Global	com.vodafone.selfservis
 rebirth_volkswagen	Volkswagen	Global	com.volkswagen.weconnect
 rebirth_vrchat	VRChat	Global	com.vrchat.mobile.playstore
@@ -779,7 +779,7 @@ rebirth_xiaohongshu	小红书 ~~ Xiaohongshu	CN	com.xingin.xhs
 rebirth_yelp	Yelp	Global	com.yelp.android
 rebirth_youtube	YouTube	Global	anddea.youtube app.morphe.android.youtube com.gbox.com.google.android.youtube com.google.android.youtube com.morphe.youtube com.rve.android.youtube com.rvx.android.youtube
 rebirth_youtubekids	YouTube Kids	Global	com.google.android.apps.youtube.kids
-rebirth_youtubemusic	YouTube Music	Global	anddea.yrf.tube.music app.morphe.android.apps.youtube.music app.revanced.android.apps.youtube.music com.android.youtube.music.premium com.google.android.apps.youtube.music com.google.android.music com.morphe.youtube.music ytm.morphe.noname.exe
+rebirth_youtubemusic	YouTube Music	Global	anddea.yrf.tube.music app.morphe.android.apps.youtube.music app.revanced.android.apps.youtube.music com.android.youtube.music.premium com.google.android.apps.youtube.music com.morphe.youtube.music ytm.morphe.noname.exe
 rebirth_youtubestudio	YouTube Studio	Global	com.google.android.apps.youtube.creator
 rebirth_youtubetv	YouTube TV	Global	com.google.android.apps.youtube.unplugged com.google.android.youtube.tvunplugged
 rebirth_yr	Yr	Global	no.nrk.yr
